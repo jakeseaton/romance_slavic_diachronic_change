@@ -1,0 +1,3419 @@
+_	aaeer		m	3	15	4	f
+------	--a---	--ai--	--e--r	------	nomsg	------	e----	---us
+------	--a---	--ai--	--e---	r-i--s	gensg	---i-s	ii-us	ii---
+------	--a---	--ai--	--e---	r-e--m	accsg	---e-m	---um	---um
+------	--a---	--ai--	--e---	r-e--s	nompl	---e-s	ii---	ii---
+------	--a---	--ai--	--e---	r-u--m	genpl	---u-m	oorum	oorum
+------	--a---	--ai--	--e---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	aarea		f	4	10	4	m
+------	--aa--	r-e---	--a---	------	nomsg	---a--	a----	a----
+------	--aa--	r-e---	--ai--	------	gensg	---ai-	ii-us	ai---
+------	--aa--	r-e---	--a--m	------	accsg	---a-m	a---m	a---m
+------	--aa--	r-e---	--ai--	------	nompl	---ai-	ai---	ai---
+------	--aa--	r-e---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	--aa--	r-e---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	aatrium		n	3	8 	3	b
+------	--aa--	tri---	--u--m	------	nomsg	---u-m	---ud	---um
+------	--aa--	tri---	--i---	------	gensg	---ii-	ii-us	ii---
+------	--aa--	tri---	--u--m	------	accsg	---u-m	---ud	---um
+------	--aa--	tri---	--a---	------	nompl	---a--	a----	a----
+------	--aa--	tri---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--aa--	tri---	--a---	------	accpl	---a--	a----	a----
+_	absinthium	n	2	2 	1	b
+--a--b	s-i--n	t-i---	--u--m	------	nomsg	---u-m	---ud	---um
+--a--b	s-i--n	t-i---	--i---	------	gensg	---ii-	ii-us	ii---
+--a--b	s-i--n	t-i---	--u--m	------	accsg	---u-m	---ud	---um
+--a--b	s-i--n	t-i---	--a---	------	nompl	---a--	a----	a----
+--a--b	s-i--n	t-i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+--a--b	s-i--n	t-i---	--a---	------	accpl	---a--	a----	a----
+_	abyssus		f	2	2 	1	b
+------	--a---	b-i--s	s-u--s	------	nomsg	---u-s	a----	a----
+------	--a---	b-i--s	s-ii--	------	gensg	---ii-	ii-us	ai---
+------	--a---	b-i--s	s-u--m	------	accsg	---u-m	a---m	a---m
+------	--a---	b-i--s	s-ii--	------	nompl	---ii-	ai---	ai---
+------	--a---	b-i--s	s-oo--	r-u--m	genpl	ooru-m	aarum	aarum
+------	--a---	b-i--s	s-oo-s	------	accpl	---oos	aa--s	aa--s
+_	aceetum		n	2	2 	1	m
+------	--a---	k-ee--	t-u--m	------	nomsg	---u-m	---ud	---um
+------	--a---	k-ee--	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	--a---	k-ee--	t-u--m	------	accsg	---u-m	---ud	---um
+------	--a---	k-ee--	t-a---	------	nompl	---a--	a----	a----
+------	--a---	k-ee--	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--a---	k-ee--	t-a---	------	accpl	---a--	a----	a----
+_	ador		n	2	2 	1	b
+------	------	--a---	d-o--r	------	nomsg	------	---ud	---um
+------	------	--a---	d-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	--a---	d-o--r	------	accsg	------	---ud	---um
+------	------	--a---	d-o---	r-a---	nompl	---a--	a----	a----
+------	------	--a---	d-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	--a---	d-o---	r-a---	accpl	---a--	a----	a----
+_	adulter		fh	2	11	4	f
+--a---	d-u--l	t-e---	r-a---	------	nomsg	---a--	a----	a----
+--a---	d-u--l	t-e---	r-ai--	------	gensg	---ai-	ii-us	ai---
+--a---	d-u--l	t-e---	r-a--m	------	accsg	---a-m	a---m	a---m
+--a---	d-u--l	t-e---	r-ai--	------	nompl	---ai-	ai---	ai---
+--a---	d-u--l	t-e---	r-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+--a---	d-u--l	t-e---	r-aa-s	------	accpl	---aas	aa--s	aa--s
+_	adulter		mh	2	11	4	m
+--a---	d-u--l	t-e--r	------	------	nomsg	------	e----	---us
+--a---	d-u--l	t-e---	r-ii--	------	gensg	---ii-	ii-us	ii---
+--a---	d-u--l	t-e---	r-u--m	------	accsg	---u-m	---um	---um
+--a---	d-u--l	t-e---	r-ii--	------	nompl	---ii-	ii---	ii---
+--a---	d-u--l	t-e---	r-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+--a---	d-u--l	t-e---	r-oo-s	------	accpl	---oos	oo--s	oo--s
+_	adustio		f	2	2 	1	b
+------	--a---	d-u--s	t-io--	------	nomsg	------	a----	a----
+------	--a---	d-u--s	t-io--	n-i--s	gensg	o-ni-s	ii-us	ai---
+------	--a---	d-u--s	t-io--	n-e--m	accsg	o-ne-m	a---m	a---m
+------	--a---	d-u--s	t-io--	n-ee-s	nompl	o-nees	ai---	ai---
+------	--a---	d-u--s	t-io--	n-u--m	genpl	o-nu-m	aarum	aarum
+------	--a---	d-u--s	t-io--	n-ee-s	accpl	o-nees	aa--s	aa--s
+_	advena		f	2	2 	1	m
+------	--a--d	v-e---	n-a---	------	nomsg	---a--	a----	a----
+------	--a--d	v-e---	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	--a--d	v-e---	n-am--	------	accsg	---a-m	a---m	a---m
+------	--a--d	v-e---	n-ai--	------	nompl	---ai-	ai---	ai---
+------	--a--d	v-e---	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	--a--d	v-e---	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	aestaas		f	7	12	5	m
+------	------	--ai--	staa-s	------	nomsg	-----s	a----	a----
+------	------	--ai--	staa--	t-i--s	gensg	--ti-s	ii-us	ai---
+------	------	--ai--	staa--	t-e--m	accsg	--te-m	a---m	a---m
+------	------	--ai--	staa--	t-e--s	nompl	--te-s	ai---	ai---
+------	------	--ai--	staa--	t-u--m	genpl	--tu-m	aarum	aarum
+------	------	--ai--	staa--	t-e--s	accpl	--te-s	aa--s	aa--s
+_	aestus		m	5	17	5	m
+------	------	------	--ai--	stu--s	nomsg	---u-s	e----	---us
+------	------	------	--ai--	stuu-s	gensg	---uus	ii-us	ii---
+------	------	------	--ai--	stu--m	accsg	---u-m	---um	---um
+------	------	------	--ai--	stuu-s	nompl	---uus	ii---	ii---
+------	------	------	--ai--	stuu-m	genpl	---uum	oorum	oorum
+------	------	------	--ai--	stuu-s	accpl	---uus	oo--s	oo--s
+_	aetaas		f	50	42	8	m
+------	------	--ai--	t-aa-s	------	nomsg	-----s	a----	a----
+------	------	--ai--	t-aa--	t-i--s	gensg	--ti-s	ii-us	ai---
+------	------	--ai--	t-aa--	t-e--m	accsg	--te-m	a---m	a---m
+------	------	--ai--	t-aa--	t-e--s	nompl	--te-s	ai---	ai---
+------	------	--ai--	t-aa--	t-u--m	genpl	--tu-m	aarum	aarum
+------	------	--ai--	t-aa--	t-e--s	accpl	--te-s	aa--s	aa--s
+_	ager		m	25	39	7	f
+------	--a---	g-e--r	------	------	nomsg	------	e----	---us
+------	--a---	g-e---	r-ii--	------	gensg	---ii-	ii-us	ii---
+------	--a---	g-e---	r-u--m	------	accsg	---u-m	---um	---um
+------	--a---	g-e---	r-ii--	------	nompl	---ii-	ii---	ii---
+------	--a---	g-e---	r-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--a---	g-e---	r-oo-s	------	accpl	---oos	oo--s	oo--s
+_	agnus		m	2	15	4	m
+------	------	--a--g	n-u--s	------	nomsg	---u-s	e----	---us
+------	------	--a--g	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	--a--g	n-u--m	------	accsg	---u-m	---um	---um
+------	------	--a--g	n-ii--	------	nompl	---ii-	ii---	ii---
+------	------	--a--g	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	--a--g	n-oo-s	------	accpl	---oos	oo--s	oo--s
+_	agricola		mh	13	17	5	m
+--a--g	r-i---	k-o---	l-a---	------	nomsg	---a--	e----	---us
+--a--g	r-i---	k-o---	l-ai--	------	gensg	---ai-	ii-us	ii---
+--a--g	r-i---	k-o---	l-a--m	------	accsg	---a-m	---um	---um
+--a--g	r-i---	k-o---	l-ai--	------	nompl	---ai-	ii---	ii---
+--a--g	r-i---	k-o---	l-aa--	r-u--m	genpl	aaru-m	oorum	oorum
+--a--g	r-i---	k-o---	l-aa-s	------	accpl	---aas	oo--s	oo--s
+_	altaaria		np	3	9 	4	f
+------	--a--l	t-aa--	r-i---	--a---	nompl	---a--	a----	a----
+------	--a--l	t-aa--	r-i---	--u--m	genpl	---u-m	oorum	oorum
+------	--a--l	t-aa--	r-i---	--a---	accpl	---a--	a----	a----
+_	amiicus		mh	41	59	8	m
+------	--a---	m-ii--	k-u--s	------	nomsg	---u-s	e----	---us
+------	--a---	m-ii--	k-ii--	------	gensg	---ii-	ii-us	ii---
+------	--a---	m-ii--	k-u--m	------	accsg	---u-m	---um	---um
+------	--a---	m-ii--	k-ii--	------	nompl	---ii-	ii---	ii---
+------	--a---	m-ii--	k-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--a---	m-ii--	k-oo-s	------	accpl	---oos	oo--s	oo--s
+_	amor		m	11	205	9	m
+------	------	--a---	m-o--r	------	nomsg	------	e----	---us
+------	------	--a---	m-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	--a---	m-o---	r-e--m	accsg	---e-m	---um	---um
+------	------	--a---	m-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	--a---	m-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	--a---	m-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	ancilla		fh	6	4 	3	f
+------	--a--n	k-i--l	l-a---	------	nomsg	---a--	a----	a----
+------	--a--n	k-i--l	l-ai--	------	gensg	---ai-	ii-us	ai---
+------	--a--n	k-i--l	l-a--m	------	accsg	---a-m	a---m	a---m
+------	--a--n	k-i--l	l-ai--	------	nompl	---ai-	ai---	ai---
+------	--a--n	k-i--l	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	--a--n	k-i--l	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	angelus		mh	2	2 	1	m
+------	--a--n	g-e---	l-u--s	------	nomsg	---u-s	e----	---us
+------	--a--n	g-e---	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	--a--n	g-e---	l-u--m	------	accsg	---u-m	---um	---um
+------	--a--n	g-e---	l-ii--	------	nompl	---ii-	ii---	ii---
+------	--a--n	g-e---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--a--n	g-e---	l-oo-s	------	accpl	---oos	oo--s	oo--s
+_	angulus		m	2	4 	2	f
+------	--a--n	g-u---	l-u--s	------	nomsg	---u-s	e----	---us
+------	--a--n	g-u---	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	--a--n	g-u---	l-u--m	------	accsg	---u-m	---um	---um
+------	--a--n	g-u---	l-ii--	------	nompl	---ii-	ii---	ii---
+------	--a--n	g-u---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--a--n	g-u---	l-oo-s	------	accpl	---oos	oo--s	oo--s
+_	anima		f	11	50	7	m
+------	--a---	n-i---	m-a---	------	nomsg	---a--	a----	a----
+------	--a---	n-i---	m-ai--	------	gensg	---ai-	ii-us	ai---
+------	--a---	n-i---	m-a--m	------	accsg	---a-m	a---m	a---m
+------	--a---	n-i---	m-ai--	------	nompl	---ai-	ai---	ai---
+------	--a---	n-i---	m-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	--a---	n-i---	m-aa-s	------	accpl	---aas	aa--s	aa--s
+_	animal		n	9	10	5	m
+--a---	n-i---	m-a--l	------	------	nomsg	------	---ud	---um
+--a---	n-i---	m-a---	l-i--s	------	gensg	---i-s	ii-us	ii---
+--a---	n-i---	m-a--l	------	------	accsg	------	---ud	---um
+--a---	n-i---	m-a---	l-i---	--a---	nompl	i--a--	a----	a----
+--a---	n-i---	m-a---	l-i---	--u--m	genpl	i--u-m	oorum	oorum
+--a---	n-i---	m-a---	l-i---	--a---	accpl	i--a--	a----	a----
+_	annus		m	49	113	9	f
+------	------	--a--n	n-u--s	------	nomsg	---u-s	e----	---us
+------	------	--a--n	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	--a--n	n-u--m	------	accsg	---u-m	---um	---um
+------	------	--a--n	n-ii--	------	nompl	---ii-	ii---	ii---
+------	------	--a--n	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	--a--n	n-oo-s	------	accpl	---oos	oo--s	oo--s
+_	aqua		f	20	82	8	m
+------	------	--a--k	w-a---	------	nomsg	---a--	a----	a----
+------	------	--a--k	w-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	--a--k	w-a--m	------	accsg	---a-m	a---m	a---m
+------	------	--a--k	w-ai--	------	nompl	---ai-	ai---	ai---
+------	------	--a--k	w-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	--a--k	w-aa-s	------	accpl	---aas	aa--s	aa--s
+_	aquila		f	3	5 	3	b
+------	--a--k	w-i---	l-a---	------	nomsg	---a--	a----	a----
+------	--a--k	w-i---	l-ai--	------	gensg	---ai-	ii-us	ai---
+------	--a--k	w-i---	l-a--m	------	accsg	---a-m	a---m	a---m
+------	--a--k	w-i---	l-ai--	------	nompl	---ai-	ai---	ai---
+------	--a--k	w-i---	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	--a--k	w-i---	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	arbor		f	9	38	6	m
+------	------	--a--r	b-o--r	------	nomsg	------	a----	a----
+------	------	--a--r	b-o---	r-i--s	gensg	---i-s	ii-us	ai---
+------	------	--a--r	b-o---	r-e--m	accsg	---e-m	a---m	a---m
+------	------	--a--r	b-o---	r-e--s	nompl	---e-s	ai---	ai---
+------	------	--a--r	b-o---	r-u--m	genpl	---u-m	aarum	aarum
+------	------	--a--r	b-o---	r-e--s	accpl	---e-s	aa--s	aa--s
+_	arca		f	3	3 	2	b
+------	------	--a--r	k-a---	------	nomsg	---a--	a----	a----
+------	------	--a--r	k-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	--a--r	k-a--m	------	accsg	---a-m	a---m	a---m
+------	------	--a--r	k-ai--	------	nompl	---ai-	ai---	ai---
+------	------	--a--r	k-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	--a--r	k-aa-s	------	accpl	---aas	aa--s	aa--s
+_	areena		f	2	2 	1	m
+------	--a--r	r-ee--	n-a---	------	nomsg	---a--	a----	a----
+------	--a--r	r-ee--	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	--a--r	r-ee--	n-a--m	------	accsg	---a-m	a---m	a---m
+------	--a--r	r-ee--	n-ai--	------	nompl	---ai-	ai---	ai---
+------	--a--r	r-ee--	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	--a--r	r-ee--	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	argentum	n	6	7 	4	m
+------	--a--r	g-e--n	t-u--m	------	nomsg	---u-m	---ud	---um
+------	--a--r	g-e--n	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	--a--r	g-e--n	t-u--m	------	accsg	---u-m	---ud	---um
+------	--a--r	g-e--n	t-a---	------	nompl	---a--	a----	a----
+------	--a--r	g-e--n	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--a--r	g-e--n	t-a---	------	accpl	---a--	a----	a----
+_	aries		m	2	9 	3	m
+------	------	--a---	r-ie-s	------	nomsg	-----s	e----	---us
+------	------	--a---	r-ie--	t-i--s	gensg	--ti-s	ii-us	ii---
+------	------	--a---	r-ie--	t-e--m	accsg	--te-m	---um	---um
+------	------	--a---	r-ie--	t-e--s	nompl	--te-s	ii---	ii---
+------	------	--a---	r-ie--	t-u--m	genpl	--tu-m	oorum	oorum
+------	------	--a---	r-ie--	t-e--s	accpl	--te-s	oo--s	oo--s
+_	arma		np	59	79	8	f
+------	------	--a--r	m-a---	------	nompl	---a--	a----	a----
+------	------	--a--r	m-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	--a--r	m-a---	------	accpl	---a--	a----	a----
+_	asina		f	2	2 	1	f
+------	--a---	s-i---	n-a---	------	nomsg	---a--	a----	a----
+------	--a---	s-i---	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	--a---	s-i---	n-a--m	------	accsg	---a-m	a---m	a---m
+------	--a---	s-i---	n-ai--	------	nompl	---ai-	ai---	ai---
+------	--a---	s-i---	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	--a---	s-i---	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	aurum		n	12	62	7	m
+------	------	--au--	r-u--m	------	nomsg	---u-m	---ud	---um
+------	------	--au--	r-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	--au--	r-u--m	------	accsg	---u-m	---ud	---um
+------	------	--au--	r-a---	------	nompl	---a--	a----	a----
+------	------	--au--	r-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	--au--	r-a---	------	accpl	---a--	a----	a----
+_	baasium		n	2	9 	3	b
+------	b-aa--	s-i---	--u--m	------	nomsg	---u-m	---ud	---um
+------	b-aa--	s-ii--	------	------	gensg	---ii-	ii-us	ii---
+------	b-aa--	s-i---	--u--m	------	accsg	---u-m	---ud	---um
+------	b-aa--	s-i---	--a---	------	nompl	---a--	a----	a----
+------	b-aa--	s-i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	b-aa--	s-i---	--a---	------	accpl	---a--	a----	a----
+_	baculus		m	2	2 	1	m
+------	b-a---	k-u---	l-u--s	------	nomsg	---u-s	e----	---us
+------	b-a---	k-u---	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	b-a---	k-u---	l-u--m	------	accsg	---u-m	---um	---um
+------	b-a---	k-u---	l-ii--	------	nompl	---ii-	ii---	ii---
+------	b-a---	k-u---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	b-a---	k-u---	l-oo-s	------	accpl	---oos	oo--s	oo--s
+_	baptismum	n	2	2 	1	m
+------	b-a--p	t-i--s	m-u--m	------	nomsg	---u-m	---ud	---um
+------	b-a--p	t-i--s	m-ii--	------	gensg	---ii-	ii-us	ii---
+------	b-a--p	t-i--s	m-u--m	------	accsg	---u-m	---ud	---um
+------	b-a--p	t-i--s	m-a---	------	nompl	---a--	a----	a----
+------	b-a--p	t-i--s	m-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	b-a--p	t-i--s	m-a---	------	accpl	---a--	a----	a----
+_	barba		f	4	3 	3	f
+------	------	b-a--r	b-a---	------	nomsg	---a--	a----	a----
+------	------	b-a--r	b-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	b-a--r	b-a--m	------	accsg	---a-m	a---m	a---m
+------	------	b-a--r	b-ai--	------	nompl	---ai-	ai---	ai---
+------	------	b-a--r	b-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	b-a--r	b-aa-s	------	accpl	---aas	aa--s	aa--s
+_	basilica		f	2	2 	1	f
+b-a---	s-i---	l-i---	k-a---	------	nomsg	---a--	a----	a----
+b-a---	s-i---	l-i---	k-ai--	------	gensg	---ai-	ii-us	ai---
+b-a---	s-i---	l-i---	k-a--m	------	accsg	---a-m	a---m	a---m
+b-a---	s-i---	l-i---	k-ai--	------	nompl	---ai-	ai---	ai---
+b-a---	s-i---	l-i---	k-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+b-a---	s-i---	l-i---	k-aa-s	------	accpl	---aas	aa--s	aa--s
+_	basis		f	2	2 	1	m
+------	------	------	b-a---	s-i--s	nomsg	---i-s	a----	a----
+------	------	------	b-a---	s-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	b-a---	s-e--m	accsg	---e-m	a---m	a---m
+------	------	------	b-a---	s-e--s	nompl	---e-s	ai---	ai---
+------	------	------	b-a---	s-u--m	genpl	---u-m	aarum	aarum
+------	------	------	b-a---	s-e--s	accpl	---e-s	aa--s	aa--s
+_	bellum		n	68	96	9	m
+------	------	b-e--l	l-u--m	------	nomsg	---u-m	---ud	---um
+------	------	b-e--l	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	b-e--l	l-u--m	------	accsg	---u-m	---ud	---um
+------	------	b-e--l	l-a---	------	nompl	---a--	a----	a----
+------	------	b-e--l	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	b-e--l	l-a---	------	accpl	---a--	a----	a----
+_	bestia		f	9	2 	3	m
+------	b-e--s	t-i---	--a---	------	nomsg	---a--	a----	a----
+------	b-e--s	t-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+------	b-e--s	t-i---	--a--m	------	accsg	---a-m	a---m	a---m
+------	b-e--s	t-i---	--ai--	------	nompl	---ai-	ai---	ai---
+------	b-e--s	t-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	b-e--s	t-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	bonum		n	2	2 	1	m
+------	------	b-o---	n-u--m	------	nomsg	---u-m	---ud	---um
+------	------	b-o---	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	b-o---	n-u--m	------	accsg	---u-m	---ud	---um
+------	------	b-o---	n-a---	------	nompl	---a--	a----	a----
+------	------	b-o---	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	b-o---	n-a---	------	accpl	---a--	a----	a----
+_	boos		m	9	17	5	m
+------	------	------	b-oo-s	------	nomsg	-----s	e----	---us
+------	------	------	b-oo--	v-i--s	gensg	--vi-s	ii-us	ii---
+------	------	------	b-oo--	v-e--m	accsg	--ve-m	---um	---um
+------	------	------	b-oo--	v-e--s	nompl	--ve-s	ii---	ii---
+------	------	------	b-oo--	v-u--m	genpl	--vu-m	oorum	oorum
+------	------	------	b-oo--	v-e--s	accpl	--ve-s	oo--s	oo--s
+_	braachium	n	6	15	5	f
+------	braa--	k-i---	--u--m	------	nomsg	---u-m	---ud	---um
+------	braa--	k-ii--	------	------	gensg	---ii-	ii-us	ii---
+------	braa--	k-i---	--u--m	------	accsg	---u-m	---ud	---um
+------	braa--	k-i---	--a---	------	nompl	---a--	a----	a----
+------	braa--	k-i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	braa--	k-i---	--a---	------	accpl	---a--	a----	a----
+_	caaliigo		f	7	7 	4	m
+------	k-aa--	l-ii--	g-o---	------	nomsg	---o--	a----	a----
+------	k-aa--	l-ii--	g-i---	n-i--s	gensg	i-ni-s	ii-us	ai---
+------	k-aa--	l-ii--	g-i---	n-e--m	accsg	i-ne-m	a---m	a---m
+------	k-aa--	l-ii--	g-i---	n-e--s	nompl	i-ne-s	ai---	ai---
+------	k-aa--	l-ii--	g-i---	n-u--m	genpl	i-nu-m	aarum	aarum
+------	k-aa--	l-ii--	g-i---	n-e--s	accpl	i-ne-s	aa--s	aa--s
+_	caasus		m	34	33	7	m
+------	------	------	k-aa--	s-u--s	nomsg	---u-s	e----	---us
+------	------	------	k-aa--	s-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	k-aa--	s-u--m	accsg	---u-m	---um	---um
+------	------	------	k-aa--	s-uu-s	nompl	---uus	ii---	ii---
+------	------	------	k-aa--	s-uu-m	genpl	---uum	oorum	oorum
+------	------	------	k-aa--	s-uu-s	accpl	---uus	oo--s	oo--s
+_	cadaaver		m	3	2 	2	m
+------	k-a---	d-aa--	v-e--r	------	nomsg	------	e----	---us
+------	k-a---	d-aa--	v-e---	r-i--s	gensg	---i-s	ii-us	ii---
+------	k-a---	d-aa--	v-e---	r-e--m	accsg	---e-m	---um	---um
+------	k-a---	d-aa--	v-e---	r-e--s	nompl	---e-s	ii---	ii---
+------	k-a---	d-aa--	v-e---	r-u--m	genpl	---u-m	oorum	oorum
+------	k-a---	d-aa--	v-e---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	caelum		n	21	164	9	f
+------	------	k-ai--	l-u--m	------	nomsg	---u-m	---ud	---um
+------	------	k-ai--	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	k-ai--	l-u--m	------	accsg	---u-m	---ud	---um
+------	------	k-ai--	l-a---	------	nompl	---a--	a----	a----
+------	------	k-ai--	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	k-ai--	l-a---	------	accpl	---a--	a----	a----
+_	calix		m	2	4 	2	m
+------	------	k-a---	l-i-ks	------	nomsg	-----s	e----	---us
+------	------	k-a---	l-i---	k-i--s	gensg	---i-s	ii-us	ii---
+------	------	k-a---	l-i---	k-e--m	accsg	---e-m	---um	---um
+------	------	k-a---	l-i---	k-e--s	nompl	---e-s	ii---	ii---
+------	------	k-a---	l-i---	k-u--m	genpl	---u-m	oorum	oorum
+------	------	k-a---	l-i---	k-e--s	accpl	---e-s	oo--s	oo--s
+_	cameelus	m	2	2 	1	m
+------	k-a---	m-ee--	l-u--s	------	nomsg	---u-s	e----	---us
+------	k-a---	m-ee--	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	k-a---	m-ee--	l-u--m	------	accsg	---u-m	---um	---um
+------	k-a---	m-ee--	l-ii--	------	nompl	---ii-	ii---	ii---
+------	k-a---	m-ee--	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	k-a---	m-ee--	l-oo-s	------	accpl	---oos	oo--s	oo--s
+_	campus		m	15	55	7	m
+------	------	k-a--m	p-u--s	------	nomsg	---u-s	e----	---us
+------	------	k-a--m	p-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	k-a--m	p-u--m	------	accsg	---u-m	---um	---um
+------	------	k-a--m	p-ii--	------	nompl	---ii-	ii---	ii---
+------	------	k-a--m	p-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	k-a--m	p-oo-s	------	accpl	---oos	oo--s	oo--s
+_	canis		m	4	21	5	m
+------	------	------	k-a---	n-i--s	nomsg	---i-s	e----	---us
+------	------	------	k-a---	n-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	k-a---	n-e--m	accsg	---e-m	---um	---um
+------	------	------	k-a---	n-e--s	nompl	---e-s	ii---	ii---
+------	------	------	k-a---	n-u--m	genpl	---u-m	oorum	oorum
+------	------	------	k-a---	n-e--s	accpl	---e-s	oo--s	oo--s
+_	canistrum	n	2	2 	1	f
+------	k-a---	n-i--s	tr-u-m	------	nomsg	---u-m	---ud	---um
+------	k-a---	n-i--s	tr-ii-	------	gensg	---ii-	ii-us	ii---
+------	k-a---	n-i--s	tr-u-m	------	accsg	---u-m	---ud	---um
+------	k-a---	n-i--s	tr-a--	------	nompl	---a--	a----	a----
+------	k-a---	n-i--s	troo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	k-a---	n-i--s	tr-a--	------	accpl	---a--	a----	a----
+_	capillus		m	4	24	5	m
+------	k-a---	p-i--l	l-u--s	------	nomsg	---u-s	e----	---us
+------	k-a---	p-i--l	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	k-a---	p-i--l	l-u--m	------	accsg	---u-m	---um	---um
+------	k-a---	p-i--l	l-ii--	------	nompl	---ii-	ii---	ii---
+------	k-a---	p-i--l	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	k-a---	p-i--l	l-oo-s	------	accpl	---oos	oo--s	oo--s
+_	capra		f	2	2 	1	f
+------	------	k-a---	pra---	------	nomsg	---a--	a----	a----
+------	------	k-a---	prai--	------	gensg	---ai-	ii-us	ai---
+------	------	k-a---	pra--m	------	accsg	---a-m	a---m	a---m
+------	------	k-a---	prai--	------	nompl	---ai-	ai---	ai---
+------	------	k-a---	praa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	k-a---	praa-s	------	accpl	---aas	aa--s	aa--s
+_	caput		n	29	64	8	m
+------	------	k-a---	p-u--t	------	nomsg	------	---ud	---um
+------	------	k-a---	p-i---	t-i--s	gensg	---i-s	ii-us	ii---
+------	------	k-a---	p-u--t	------	accsg	------	---ud	---um
+------	------	k-a---	p-i---	t-a---	nompl	---a--	a----	a----
+------	------	k-a---	p-i---	t-u--m	genpl	---u-m	oorum	oorum
+------	------	k-a---	p-i---	t-a---	accpl	---a--	a----	a----
+_	carbo		m	2	2 	1	m
+------	------	k-a--r	b-o---	------	nomsg	------	e----	---us
+------	------	k-a--r	b-o---	n-i--s	gensg	o-ni-s	ii-us	ii---
+------	------	k-a--r	b-o---	n-e--m	accsg	o-ne-m	---um	---um
+------	------	k-a--r	b-o---	n-ee-s	nompl	o-nees	ii---	ii---
+------	------	k-a--r	b-o---	n-u--m	genpl	o-nu-m	oorum	oorum
+------	------	k-a--r	b-o---	n-ee-s	accpl	o-nees	oo--s	oo--s
+_	carcer		m	4	10	4	m
+------	------	k-a--r	k-e--r	------	nomsg	------	e----	---us
+------	------	k-a--r	k-e---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	k-a--r	k-e---	r-e--m	accsg	---e-m	---um	---um
+------	------	k-a--r	k-e---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	k-a--r	k-e---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	k-a--r	k-e---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	carmen		n	14	185	9	f
+------	------	k-a--r	m-e--n	n-----	nomsg	e-n---	---ud	---um
+------	------	k-a--r	m-i---	n-i--s	gensg	i-ni-s	ii-us	ii---
+------	------	k-a--r	m-e--n	------	accsg	e-n---	---ud	---um
+------	------	k-a--r	m-i---	n-a---	nompl	i-na--	a----	a----
+------	------	k-a--r	m-i---	n-u--m	genpl	i-nu-m	oorum	oorum
+------	------	k-a--r	m-i---	n-a---	accpl	i-na--	a----	a----
+_	castella		np	14	2 	4	f
+------	k-a--s	t-e--l	l-a---	------	nompl	---a--	a----	a----
+------	k-a--s	t-e--l	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	k-a--s	t-e--l	l-a---	------	accpl	---a--	a----	a----
+_	castra		np	55	27	7	f
+------	------	k-a--s	tr-a--	------	nompl	---a--	a----	a----
+------	------	k-a--s	troo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	k-a--s	tr-a--	------	accpl	---a--	a----	a----
+_	causa		f	82	49	8	m
+------	------	k-au--	s-a---	------	nomsg	---a--	a----	a----
+------	------	k-au--	s-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	k-au--	s-a--m	------	accsg	---a-m	a---m	a---m
+------	------	k-au--	s-ai--	------	nompl	---ai-	ai---	ai---
+------	------	k-au--	s-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	k-au--	s-aa-s	------	accpl	---aas	aa--s	aa--s
+_	cedrus		f	2	2 	1	f
+------	------	k-e---	dru--s	------	nomsg	---u-s	a----	a----
+------	------	k-e---	drii--	------	gensg	---ii-	ii-us	ai---
+------	------	k-e---	dru--m	------	accsg	---u-m	a---m	a---m
+------	------	k-e---	drii--	------	nompl	---ii-	ai---	ai---
+------	------	k-e---	droo--	r-u--m	genpl	ooru-m	aarum	aarum
+------	------	k-e---	droo-s	------	accpl	---oos	aa--s	aa--s
+_	census		m	2	2 	1	m
+------	------	------	k-e--n	s-u--s	nomsg	---u-s	e----	---us
+------	------	------	k-e--n	s-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	k-e--n	s-u--m	accsg	---u-m	---um	---um
+------	------	------	k-e--n	s-uu-s	nompl	---uus	ii---	ii---
+------	------	------	k-e--n	s-uu-m	genpl	---uum	oorum	oorum
+------	------	------	k-e--n	s-uu-s	accpl	---uus	oo--s	oo--s
+_	centurio	mh	13	2 	4	m
+------	k-e--n	t-u--r	--io--	------	nomsg	------	e----	---us
+------	k-e--n	t-u--r	--io--	n-i--s	gensg	o-ni-s	ii-us	ii---
+------	k-e--n	t-u--r	--io--	n-e--m	accsg	o-ne-m	---um	---um
+------	k-e--n	t-u--r	--io--	n-ee-s	nompl	o-nees	ii---	ii---
+------	k-e--n	t-u--r	--io--	n-u--m	genpl	o-nu-m	oorum	oorum
+------	k-e--n	t-u--r	--io--	n-ee-s	accpl	o-nees	oo--s	oo--s
+_	chorus		m	2	33	6	m
+------	------	k-o---	r-u--s	------	nomsg	---u-s	e----	---us
+------	------	k-o---	r-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	k-o---	r-u--m	------	accsg	---u-m	---um	---um
+------	------	k-o---	r-ii--	------	nompl	---ii-	ii---	ii---
+------	------	k-o---	r-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	k-o---	r-oo-s	------	accpl	---oos	oo--s	oo--s
+_	cicoonia		f	2	2 	1	m
+k-i---	k-oo--	n-i---	--a---	------	nomsg	---a--	a----	a----
+k-i---	k-oo--	n-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+k-i---	k-oo--	n-i---	--a--m	------	accsg	---a-m	a---m	a---m
+k-i---	k-oo--	n-i---	--ai--	------	nompl	---ai-	ai---	ai---
+k-i---	k-oo--	n-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+k-i---	k-oo--	n-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	cinis		m	8	41	6	m
+------	------	k-i---	n-i--s	------	nomsg	---i-s	e----	---us
+------	------	k-i---	n-e---	r-i--s	gensg	e-ri-s	ii-us	ii---
+------	------	k-i---	n-e---	r-e--m	accsg	e-re-m	---um	---um
+------	------	k-i---	n-e---	r-e--s	nompl	e-re-s	ii---	ii---
+------	------	k-i---	n-e---	r-u--m	genpl	e-ru-m	oorum	oorum
+------	------	k-i---	n-e---	r-e--s	accpl	e-re-s	oo--s	oo--s
+_	circuitus		m	4	4 	3	b
+------	k-i--r	k-u---	--i---	t-u--s	nomsg	---u-s	e----	---us
+------	k-i--r	k-u---	--i---	t-uu-s	gensg	---uus	ii-us	ii---
+------	k-i--r	k-u---	--i---	t-u--m	accsg	---u-m	---um	---um
+------	k-i--r	k-u---	--i---	t-uu-s	nompl	---uus	ii---	ii---
+------	k-i--r	k-u---	--i---	t-uu-m	genpl	---uum	oorum	oorum
+------	k-i--r	k-u---	--i---	t-uu-s	accpl	---uus	oo--s	oo--s
+_	circus		m	5	5 	3	b
+------	------	k-i--r	k-u--s	------	nomsg	---u-s	e----	---us
+------	------	k-i--r	k-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	k-i--r	k-u--m	------	accsg	---u-m	---um	---um
+------	------	k-i--r	k-ii--	------	nompl	---ii-	ii---	ii---
+------	------	k-i--r	k-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	k-i--r	k-oo-s	------	accpl	---oos	oo--s	oo--s
+_	civitaas		f	48	4 	7	b
+------	k-i---	v-i---	t-aa-s	------	nomsg	-----s	a----	a----
+------	k-i---	v-i---	t-aa--	t-i--s	gensg	--ti-s	ii-us	ai---
+------	k-i---	v-i---	t-aa--	t-e--m	accsg	--te-m	a---m	a---m
+------	k-i---	v-i---	t-aa--	t-e--s	nompl	--te-s	ai---	ai---
+------	k-i---	v-i---	t-aa--	t-u--m	genpl	--tu-m	aarum	aarum
+------	k-i---	v-i---	t-aa--	t-e--s	accpl	--te-s	aa--s	aa--s
+_	claamor		m	20	11	5	f
+------	------	klaa--	m-o--r	------	nomsg	------	e----	---us
+------	------	klaa--	m-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	klaa--	m-o---	r-e--m	accsg	---e-m	---um	---um
+------	------	klaa--	m-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	klaa--	m-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	klaa--	m-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	clangor		m	2	2 	1	m
+------	------	kla--n	g-o--r	------	nomsg	------	e----	---us
+------	------	kla--n	g-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	kla--n	g-o---	r-e--m	accsg	---e-m	---um	---um
+------	------	kla--n	g-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	kla--n	g-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	kla--n	g-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	coetus		m	4	10	4	m
+------	------	------	k-oe--	t-u--s	nomsg	---u-s	e----	---us
+------	------	------	k-oe--	t-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	k-oe--	t-u--m	accsg	---u-m	---um	---um
+------	------	------	k-oe--	t-uu-s	nompl	---uus	ii---	ii---
+------	------	------	k-oe--	t-uu-m	genpl	---uum	oorum	oorum
+------	------	------	k-oe--	t-uu-s	accpl	---uus	oo--s	oo--s
+_	cognaatio	f	2	2 	1	m
+------	k-o--g	n-aa--	t-io--	------	nomsg	------	a----	a----
+------	k-o--g	n-aa--	t-io--	n-i--s	gensg	o-ni-s	ii-us	ai---
+------	k-o--g	n-aa--	t-io--	n-e--m	accsg	o-ne-m	a---m	a---m
+------	k-o--g	n-aa--	t-io--	n-ee-s	nompl	o-nees	ai---	ai---
+------	k-o--g	n-aa--	t-io--	n-u--m	genpl	o-nu-m	aarum	aarum
+------	k-o--g	n-aa--	t-io--	n-ee-s	accpl	o-nees	aa--s	aa--s
+_	collis		m	12	15	5	f
+------	------	------	k-o--l	l-i--s	nomsg	---i-s	e----	---us
+------	------	------	k-o--l	l-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	k-o--l	l-e--m	accsg	---e-m	---um	---um
+------	------	------	k-o--l	l-e--s	nompl	---e-s	ii---	ii---
+------	------	------	k-o--l	l-u--m	genpl	---u-m	oorum	oorum
+------	------	------	k-o--l	l-e--s	accpl	---e-s	oo--s	oo--s
+_	color		m	7	32	6	m
+------	------	k-o---	l-o--r	------	nomsg	------	e----	---us
+------	------	k-o---	l-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	k-o---	l-o---	r-e--m	accsg	---e-m	---um	---um
+------	------	k-o---	l-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	k-o---	l-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	k-o---	l-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	columba		f	3	10	4	f
+------	k-o---	l-u--m	b-a---	------	nomsg	---a--	a----	a----
+------	k-o---	l-u--m	b-ai--	------	gensg	---ai-	ii-us	ai---
+------	k-o---	l-u--m	b-a--m	------	accsg	---a-m	a---m	a---m
+------	k-o---	l-u--m	b-ai--	------	nompl	---ai-	ai---	ai---
+------	k-o---	l-u--m	b-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	k-o---	l-u--m	b-aa-s	------	accpl	---aas	aa--s	aa--s
+_	columna		f	4	10	4	f
+------	k-o---	l-u--m	n-a---	------	nomsg	---a--	a----	a----
+------	k-o---	l-u--m	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	k-o---	l-u--m	n-a--m	------	accsg	---a-m	a---m	a---m
+------	k-o---	l-u--m	n-ai--	------	nompl	---ai-	ai---	ai---
+------	k-o---	l-u--m	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	k-o---	l-u--m	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	commootio	f	2	2 	1	m
+------	k-o--m	m-oo--	t-io--	------	nomsg	------	a----	a----
+------	k-o--m	m-oo--	t-io--	n-i--s	gensg	o-ni-s	ii-us	ai---
+------	k-o--m	m-oo--	t-io--	n-e--m	accsg	o-ne-m	a---m	a---m
+------	k-o--m	m-oo--	t-io--	n-ee-s	nompl	o-nees	ai---	ai---
+------	k-o--m	m-oo--	t-io--	n-u--m	genpl	o-nu-m	aarum	aarum
+------	k-o--m	m-oo--	t-io--	n-ee-s	accpl	o-nees	aa--s	aa--s
+_	concilium	n	9	5 	4	m
+------	k-o--n	k-i--l	--i---	--u--m	nomsg	---u-m	---ud	---um
+------	k-o--n	k-i--l	--ii--	------	gensg	---ii-	ii-us	ii---
+------	k-o--n	k-i--l	--i---	--u--m	accsg	---u-m	---ud	---um
+------	k-o--n	k-i--l	--i---	--a---	nompl	---a--	a----	a----
+k-o--n	k-i--l	--i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	k-o--n	k-i--l	--i---	--a---	accpl	---a--	a----	a----
+_	coniuga	fh	2	2 	1	f
+------	k-o--n	--iu--	g-a---	------	nomsg	---a--	a----	a----
+------	k-o--n	--iu--	g-ai--	------	gensg	---ai-	ii-us	ai---
+------	k-o--n	--iu--	g-a--m	------	accsg	---a-m	a---m	a---m
+------	k-o--n	--iu--	g-ai--	------	nompl	---ai-	ai---	ai---
+------	k-o--n	--iu--	g-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	k-o--n	--iu--	g-aa-s	------	accpl	---aas	aa--s	aa--s
+_	conspectus	m	10	6 	4	m
+------	------	k-o-ns	p-e--k	t-u--s	nomsg	---u-s	e----	---us
+------	------	k-o-ns	p-e--k	t-uu-s	gensg	---uus	ii-us	ii---
+------	------	k-o-ns	p-e--k	t-u--m	accsg	---u-m	---um	---um
+------	------	k-o-ns	p-e--k	t-uu-s	nompl	---uus	ii---	ii---
+------	------	k-o-ns	p-e--k	t-uu-m	genpl	---uum	oorum	oorum
+------	------	k-o-ns	p-e--k	t-uu-s	accpl	---uus	oo--s	oo--s
+_	convictus	m	6	4 	3	m
+------	------	k-o--n	v-i--k	t-u--s	nomsg	---u-s	e----	---us
+------	------	k-o--n	v-i--k	t-uu-s	gensg	---uus	ii-us	ii---
+------	------	k-o--n	v-i--k	t-u--m	accsg	---u-m	---um	---um
+------	------	k-o--n	v-i--k	t-uu-s	nompl	---uus	ii---	ii---
+------	------	k-o--n	v-i--k	t-uu-m	genpl	---uum	oorum	oorum
+------	------	k-o--n	v-i--k	t-uu-s	accpl	---uus	oo--s	oo--s
+_	cor		n	5	36	6	m
+------	------	------	k-o--r	------	nomsg	------	---ud	---um
+------	------	------	k-o--r	d-i--s	gensg	--di-s	ii-us	ii---
+------	------	------	k-o--r	------	accsg	------	---ud	---um
+------	------	------	k-o--r	d-a---	nompl	--da--	a----	a----
+------	------	------	k-o--r	d-u--m	genpl	--du-m	oorum	oorum
+------	------	------	k-o--r	d-a---	accpl	--da--	a----	a----
+_	cornuu		n	35	24	7	m
+------	------	------	k-o--r	n-uu--	nomsg	---uu-	---ud	---um
+------	------	------	k-o--r	n-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	k-o--r	n-uu--	accsg	---uu-	---ud	---um
+------	------	------	k-o--r	n-ua--	nompl	---ua-	a----	a----
+------	------	------	k-o--r	n-uu-m	genpl	---uum	oorum	oorum
+------	------	------	k-o--r	n-ua--	accpl	---ua-	a----	a----
+_	coroona		f	5	20	5	b
+------	k-o---	r-oo--	n-a---	------	nomsg	---a--	a----	a----
+------	k-o---	r-oo--	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	k-o---	r-oo--	n-a--m	------	accsg	---a-m	a---m	a---m
+------	k-o---	r-oo--	n-ai--	------	nompl	---ai-	ai---	ai---
+------	k-o---	r-oo--	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	k-o---	r-oo--	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	corpus		n	73	123	9	m
+------	------	k-o--r	p-u--s	------	nomsg	---u-s	---ud	---um
+------	------	k-o--r	p-o---	r-i--s	gensg	o-ri-s	ii-us	ii---
+------	------	k-o--r	p-u--s	------	accsg	---u-s	---ud	---um
+------	------	k-o--r	p-o---	r-a---	nompl	o-ra--	a----	a----
+------	------	k-o--r	p-o---	r-u--m	genpl	o-ru-m	oorum	oorum
+------	------	k-o--r	p-o---	r-a---	accpl	o-ra--	a----	a----
+_	cortiina		f	2	2 	1	m
+------	k-o--r	t-ii--	n-a---	------	nomsg	---a--	a----	a----
+------	k-o--r	t-ii--	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	k-o--r	t-ii--	n-a--m	------	accsg	---a-m	a---m	a---m
+------	k-o--r	t-ii--	n-ai--	------	nompl	---ai-	ai---	ai---
+------	k-o--r	t-ii--	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	k-o--r	t-ii--	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	craateer		m	2	2 	1	m
+------	------	kraa--	t-ee-r	------	nomsg	------	e----	---us
+------	------	kraa--	t-ee--	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	kraa--	t-ee--	r-e--m	accsg	---e-m	---um	---um
+------	------	kraa--	t-ee--	r-e--s	nompl	---e-s	ii---	ii---
+------	------	kraa--	t-ee--	r-u--m	genpl	---u-m	oorum	oorum
+------	------	kraa--	t-ee--	r-e--s	accpl	---e-s	oo--s	oo--s
+_	criimen		n	18	27	6	m
+------	------	krii--	m-e--n	------	nomsg	e-n---	---ud	---um
+------	------	krii--	m-i---	n-i--s	gensg	i-ni-s	ii-us	ii---
+------	------	krii--	m-e--n	------	accsg	e-n---	---ud	---um
+------	------	krii--	m-i---	n-a---	nompl	i-na--	a----	a----
+------	------	krii--	m-i---	n-u--m	genpl	i-nu-m	oorum	oorum
+------	------	krii--	m-i---	n-a---	accpl	i-na--	a----	a----
+_	crusta		f	2	2 	1	m
+------	------	kru--s	t-a---	------	nomsg	---a--	a----	a----
+------	------	kru--s	t-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	kru--s	t-a--m	------	accsg	---a-m	a---m	a---m
+------	------	kru--s	t-ai--	------	nompl	---ai-	ai---	ai---
+------	------	kru--s	t-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	kru--s	t-aa-s	------	accpl	---aas	aa--s	aa--s
+_	crux		f	4	5 	3	f
+------	------	------	kruuks	------	nomsg	-----s	a----	a----
+------	------	------	kruu--	k-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	kruu--	k-e--m	accsg	---e-m	a---m	a---m
+------	------	------	kruu--	k-e--s	nompl	---e-s	ai---	ai---
+------	------	------	kruu--	k-u--m	genpl	---u-m	aarum	aarum
+------	------	------	kruu--	k-e--s	accpl	---e-s	aa--s	aa--s
+_	cubiculum	n	8	3 	3	f
+k-u---	b-i---	k-u---	l-u--m	------	nomsg	---u-m	---ud	---um
+k-u---	b-i---	k-u---	l-ii--	------	gensg	---ii-	ii-us	ii---
+k-u---	b-i---	k-u---	l-u--m	------	accsg	---u-m	---ud	---um
+k-u---	b-i---	k-u---	l-a---	------	nompl	---a--	a----	a----
+k-u---	b-i---	k-u---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+k-u---	b-i---	k-u---	l-a---	------	accpl	---a--	a----	a----
+_	cucumis		m	2	2 	1	b
+------	k-u---	k-u---	m-i--s	------	nomsg	---i-s	e----	---us
+------	k-u---	k-u---	m-e---	r-i--s	gensg	e-ri-s	ii-us	ii---
+------	k-u---	k-u---	m-e---	r-e--m	accsg	e-re-m	---um	---um
+------	k-u---	k-u---	m-e---	r-e--s	nompl	e-re-s	ii---	ii---
+------	k-u---	k-u---	m-e---	r-u--m	genpl	e-ru-m	oorum	oorum
+------	k-u---	k-u---	m-e---	r-e--s	accpl	e-re-s	oo--s	oo--s
+_	culpa		f	14	15	5	m
+------	------	k-u--l	p-a---	------	nomsg	---a--	a----	a----
+------	------	k-u--l	p-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	k-u--l	p-a--m	------	accsg	---a-m	a---m	a---m
+------	------	k-u--l	p-ai--	------	nompl	---ai-	ai---	ai---
+------	------	k-u--l	p-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	k-u--l	p-aa-s	------	accpl	---aas	aa--s	aa--s
+_	cultus		m	12	17	5	m
+------	------	------	k-u--l	t-u--s	nomsg	---u-s	e----	---us
+------	------	------	k-u--l	t-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	k-u--l	t-u--m	accsg	---u-m	---um	---um
+------	------	------	k-u--l	t-uu-s	nompl	---uus	ii---	ii---
+------	------	------	k-u--l	t-uu-m	genpl	---uum	oorum	oorum
+------	------	------	k-u--l	t-uu-s	accpl	---uus	oo--s	oo--s
+_	cuneus		m	4	9 	4	m
+------	k-u---	n-e---	--u--s	------	nomsg	---u-s	e----	---us
+------	k-u---	n-e---	--ii--	------	gensg	---ii-	ii-us	ii---
+------	k-u---	n-e---	--u--m	------	accsg	---u-m	---um	---um
+------	k-u---	n-e---	--ii--	------	nompl	---ii-	ii---	ii---
+------	k-u---	n-e---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	k-u---	n-e---	--oo-s	------	accpl	---oos	oo--s	oo--s
+_	currus		m	2	28	5	m
+------	------	------	k-u--r	r-u--s	nomsg	---u-s	e----	---us
+------	------	------	k-u--r	r-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	k-u--r	r-u--m	accsg	---u-m	---um	---um
+------	------	------	k-u--r	r-uu-s	nompl	---uus	ii---	ii---
+------	------	------	k-u--r	r-uu-m	genpl	---uum	oorum	oorum
+------	------	------	k-u--r	r-uu-s	accpl	---uus	oo--s	oo--s
+_	cursus		m	17	40	7	m
+------	------	------	k-u--r	s-u--s	nomsg	---u-s	e----	---us
+------	------	------	k-u--r	s-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	k-u--r	s-u--m	accsg	---u-m	---um	---um
+------	------	------	k-u--r	s-uu-s	nompl	---uus	ii---	ii---
+------	------	------	k-u--r	s-uu-m	genpl	---uum	oorum	oorum
+------	------	------	k-u--r	s-uu-s	accpl	---uus	oo--s	oo--s
+_	custoodia	f	19	4 	5	f
+k-u--s	t-oo--	d-i---	--a---	------	nomsg	---a--	a----	a----
+k-u--s	t-oo--	d-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+k-u--s	t-oo--	d-i---	--a--m	------	accsg	---a-m	a---m	a---m
+k-u--s	t-oo--	d-i---	--ai--	------	nompl	---ai-	ai---	ai---
+k-u--s	t-oo--	d-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+k-u--s	t-oo--	d-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	cuura		f	39	101	8	m
+------	------	k-uu--	r-a---	------	nomsg	---a--	a----	a----
+------	------	k-uu--	r-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	k-uu--	r-a--m	------	accsg	---a-m	a---m	a---m
+------	------	k-uu--	r-ai--	------	nompl	---ai-	ai---	ai---
+------	------	k-uu--	r-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	k-uu--	r-aa-s	------	accpl	---aas	aa--s	aa--s
+_	daemonia	np	2	2 	1	x
+d-ae--	m-o--n	i-----	--a---	------	nompl	---a--	a----	a----
+d-ae--	m-o--n	i-----	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+d-ae--	m-o--n	i-----	--a---	------	accpl	---a--	a----	a----
+_	decor		m	2	6 	3	m
+------	------	d-e---	k-o--r	------	nomsg	------	e----	---us
+------	------	d-e---	k-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	d-e---	k-o---	r-e--m	accsg	---e-m	---um	---um
+------	------	d-e---	k-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	d-e---	k-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	d-e---	k-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	deebitor	mh	2	2 	1	m
+------	d-ee--	b-i---	t-o--r	------	nomsg	------	e----	---us
+------	d-ee--	b-i---	t-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	d-ee--	b-i---	t-o---	r-e--m	accsg	---e-m	---um	---um
+------	d-ee--	b-i---	t-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	d-ee--	b-i---	t-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	d-ee--	b-i---	t-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	deeserta		np	2	2 	1	f
+------	d-ee--	s-e--r	t-a---	------	nompl	---a--	a----	a----
+------	d-ee--	s-e--r	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	d-ee--	s-e--r	t-a---	------	accpl	---a--	a----	a----
+_	dens		m	7	15	5	m
+------	------	------	d-e-ns	------	nomsg	-----s	e----	---us
+------	------	------	d-e--n	t-i--s	gensg	--ti-s	ii-us	ii---
+------	------	------	d-e--n	t-e--m	accsg	--te-m	---um	---um
+------	------	------	d-e--n	t-e--s	nompl	--te-s	ii---	ii---
+------	------	------	d-e--n	t-u--m	genpl	--tu-m	oorum	oorum
+------	------	------	d-e--n	t-e--s	accpl	--te-s	oo--s	oo--s
+_	deus		mh	77	233	10	m
+------	------	d-e---	--u--s	------	nomsg	---u-s	e----	---us
+------	------	d-e---	--ii--	------	gensg	---ii-	ii-us	ii---
+------	------	d-e---	--u--m	------	accsg	---u-m	---um	---um
+------	------	d-e---	--ii--	------	nompl	---ii-	ii---	ii---
+------	------	d-e---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	d-e---	--oo-s	------	accpl	---oos	oo--s	oo--s
+_	diabolus		m	2	2 	1	m
+d-i---	--a---	b-o---	l-u--s	------	nomsg	---u-s	e----	---us
+d-i---	--a---	b-o---	l-ii--	------	gensg	---ii-	ii-us	ii---
+d-i---	--a---	b-o---	l-u--m	------	accsg	---u-m	---um	---um
+d-i---	--a---	b-o---	l-ii--	------	nompl	---ii-	ii---	ii---
+d-i---	--a---	b-o---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+d-i---	--a---	b-o---	l-oo-s	------	accpl	---oos	oo--s	oo--s
+_	diees		m	116	174	10	m
+------	------	d-i---	--e--s	------	nomsg	---e-s	e----	---us
+------	------	d-i---	--e---	------	gensg	---e--	ii-us	ii---
+------	------	d-i---	--e--m	------	accsg	---e-m	---um	---um
+------	------	d-i---	--e--s	------	nompl	---e-s	ii---	ii---
+------	------	d-i---	--e---	r-u--m	genpl	-eru-m	oorum	oorum
+------	------	d-i---	--e--s	------	accpl	---e-s	oo--s	oo--s
+_	discipulus	m	2	3 	2	m
+d-i--s	k-i---	p-u---	l-u--s	------	nomsg	---u-s	e----	---us
+d-i--s	k-i---	p-u---	l-ii--	------	gensg	---ii-	ii-us	ii---
+d-i--s	k-i---	p-u---	l-u--m	------	accsg	---u-m	---um	---um
+d-i--s	k-i---	p-u---	l-ii--	------	nompl	---ii-	ii---	ii---
+d-i--s	k-i---	p-u---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+d-i--s	k-i---	p-u---	l-oo-s	------	accpl	---oos	oo--s	oo--s
+_	doctriina		f	6	5 	3	f
+------	d-o--k	trii--	n-a---	------	nomsg	---a--	a----	a----
+------	d-o--k	trii--	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	d-o--k	trii--	n-am--	------	accsg	---a-m	a---m	a---m
+------	d-o--k	trii--	n-ai--	------	nompl	---ai-	ai---	ai---
+------	d-o--k	trii--	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	d-o--k	trii--	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	dolor		m	16	45	7	m
+------	------	d-o---	l-o--r	------	nomsg	------	e----	---us
+------	------	d-o---	l-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	d-o---	l-o---	r-e--m	accsg	---e-m	---um	---um
+------	------	d-o---	l-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	d-o---	l-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	d-o---	l-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	domina		fh	3	37	6	f
+------	d-o---	m-i---	n-a---	------	nomsg	---a--	a----	a----
+------	d-o---	m-i---	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	d-o---	m-i---	n-a--m	------	accsg	---a-m	a---m	a---m
+------	d-o---	m-i---	n-ai--	------	nompl	---ai-	ai---	ai---
+------	d-o---	m-i---	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	d-o---	m-i---	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	dominus		mh	32	45	7	m
+------	d-o---	m-i---	n-u--s	------	nomsg	---u-s	e----	---us
+------	d-o---	m-i---	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	d-o---	m-i---	n-u--m	------	accsg	---u-m	---um	---um
+------	d-o---	m-i---	n-ii--	------	nompl	---ii-	ii---	ii---
+------	d-o---	m-i---	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	d-o---	m-i---	n-oo-s	------	accpl	---oos	oo--s	oo--s
+_	domus		f	60	126	9	m
+------	------	------	d-o---	m-u--s	nomsg	---u-s	a----	a----
+------	------	------	d-o---	m-uu-s	gensg	---uus	ii-us	ai---
+------	------	------	d-o---	m-u--m	accsg	---u-m	a---m	a---m
+------	------	------	d-o---	m-uu-s	nompl	---uus	ai---	ai---
+------	------	------	d-o---	m-uu-m	genpl	---uum	aarum	aarum
+------	------	------	d-o---	m-uu-s	accpl	---uus	aa--s	aa--s
+_	draco		m	2	5 	3	f
+------	------	dra---	k-o---	------	nomsg	------	e----	---us
+------	------	dra---	k-o---	n-i--s	gensg	o-ni-s	ii-us	ii---
+------	------	dra---	k-o---	n-e--m	accsg	o-ne-m	---um	---um
+------	------	dra---	k-o---	n-ee-s	nompl	o-nees	ii---	ii---
+------	------	dra---	k-o---	n-u--m	genpl	o-nu-m	oorum	oorum
+------	------	dra---	k-o---	n-ee-s	accpl	o-nees	oo--s	oo--s
+_	dux		mh	31	55	8	m
+------	------	------	d-u-ks	------	nomsg	-----s	e----	---us
+------	------	------	d-u--k	--i--s	gensg	---i-s	ii-us	ii---
+------	------	------	d-u--k	--e--m	accsg	---e-m	---um	---um
+------	------	------	d-u--k	--e--s	nompl	---e-s	ii---	ii---
+------	------	------	d-u--k	--u--m	genpl	---u-m	oorum	oorum
+------	------	------	d-u--k	--e--s	accpl	---e-s	oo--s	oo--s
+_	eccleesia	f	2	2 	1	f
+--e--k	l-ee--	s-i---	--a---	------	nomsg	---a--	a----	a----
+--e--k	l-ee--	s-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+--e--k	l-ee--	s-i---	--a---	------	accsg	---a-m	a---m	a---m
+--e--k	l-ee--	s-i---	--a--m	------	nompl	---ai-	ai---	ai---
+--e--k	l-ee--	s-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+--e--k	l-ee--	s-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	epiistola		f	16	4 	5	f
+--e---	p-ii-s	t-o---	l-a---	------	nomsg	---a--	a----	a----
+--e---	p-ii-s	t-o---	l-ai--	------	gensg	---ai-	ii-us	ai---
+--e---	p-ii-s	t-o---	l-a--m	------	accsg	---a-m	a---m	a---m
+--e---	p-ii-s	t-o---	l-ai--	------	nompl	---ai-	ai---	ai---
+--e---	p-ii-s	t-o---	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+--e---	p-ii-s	t-o---	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	equus		m	32	50	7	m
+------	------	--e--k	w-u--s	------	nomsg	---u-s	e----	---us
+------	------	--e--k	w-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	--e--k	w-u--m	------	accsg	---u-m	---um	---um
+------	------	--e--k	w-ii--	------	nompl	---ii-	ii---	ii---
+------	------	--e--k	w-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	--e--k	w-oo-s	------	accpl	---oos	oo--s	oo--s
+_	exaltaatio	f	2	2 	1	m
+--e--k	s-a--l	t-aa--	t-io--	------	nomsg	------	a----	a----
+--e--k	s-a--l	t-aa--	t-io--	n-i--s	gensg	o-ni-s	ii-us	ai---
+--e--k	s-a--l	t-aa--	t-io--	n-e--m	accsg	o-ne-m	a---m	a---m
+--e--k	s-a--l	t-aa--	t-io--	n-ee-s	nompl	o-nees	ai---	ai---
+--e--k	s-a--l	t-aa--	t-io--	n-u--m	genpl	o-nu-m	aarum	aarum
+--e--k	s-a--l	t-aa--	t-io--	n-ee-s	accpl	o-nees	aa--s	aa--s
+_	exemplum	n	15	14	5	f
+------	--e--k	s-e-mp	l-u--m	------	nomsg	---u-m	---ud	---um
+------	--e--k	s-e-mp	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	--e--k	s-e-mp	l-u--m	------	accsg	---u-m	---ud	---um
+------	--e--k	s-e-mp	l-a---	------	nompl	---a--	a----	a----
+------	--e--k	s-e-mp	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--e--k	s-e-mp	l-a---	------	accpl	---a--	a----	a----
+_	exercitus	m	59	4 	7	f
+------	--e--k	s-e--r	k-i---	t-u--s	nomsg	---u-s	e----	---us
+------	--e--k	s-e--r	k-i---	t-uu-s	gensg	---uus	ii-us	ii---
+------	--e--k	s-e--r	k-i---	t-u--m	accsg	---u-m	---um	---um
+------	--e--k	s-e--r	k-i---	t-uu-s	nompl	---uus	ii---	ii---
+------	--e--k	s-e--r	k-i---	t-uu-m	genpl	---uum	oorum	oorum
+------	--e--k	s-e--r	k-i---	t-uu-s	accpl	---uus	oo--s	oo--s
+_	faama		f	20	50	7	b
+------	------	f-aa--	m-a---	------	nomsg	---a--	a----	a----
+------	------	f-aa--	m-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	f-aa--	m-a--n	------	accsg	---a-m	a---m	a---m
+------	------	f-aa--	m-ai--	------	nompl	---ai-	ai---	ai---
+------	------	f-aa--	m-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	f-aa--	m-aa-s	------	accpl	---aas	aa--s	aa--s
+_	fabula		f	7	21	5	m
+------	f-a---	b-u---	l-a---	------	nomsg	---a--	a----	a----
+------	f-a---	b-u---	l-ai--	------	gensg	---ai-	ii-us	ai---
+------	f-a---	b-u---	l-a--m	------	accsg	---a-m	a---m	a---m
+------	f-a---	b-u---	l-ai--	------	nompl	---ai-	ai---	ai---
+------	f-a---	b-u---	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	f-a---	b-u---	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	faciees		fs	6	25	5	f
+------	------	f-a---	k-i---	--e--s	nomsg	---e-s	a----	a----
+------	------	f-a---	k-i---	--e---	gensg	---e--	ii-us	ai---
+------	------	f-a---	k-i---	--e--m	accsg	---e-m	a---m	a---m
+_	factum		n	2	2 	1	f
+------	------	f-a--k	t-u--m	------	nomsg	---u-m	---ud	---um
+------	------	f-a--k	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	f-a--k	t-u--m	------	accsg	---u-m	---ud	---um
+------	------	f-a--k	t-a---	------	nompl	---a--	a----	a----
+------	------	f-a--k	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	f-a--k	t-a---	------	accpl	---a--	a----	a----
+_	fallaacia		f	2	2 	1	m
+f-a--l	l-aa--	k-i---	--a---	------	nomsg	---a--	a----	a----
+f-a--l	l-aa--	k-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+f-a--l	l-aa--	k-i---	--a--m	------	accsg	---a-m	a---m	a---m
+f-a--l	l-aa--	k-i---	--ai--	------	nompl	---ai-	ai---	ai---
+f-a--l	l-aa--	k-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+f-a--l	l-aa--	k-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	fames		fs	10	15	5	m
+------	------	------	f-a---	m-e--s	nomsg	---e-s	a----	a----
+------	------	------	f-a---	m-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	f-a---	m-e--m	accsg	---e-m	a---m	a---m
+_	familia		f	16	2 	4	b
+f-a---	m-i---	l-i---	--a---	------	nomsg	---a--	a----	a----
+f-a---	m-i---	l-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+f-a---	m-i---	l-i---	--a--m	------	accsg	---a-m	a---m	a---m
+f-a---	m-i---	l-i---	--ai--	------	nompl	---ai-	ai---	ai---
+f-a---	m-i---	l-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+f-a---	m-i---	l-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	famula		fh	2	2 	1	f
+------	f-a---	m-u---	l-a---	------	nomsg	---a--	a----	a----
+------	f-a---	m-u---	l-ai--	------	gensg	---ai-	ii-us	ai---
+------	f-a---	m-u---	l-a--m	------	accsg	---a-m	a---m	a---m
+------	f-a---	m-u---	l-ai--	------	nompl	---ai-	ai---	ai---
+------	f-a---	m-u---	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	f-a---	m-u---	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	fariina		f	2	2 	1	m
+------	f-a---	r-ii--	n-a---	------	nomsg	---a--	a----	a----
+------	f-a---	r-ii--	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	f-a---	r-ii--	n-a--m	------	accsg	---a-m	a---m	a---m
+------	f-a---	r-ii--	n-ai--	------	nompl	---ai-	ai---	ai---
+------	f-a---	r-ii--	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	f-a---	r-ii--	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	feemina		fh	14	25	6	f
+------	f-ee--	m-i---	n-a---	------	nomsg	---a--	a----	a----
+------	f-ee--	m-i---	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	f-ee--	m-i---	n-a--m	------	accsg	---a-m	a---m	a---m
+------	f-ee--	m-i---	n-ai--	------	nompl	---ai-	ai---	ai---
+------	f-ee--	m-i---	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	f-ee--	m-i---	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	ferrum		n	15	28	6	m
+------	------	f-e--r	r-u--m	------	nomsg	---u-m	---ud	---um
+------	------	f-e--r	r-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	f-e--r	r-u--m	------	accsg	---u-m	---ud	---um
+------	------	f-e--r	r-a---	------	nompl	---a--	a----	a----
+------	------	f-e--r	r-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	f-e--r	r-a---	------	accpl	---a--	a----	a----
+_	festum		n	2	2	1	m
+------	------	f-e--s	t-u--m	------	nomsg	---u-m	---ud	---um
+------	------	f-e--s	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	f-e--s	t-u--m	------	accsg	---u-m	---ud	---um
+------	------	f-e--s	t-a---	------	nompl	---a--	a----	a----
+------	------	f-e--s	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	f-e--s	t-a---	------	accpl	---a--	a----	a----
+_	festuuca		f	2	2 	1	f
+------	f-e--s	t-uu--	k-a---	------	nomsg	---a--	a----	a----
+------	f-e--s	t-uu--	k-ai--	------	gensg	---ai-	ii-us	ai---
+------	f-e--s	t-uu--	k-a--m	------	accsg	---a-m	a---m	a---m
+------	f-e--s	t-uu--	k-ai--	------	nompl	---ai-	ai---	ai---
+------	f-e--s	t-uu--	k-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	f-e--s	t-uu--	k-aa-s	------	accpl	---aas	aa--s	aa--s
+_	fides		fs	31	58	8	f
+------	------	------	f-i---	d-e--s	nomsg	---e-s	a----	a----
+------	------	------	f-i---	d-e---	gensg	---e--	ii-us	ai---
+------	------	------	f-i---	d-e--m	accsg	---e-m	a---m	a---m
+_	figuura		f	10	16	5	b
+------	f-i---	g-uu--	r-a---	------	nomsg	---a--	a----	a----
+------	f-i---	g-uu--	r-ai--	------	gensg	---ai-	ii-us	ai---
+------	f-i---	g-uu--	r-a--m	------	accsg	---a-m	a---m	a---m
+------	f-i---	g-uu--	r-ai--	------	nompl	---ai-	ai---	ai---
+------	f-i---	g-uu--	r-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	f-i---	g-uu--	r-aa-s	------	accpl	---aas	aa--s	aa--s
+_	fiicus		f	2	2 	1	m
+------	------	f-ii--	k-u--s	------	nomsg	---u-s	a----	a----
+------	------	f-ii--	k-ii--	------	gensg	---ii-	ii-us	ai---
+------	------	f-ii--	k-u--m	------	accsg	---u-m	a---m	a---m
+------	------	f-ii--	k-ii--	------	nompl	---ii-	ai---	ai---
+------	------	f-ii--	k-oo--	r-u--m	genpl	ooru-m	aarum	aarum
+------	------	f-ii--	k-oo-s	------	accpl	---oos	aa--s	aa--s
+_	fiilia		fh	12	9 	5	f
+------	f-ii--	l-i---	--a---	------	nomsg	---a--	a----	a----
+------	f-ii--	l-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+------	f-ii--	l-i---	--a--m	------	accsg	---a-m	a---m	a---m
+------	f-ii--	l-i---	--ai--	------	nompl	---ai-	ai---	ai---
+------	f-ii--	l-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	f-ii--	l-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	fiilius		mh	22	13	6	m
+------	f-ii--	l-i---	--u--s	------	nomsg	---u-s	e----	---us
+------	f-ii--	l-i---	--ii--	------	gensg	---ii-	ii-us	ii---
+------	f-ii--	l-i---	--u--m	------	accsg	---u-m	---um	---um
+------	f-ii--	l-i---	--ii--	------	nompl	---ii-	ii---	ii---
+------	f-ii--	l-i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	f-ii--	l-i---	--oo-s	------	accpl	---oos	oo--s	oo--s
+_	fiinis		m	35	49	7	m
+------	------	------	f-ii--	n-i--s	nomsg	---i-s	e----	---us
+------	------	------	f-ii--	n-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	f-ii--	n-e--m	accsg	---e-m	---um	---um
+------	------	------	f-ii--	n----m	nompl	---e-s	ii---	ii---
+------	------	------	f-ii--	n-u--m	genpl	---u-m	oorum	oorum
+------	------	------	f-ii--	n-e--s	accpl	---e-s	oo--s	oo--s
+_	fiscella		f	2	2	1	f
+------	f-i--s	k-e--l	l-a---	------	nomsg	---a--	a----	a----
+------	f-i--s	k-e--l	l-ai--	------	gensg	---ai-	ii-us	ai---
+------	f-i--s	k-e--l	l-a--m	------	accsg	---a-m	a---m	a---m
+------	f-i--s	k-e--l	l-ai--	------	nompl	---ai-	ai---	ai---
+------	f-i--s	k-e--l	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	f-i--s	k-e--l	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	flamma		f	14	65	7	f
+------	------	fla--m	m-a---	------	nomsg	---a--	a----	a----
+------	------	fla--m	m-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	fla--m	m-a--m	------	accsg	---a-m	a---m	a---m
+------	------	fla--m	m-ai--	------	nompl	---ai-	ai---	ai---
+------	------	fla--m	m-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	fla--m	m-aa-s	------	accpl	---aas	aa--s	aa--s
+_	floos		m	3	73	7	m
+------	------	------	floo-s	------	nomsg	-----s	e----	---us
+------	------	------	floo--	r-i--s	gensg	--ri-s	ii-us	ii---
+------	------	------	floo--	r-e--m	accsg	--re-m	---um	---um
+------	------	------	floo--	r-e--s	nompl	--re-s	ii---	ii---
+------	------	------	floo--	r-u--m	genpl	--ru-m	oorum	oorum
+------	------	------	floo--	r-e--s	accpl	--re-s	oo--s	oo--s
+_	fluumen		n	29	50	7	m
+------	------	fluu--	m-e--n	------	nomsg	e-n---	---ud	---um
+------	------	fluu--	m-i---	n-i--s	gensg	i-ni-s	ii-us	ii---
+------	------	fluu--	m-e--n	------	accsg	e-n---	---ud	---um
+------	------	fluu--	m-i---	n-a---	nompl	i-na--	a----	a----
+------	------	fluu--	m-i---	n-u--m	genpl	i-nu-m	oorum	oorum
+------	------	fluu--	m-i---	n-a---	accpl	i-na--	a----	a----
+_	fluvius		m	4	10	4	m
+------	flu---	v-i---	--u--s	------	nomsg	---u-s	e----	---us
+------	flu---	v-i---	--ii--	------	gensg	---ii-	ii-us	ii---
+------	flu---	v-i---	--u--m	------	accsg	---u-m	---um	---um
+------	flu---	v-i---	--ii--	------	nompl	---ii-	ii---	ii---
+------	flu---	v-i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	flu---	v-i---	--oo-s	------	accpl	---oos	oo--s	oo--s
+_	fluxus		m	2	2 	1	b
+------	------	------	flu--k	s-u--s	nomsg	---u-s	e----	---us
+------	------	------	flu--k	s-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	flu--k	s-u--m	accsg	---u-m	---um	---um
+------	------	------	flu--k	s-uu-s	nompl	---uus	ii---	ii---
+------	------	------	flu--k	s-uu-m	genpl	---uum	oorum	oorum
+------	------	------	flu--k	s-uu-s	accpl	---uus	oo--s	oo--s
+_	follis		m	2	2 	1	f
+------	------	------	f-o--l	l-i--s	nomsg	---i-s	e----	---us
+------	------	------	f-o--l	l-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	f-o--l	l-e--m	accsg	---e-m	---um	---um
+------	------	------	f-o--l	l-e--s	nompl	---e-s	ii---	ii---
+------	------	------	f-o--l	l-u--m	genpl	---u-m	oorum	oorum
+------	------	------	f-o--l	l-e--s	accpl	---e-s	oo--s	oo--s
+_	fons		m	6	46	7	f
+------	------	------	f-o-ns	------	nomsg	-----s	e----	---us
+------	------	------	f-o--n	t-i--s	gensg	--ti-s	ii-us	ii---
+------	------	------	f-o--n	t-e--m	accsg	--te-m	---um	---um
+------	------	------	f-o--n	t-e--s	nompl	--te-s	ii---	ii---
+------	------	------	f-o--n	t-u--m	genpl	--tu-m	oorum	oorum
+------	------	------	f-o--n	t-e--s	accpl	--te-s	oo--s	oo--s
+_	foorma		f	19	42	7	f
+------	------	f-oo-r	m-a---	------	nomsg	---a--	a----	a----
+------	------	f-oo-r	m-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	f-oo-r	m-a--m	------	accsg	---a-m	a---m	a---m
+------	------	f-oo-r	m-ai--	------	nompl	---ai-	ai---	ai---
+------	------	f-oo-r	m-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	f-oo-r	m-aa-s	------	accpl	---aas	aa--s	aa--s
+_	foraamen	n	2	2 	1	m
+------	f-o---	r-aa--	m-e--n	------	nomsg	e-n---	---ud	---um
+------	f-o---	r-aa--	m-i---	n-i--s	gensg	i-ni-s	ii-us	ii---
+------	f-o---	r-aa--	m-e--n	------	accsg	e-n---	---ud	---um
+------	f-o---	r-aa--	m-i---	n-a---	nompl	i-na--	a----	a----
+------	f-o---	r-aa--	m-i---	n-u--m	genpl	i-nu-m	oorum	oorum
+------	f-o---	r-aa--	m-i---	n-a---	accpl	i-na--	a----	a----
+_	fores		fp	11	36	6	f
+------	------	------	f-o---	r-e--s	nompl	---e-s	ai---	ai---
+------	------	------	f-o---	r-u--m	genpl	---u-m	aarum	aarum
+------	------	------	f-o---	r-e--s	accpl	---e-s	aa--s	aa--s
+_	forum		n	8	16	5	f
+------	------	f-o---	r-u--m	------	nomsg	---u-m	---ud	---um
+------	------	f-o---	r-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	f-o---	r-u--m	------	accsg	---u-m	---ud	---um
+------	------	f-o---	r-a---	------	nompl	---a--	a----	a----
+------	------	f-o---	r-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	f-o---	r-a---	------	accpl	---a--	a----	a----
+_	fraater		mh	15	52	7	m
+------	------	fraa--	t-e--r	------	nomsg	------	e----	---us
+------	------	fraa--	t-e---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	fraa--	t-e---	r-e--m	accsg	---e-m	---um	---um
+------	------	fraa--	t-e---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	fraa--	t-e---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	fraa--	t-e---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	fragmentum	n	2	2 	1	m
+------	fra--g	m-e--n	t-u--m	------	nomsg	---u-m	---ud	---um
+------	fra--g	m-e--n	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	fra--g	m-e--n	t-u--m	------	accsg	---u-m	---ud	---um
+------	fra--g	m-e--n	t-a---	------	nompl	---a--	a----	a----
+------	fra--g	m-e--n	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	fra--g	m-e--n	t-a---	------	accpl	---a--	a----	a----
+_	fremor		m	2	2 	1	m
+------	------	fre---	m-o--r	------	nomsg	------	e----	---us
+------	------	fre---	m-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	fre---	m-o---	r-e--m	accsg	---e-m	---um	---um
+------	------	fre---	m-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	fre---	m-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	fre---	m-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	fretum		n	2	30	6	b
+------	------	fre---	t-u--m	------	nomsg	---u-m	---ud	---um
+------	------	fre---	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	fre---	t-u--m	------	accsg	---u-m	---ud	---um
+------	------	fre---	t-s---	------	nompl	---a--	a----	a----
+------	------	fre---	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	fre---	t-a---	------	accpl	---a--	a----	a----
+_	frons		f	11	24	6	m
+------	------	------	fro-ns	------	nomsg	-----s	a----	a----
+------	------	------	fro--n	t-i--s	gensg	--ti-s	ii-us	ai---
+------	------	------	fro--n	t-e--n	accsg	--te-m	a---m	a---m
+------	------	------	fro--n	t-e--s	nompl	--te-s	ai---	ai---
+------	------	------	fro--n	t-u--m	genpl	--tu-m	aarum	aarum
+------	------	------	fro--n	t-e--s	accpl	--te-s	aa--s	aa--s
+_	frux		f	4	24	5	f
+------	------	------	fru-ks	------	nomsg	-----s	a----	a----
+------	------	------	fru---	g-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	fru---	g-e--m	accsg	---e-m	a---m	a---m
+------	------	------	fru---	g-e--s	nompl	---e-s	ai---	ai---
+------	------	------	fru---	g-u--m	genpl	---u-m	aarum	aarum
+------	------	------	fru---	g-e--s	accpl	---e-s	aa--s	aa--s
+_	fuga		f	21	24	6	b
+------	------	f-u---	g-a---	------	nomsg	---a--	a----	a----
+------	------	f-u---	g-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	f-u---	g-a--m	------	accsg	---a-m	a---m	a---m
+------	------	f-u---	g-ai--	------	nompl	---ai-	ai---	ai---
+------	------	f-u---	g-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	f-u---	g-aa-s	------	accpl	---aas	aa--s	aa--s
+_	fundus		m	5	4 	3	m
+------	------	f-u--n	d-u--s	------	nomsg	---u-s	e----	---us
+------	------	f-u--n	d-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	f-u--n	d-u--m	------	accsg	---u-m	---um	---um
+------	------	f-u--n	d-ii--	------	nompl	---ii-	ii---	ii---
+------	------	f-u--n	d-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	f-u--n	d-oo-s	------	accpl	---oos	oo--s	oo--s
+_	furnus		m	2	2 	1	f
+------	------	f-u--r	n-u--s	------	nomsg	---u-s	e----	---us
+------	------	f-u--r	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	f-u--r	n-u--m	------	accsg	---u-m	---um	---um
+------	------	f-u--r	n-ii--	------	nompl	---ii-	ii---	ii---
+------	------	f-u--r	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	f-u--r	n-oo-s	------	accpl	---oos	oo--s	oo--s
+_	furor		m	3	27	5	m
+------	------	f-u---	r-o--r	------	nomsg	------	e----	---us
+------	------	r-o---	r-i--s	------	gensg	---i-s	ii-us	ii---
+------	------	r-o---	r-e--m	------	accsg	---e-m	---um	---um
+------	------	r-o---	r-e--s	------	nompl	---e-s	ii---	ii---
+------	------	f-u---	r-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	r-o---	r-e--s	------	accpl	---e-s	oo--s	oo--s
+_	furtum		n	4	14	4	m
+------	------	f-u--r	t-u--m	------	nomsg	---u-m	---ud	---um
+------	------	f-u--r	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	f-u--r	t-u--m	------	accsg	---u-m	---ud	---um
+------	------	f-u--r	t-a---	------	nompl	---a--	a----	a----
+------	------	f-u--r	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	f-u--r	t-a---	------	accpl	---a--	a----	a----
+_	fuuniculus	m	2	2 	1	m
+f-uu--	n-i---	k-u--l	--u--s	------	nomsg	---u-s	e----	---us
+f-uu--	n-i---	k-u--l	--ii--	------	gensg	---ii-	ii-us	ii---
+f-uu--	n-i---	k-u--l	--u--m	------	accsg	---u-m	---um	---um
+f-uu--	n-i---	k-u--l	--ii--	------	nompl	---ii-	ii---	ii---
+f-uu--	n-i---	k-u--l	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+f-uu--	n-i---	k-u--l	--oo-s	------	accpl	---oos	oo--s	oo--s
+_	fuunis		m	2	2 	1	m
+------	------	------	f-uu--	n-i--s	nomsg	---i-s	e----	---us
+------	------	------	f-uu--	n-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	f-uu--	n-e--m	accsg	---e-m	---um	---um
+------	------	------	f-uu--	n-e--s	nompl	---e-s	ii---	ii---
+------	------	------	f-uu--	n-u--m	genpl	---u-m	oorum	oorum
+------	------	------	f-uu--	n-e--s	accpl	---e-s	oo--s	oo--s
+_	gaudium		np	5	32	6	f
+------	g-au--	d-i---	--a---	------	nompl	---a--	a----	a----
+------	g-au--	d-i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	g-au--	d-i---	--a---	------	accpl	---a--	a----	a----
+_	gens		f	26	62	8	m
+------	------	------	g-e-ns	------	nomsg	-----s	a----	a----
+------	------	------	g-e--n	t-i--s	gensg	--ti-s	ii-us	ai---
+------	------	------	g-e--n	t-e--m	accsg	--te-m	a---m	a---m
+------	------	------	g-e--n	t-e--s	nompl	--te-s	ai---	ai---
+------	------	------	g-e--n	t-u--m	genpl	--tu-m	aarum	aarum
+------	------	------	g-e--n	t-e--s	accpl	--te-s	aa--s	aa--s
+_	genus		n	71	58	8	m
+------	------	g-e---	n-u--s	------	nomsg	---u-s	---ud	---um
+------	------	g-e---	n-e---	r-i--s	gensg	e-ri-s	ii-us	ii---
+------	------	g-e---	n-u--s	------	accsg	---u-s	---ud	---um
+------	------	g-e---	n-e---	r-a---	nompl	e-ra--	a----	a----
+------	------	g-e---	n-e---	r-u--m	genpl	e-ru-m	oorum	oorum
+------	------	g-e---	n-e---	r-a---	accpl	e-ra--	a----	a----
+_	gladius		m	21	7 	5	m
+------	gla---	d-i---	--u--s	------	nomsg	---u-s	e----	---us
+------	gla---	d-i---	--ii--	------	gensg	---ii-	ii-us	ii---
+------	gla---	d-i---	--u--m	------	accsg	---u-m	---um	---um
+------	gla---	d-i---	--ii--	------	nompl	---ii-	ii---	ii---
+------	gla---	d-i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	gla---	d-i---	--oo-s	------	accpl	---oos	oo--s	oo--s
+_	glooria		f	28	30	7	m
+------	gloo--	r-i---	--a---	------	nomsg	---a--	a----	a----
+------	gloo--	r-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+------	gloo--	r-i---	--a--m	------	accsg	---a-m	a---m	a---m
+------	gloo--	r-i---	--ai--	------	nompl	---ai-	ai---	ai---
+------	gloo--	r-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	gloo--	r-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	graanaata	np	2	2 	1	x
+------	graa--	n-aa--	t-a---	------	nompl	---a--	a----	a----
+------	graa--	n-aa--	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	graa--	n-aa--	t-a---	------	accpl	---a--	a----	a----
+_	graatia		f	31	24	7	m
+------	graa--	t-i---	--a---	------	nomsg	---a--	a----	a----
+------	graa--	t-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+------	graa--	t-i---	--a--m	------	accsg	---a-m	a---m	a---m
+------	graa--	t-i---	--ai--	------	nompl	---ai-	ai---	ai---
+------	graa--	t-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	graa--	t-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	gradus		m	7	12	5	m
+------	------	------	gra---	d-u--s	nomsg	---u-s	e----	---us
+------	------	------	gra---	d-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	gra---	d-u--m	accsg	---u-m	---um	---um
+------	------	------	gra---	d-uu-s	nompl	---uus	ii---	ii---
+------	------	------	gra---	d-uu-m	genpl	---uum	oorum	oorum
+------	------	------	gra---	d-uu-s	accpl	---uus	oo--s	oo--s
+_	grex		m	4	24	5	f
+------	------	------	gre-ks	------	nomsg	-----s	e----	---us
+------	------	------	gre---	g-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	gre---	g-e--m	accsg	---e-m	---um	---um
+------	------	------	gre---	g-e--s	nompl	---e-s	ii---	ii---
+------	------	------	gre---	g-u--m	genpl	---u-m	oorum	oorum
+------	------	------	gre---	g-e--s	accpl	---e-s	oo--s	oo--s
+_	gula		f	2	2 	1	m
+------	------	g-u---	l-a---	------	nomsg	---a--	a----	a----
+------	------	g-u---	l-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	g-u---	l-a--m	------	accsg	---a-m	a---m	a---m
+------	------	g-u---	l-ai--	------	nompl	---ai-	ai---	ai---
+------	------	g-u---	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	g-u---	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	gustuus		m	2	2 	1	f
+------	------	g-u--s	t-u--s	------	nomsg	---u-s	e----	---us
+------	------	g-u--s	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	g-u--s	t-u--m	------	accsg	---u-m	---um	---um
+------	------	g-u--s	t-ii--	------	nompl	---ii-	ii---	ii---
+------	------	g-u--s	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	g-u--s	t-oo-s	------	accpl	---oos	oo--s	oo--s
+_	gyyrus		m	2	2 	1	m
+------	------	g-ii--	r-u--s	------	nomsg	---u-s	e----	---us
+------	------	g-ii--	r-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	g-ii--	r-u--m	------	accsg	---u-m	---um	---um
+------	------	g-ii--	r-ii--	------	nompl	---ii-	ii---	ii---
+------	------	g-ii--	r-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	g-ii--	r-oo-s	------	accpl	---oos	oo--s	oo--s
+_	herba		f	3	32	6	m
+------	------	h-e--r	b-a---	------	nomsg	---a--	a----	a----
+------	------	h-e--r	b-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	h-e--r	b-a--m	------	accsg	---a-m	a---m	a---m
+------	------	h-e--r	b-ai--	------	nompl	---ai-	ai---	ai---
+------	------	h-e--r	b-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	h-e--r	b-aa-s	------	accpl	---aas	aa--s	aa--s
+_	homo		mh	151	74	9	m
+------	------	h-o---	m-o---	------	nomsg	---o--	e----	---us
+------	------	h-o---	m-i---	n-i--s	gensg	i-ni-s	ii-us	ii---
+------	------	h-o---	m-i---	n-e--m	accsg	i-ne-m	---um	---um
+------	------	h-o---	m-i---	n-e--s	nompl	i-ne-s	ii---	ii---
+------	------	h-o---	m-i---	n-u--m	genpl	i-nu-m	oorum	oorum
+------	------	h-o---	m-i---	n-e--s	accpl	i-ne-s	oo--s	oo--s
+_	hoora		f	18	33	6	f
+------	------	h-oo--	r-a---	------	nomsg	---a--	a----	a----
+------	------	h-oo--	r-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	h-oo--	r-a--m	------	accsg	---a-m	a---m	a---m
+------	------	h-oo--	r-ai--	------	nompl	---ai-	ai---	ai---
+------	------	h-oo--	r-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	h-oo--	r-aa-s	------	accpl	---aas	aa--s	aa--s
+_	horrea		np	2	7 	3	f
+------	h-o--r	r-e---	--a---	------	nompl	---a--	a----	a----
+------	h-o--r	r-e---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	h-o--r	r-e---	--a---	------	accpl	---a--	a----	a----
+_	hospes		mh	6	12	4	m
+------	------	h-o--s	p-e--s	------	nomsg	---e-s	e----	---us
+------	------	h-o--s	p-i---	t-i--s	gensg	i-ti-s	ii-us	ii---
+------	------	h-o--s	p-i---	t-e--m	accsg	i-te-m	---um	---um
+------	------	h-o--s	p-i---	t-e--s	nompl	i-te-s	ii---	ii---
+------	------	h-o--s	p-i---	t-u--m	genpl	i-tu-m	oorum	oorum
+------	------	h-o--s	p-i---	t-e--s	accpl	i-te-s	oo--s	oo--s
+_	hospes		fh	6	12	4	f
+------	------	h-o--s	p-e--s	------	nomsg	---e-s	a----	a----
+------	------	h-o--s	p-i---	t-i--s	gensg	i-ti-s	ii-us	ai---
+------	------	h-o--s	p-i---	t-e--m	accsg	i-te-m	a---m	a---m
+------	------	h-o--s	p-i---	t-e--s	nompl	i-te-s	ai---	ai---
+------	------	h-o--s	p-i---	t-u--m	genpl	i-tu-m	aarum	aarum
+------	------	h-o--s	p-i---	t-e--s	accpl	i-te-s	aa--s	aa--s
+_	hostis		mh	54	19	7	m
+------	------	------	h-o--s	t-i--s	nomsg	---i-s	e----	---us
+------	------	------	h-o--s	t-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	h-o--s	t-e--m	accsg	---e-m	---um	---um
+------	------	------	h-o--s	t-e--s	nompl	---e-s	ii---	ii---
+------	------	------	h-o--s	t-u--m	genpl	---u-m	oorum	oorum
+------	------	------	h-o--s	t-e--s	accpl	---e-s	oo--s	oo--s
+_	hostis		fh	54	19	7	f
+------	------	------	h-o--s	t-i--s	nomsg	---i-s	a----	a----
+------	------	------	h-o--s	t-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	h-o--s	t-e--m	accsg	---e-m	a---m	a---m
+------	------	------	h-o--s	t-e--s	nompl	---e-s	ai---	ai---
+------	------	------	h-o--s	t-u--m	genpl	---u-m	aarum	aarum
+------	------	------	h-o--s	t-e--s	accpl	---e-s	aa--s	aa--s
+_	humus		f	7	34	6	f
+------	------	h-u---	m-u--s	------	nomsg	---u-s	a----	a----
+------	------	h-u---	m-ii--	------	gensg	---ii-	ii-us	ai---
+------	------	h-u---	m-u--m	------	accsg	---u-m	a---m	a---m
+------	------	h-u---	m-ii--	------	nompl	---ii-	ai---	ai---
+------	------	h-u---	m-oo--	r-u--m	genpl	ooru-m	aarum	aarum
+------	------	h-u---	m-oo-s	------	accpl	---oos	aa--s	aa--s
+_	hyacinthus	m	2	9 	3	m
+------	h-ia--	k-i--n	t-u--s	------	nomsg	---u-s	e----	---us
+------	h-ia--	k-i--n	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	h-ia--	k-i--n	t-u--m	------	accsg	---u-m	---um	---um
+------	h-ia--	k-i--n	t-ii--	------	nompl	---ii-	ii---	ii---
+------	h-ia--	k-i--n	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	h-ia--	k-i--n	t-oo-s	------	accpl	---oos	oo--s	oo--s
+_	hypocrita	mh	2	2 	1	m
+h-i---	p-o---	kri---	t-a---	------	nomsg	---a--	e----	---us
+h-i---	p-o---	kri---	t-ai--	------	gensg	---ai-	ii-us	ii---
+h-i---	p-o---	kri---	t-a--m	------	accsg	---a-m	---um	---um
+h-i---	p-o---	kri---	t-ai--	------	nompl	---ai-	ii---	ii---
+h-i---	p-o---	kri---	t-aa--	r-u--m	genpl	aaru-m	oorum	oorum
+h-i---	p-o---	kri---	t-aa-s	------	accpl	---aas	oo--s	oo--s
+_	hypocrita	fh	2	2 	1	f
+h-i---	p-o---	kri---	t-a---	------	nomsg	---a--	a----	a----
+h-i---	p-o---	kri---	t-ai--	------	gensg	---ai-	ii-us	ai---
+h-i---	p-o---	kri---	t-a--m	------	accsg	---a-m	a---m	a---m
+h-i---	p-o---	kri---	t-ai--	------	nompl	---ai-	ai---	ai---
+h-i---	p-o---	kri---	t-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+h-i---	p-o---	kri---	t-aa-s	------	accpl	---aas	aa--s	aa--s
+_	ignis		m	25	115	8	m
+------	------	------	--i--g	n-i--s	nomsg	---i-s	e----	---us
+------	------	------	--i--g	n-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	--i--g	n-e--m	accsg	---e-m	---um	---um
+------	------	------	--i--g	n-e--s	nompl	---e-s	ii---	ii---
+------	------	------	--i--g	n-u--m	genpl	---u-m	oorum	oorum
+------	------	------	--i--g	n-e--s	accpl	---e-s	oo--s	oo--s
+_	iira		f	25	25	6	m
+------	------	--ii--	r-a---	------	nomsg	---a--	a----	a----
+------	------	--ii--	r-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	--ii--	r-a--m	------	accsg	---a-m	a---m	a---m
+------	------	--ii--	r-ai--	------	nompl	---ai-	ai---	ai---
+------	------	--ii--	r-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	--ii--	r-aa-s	------	accpl	---aas	aa--s	aa--s
+_	incensum	n	2	2 	1	m
+------	--i--n	k-e--n	s-u--m	------	nomsg	---u-m	---ud	---um
+------	--i--n	k-e--n	s-ii--	------	gensg	---ii-	ii-us	ii---
+------	--i--n	k-e--n	s-u--m	------	accsg	---u-m	---ud	---um
+------	--i--n	k-e--n	s-a---	------	nompl	---a--	a----	a----
+------	--i--n	k-e--n	s-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--i--n	k-e--n	s-a---	------	accpl	---a--	a----	a----
+_	industria		f	7	2 	3	m
+--i--n	d-u--s	tri---	--a---	------	nomsg	---a--	a----	a----
+--i--n	d-u--s	tri---	--ai--	------	gensg	---ai-	ii-us	ai---
+--i--n	d-u--s	tri---	--a--m	------	accsg	---a-m	a---m	a---m
+--i--n	d-u--s	tri---	--ai--	------	nompl	---ai-	ai---	ai---
+--i--n	d-u--s	tri---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+--i--n	d-u--s	tri---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	infernum	n	2	2 	1	f
+------	--i--n	f-e--r	n-u--m	------	nomsg	---u-m	---ud	---um
+------	--i--n	f-e--r	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	--i--n	f-e--r	n-u--m	------	accsg	---u-m	---ud	---um
+------	--i--n	f-e--r	n-a---	------	nompl	---a--	a----	a----
+------	--i--n	f-e--r	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--i--n	f-e--r	n-a---	------	accpl	---a--	a----	a----
+_	inimiicus	m	16	7	5	m
+--i---	n-i---	m-ii--	k-u--s	------	nomsg	---u-s	e----	---us
+--i---	n-i---	m-ii--	k-ii--	------	gensg	---ii-	ii-us	ii---
+--i---	n-i---	m-ii--	k-u--m	------	accsg	---u-m	---um	---um
+--i---	n-i---	m-ii--	k-ii--	------	nompl	---ii-	ii---	ii---
+--i---	n-i---	m-ii--	k-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+--i---	n-i---	m-ii--	k-oo-s	------	accpl	---oos	oo--s	oo--s
+_	injuuria		f	21	6 	5	m
+--i--n	y-uu--	r-i---	--a---	------	nomsg	---a--	a----	a----
+--i--n	y-uu--	r-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+--i--n	y-uu--	r-i---	--a--m	------	accsg	---a-m	a---m	a---m
+--i--n	y-uu--	r-i---	--ai--	------	nompl	---ai-	ai---	ai---
+--i--n	y-uu--	r-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+--i--n	y-uu--	r-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	intestiina	np	2	2 	1	x
+--i--n	t-e--s	t-ii--	n-a---	------	nompl	---a--	a----	a----
+--i--n	t-e--s	t-ii--	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+--i--n	t-e--s	t-ii--	n-a---	------	accpl	---a--	a----	a----
+_	jugum		n	9	42	6	f
+------	------	y-u---	g-u--m	------	nomsg	---u-m	---ud	---um
+------	------	y-u---	g-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	y-u---	g-u--m	------	accsg	---u-m	---ud	---um
+------	------	y-u---	g-a---	------	nompl	---a--	a----	a----
+------	------	y-u---	g-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	y-u---	g-a---	------	accpl	---a--	a----	a----
+_	justitia		f	8	7 	4	m
+y-u--s	t-i---	t-i---	--a---	------	nomsg	---a--	a----	a----
+y-u--s	t-i---	t-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+y-u--s	t-i---	t-i---	--a--m	------	accsg	---a-m	a---m	a---m
+y-u--s	t-i---	t-i---	--ai--	------	nompl	---ai-	ai---	ai---
+y-u--s	t-i---	t-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+y-u--s	t-i---	t-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	juumentum	n	7	2 	3	m
+------	y-uu--	m-e--n	t-u--m	------	nomsg	---u-m	---ud	---um
+------	y-uu--	m-e--n	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	y-uu--	m-e--n	t-u--m	------	accsg	---u-m	---ud	---um
+------	y-uu--	m-e--n	t-a---	------	nompl	---a--	a----	a----
+------	y-uu--	m-e--n	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	y-uu--	m-e--n	t-a---	------	accpl	---a--	a----	a----
+_	juus		n	27	50	7	f
+------	------	------	y-uu-s	------	nomsg	-----s	---ud	---um
+------	------	------	y-uu--	r-i--s	gensg	--ri-s	ii-us	ii---
+------	------	------	y-uu--	r-e--m	accsg	--re-m	---ud	---um
+------	------	------	y-uu--	r-e--s	nompl	--re-s	a----	a----
+------	------	------	y-uu--	r-u--m	genpl	--ru-m	oorum	oorum
+------	------	------	y-uu--	r-e--s	accpl	--re-s	a----	a----
+_	laana		f	4	8 	4	m
+------	------	l-aa--	n-a---	------	nomsg	---a--	a----	a----
+------	------	l-aa--	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	l-aa--	n-a--m	------	accsg	---a-m	a---m	a---m
+------	------	l-aa--	n-ai--	------	nompl	---ai-	ai---	ai---
+------	------	l-aa--	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	l-aa--	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	labium		n	2	2 	1	f
+------	l-a---	b-i---	--u--m	------	nomsg	---u-m	---ud	---um
+------	l-a---	b-i---	--ii--	------	gensg	---ii-	ii-us	ii---
+------	l-a---	b-i---	--u--m	------	accsg	---u-m	---ud	---um
+------	l-a---	b-i---	--a---	------	nompl	---a--	a----	a----
+------	l-a---	b-i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	l-a---	b-i---	--a---	------	accpl	---a--	a----	a----
+_	labor		m	26	65	8	m
+------	------	l-a---	b-o--r	------	nomsg	------	e----	---us
+------	------	l-a---	b-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	l-a---	b-o---	r-e--m	accsg	---e-m	---um	---um
+------	------	l-a---	b-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	l-a---	b-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	l-a---	b-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	lac		n	4	14	4	m
+------	------	------	l-a--k	------	nomsg	------	---ud	---um
+------	------	------	l-a--k	t-i--s	gensg	--ti-s	ii-us	ii---
+------	------	------	l-a--k	------	accsg	------	---ud	---um
+------	------	------	l-a--k	t-a---	nompl	--ta--	a----	a----
+------	------	------	l-a--k	t-u--m	genpl	--tu-m	oorum	oorum
+------	------	------	l-a--k	t-a---	accpl	--ta--	a----	a----
+_	lacrima		f	10	63	7	m
+------	l-a--k	r-i---	m-a---	------	nomsg	---a--	a----	a----
+------	l-a--k	r-i---	m-ai--	------	gensg	---ai-	ii-us	ai---
+------	l-a--k	r-i---	m-a--m	------	accsg	---a-m	a---m	a---m
+------	l-a--k	r-i---	m-ai--	------	nompl	---ai-	ai---	ai---
+------	l-a--k	r-i---	m-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	l-a--k	r-i---	m-aa-s	------	accpl	---aas	aa--s	aa--s
+_	lacus		m	12	24	6	m
+------	------	------	l-a---	k-u--s	nomsg	---u-s	e----	---us
+------	------	------	l-a---	k-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	l-a---	k-u--m	accsg	---u-m	---um	---um
+------	------	------	l-a---	k-uu-s	nompl	---uus	ii---	ii---
+------	------	------	l-a---	k-uu-m	genpl	---uum	oorum	oorum
+------	------	------	l-a---	k-uu-s	accpl	---uus	oo--s	oo--s
+_	lacuuna		f	2	2 	1	m
+------	l-a---	k-uu--	n-a---	------	nomsg	---a--	a----	a----
+------	l-a---	k-uu--	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	l-a---	k-uu--	n-a--m	------	accsg	---a-m	a---m	a---m
+------	l-a---	k-uu--	n-ai--	------	nompl	---ai-	ai---	ai---
+------	l-a---	k-uu--	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	l-a---	k-uu--	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	laganum		n	2	2 	1	f
+------	l-a---	g-a---	n-u--m	------	nomsg	---u-m	---ud	---um
+------	l-a---	g-a---	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	l-a---	g-a---	n-u--m	------	accsg	---u-m	---ud	---um
+------	l-a---	g-a---	n-a---	------	nompl	---a--	a----	a----
+------	l-a---	g-a---	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	l-a---	g-a---	n-a---	------	accpl	---a--	a----	a----
+_	lampada		f	2	2 	1	f
+------	l-a--m	p-a---	d-a---	------	nomsg	---a--	a----	a----
+------	l-a--m	p-a---	d-ai--	------	gensg	---ai-	ii-us	ai---
+------	l-a--m	p-a---	d-a--m	------	accsg	---a-m	a---m	a---m
+------	l-a--m	p-a---	d-ai--	------	nompl	---ai-	ai---	ai---
+------	l-a--m	p-a---	d-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	l-a--m	p-a---	d-aa-s	------	accpl	---aas	aa--s	aa--s
+_	languor		m	2	2 	1	m
+------	------	l-a--n	g-uo-r	------	nomsg	------	e----	---us
+------	------	l-a--n	g-uo--	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	l-a--n	g-uo--	r-e--m	accsg	---e-m	---um	---um
+------	------	l-a--n	g-uo--	r-e--s	nompl	---e-s	ii---	ii---
+------	------	l-a--n	g-uo--	r-u--m	genpl	---u-m	oorum	oorum
+------	------	l-a--n	g-uo--	r-e--s	accpl	---e-s	oo--s	oo--s
+_	lapis		m	7	25	6	f
+------	------	l-a---	p-i--s	------	nomsg	---i-s	e----	---us
+------	------	l-a---	p-i---	d-i--s	gensg	i-di-s	ii-us	ii---
+------	------	l-a---	p-i---	d-e--m	accsg	i-de-m	---um	---um
+------	------	l-a---	p-i---	d-e--s	nompl	i-de-s	ii---	ii---
+------	------	l-a---	p-i---	d-u--m	genpl	i-du-m	oorum	oorum
+------	------	l-a---	p-i---	d-e--s	accpl	i-de-s	oo--s	oo--s
+_	latro		mh	8	2 	3	m
+------	------	l-a--t	r-o---	------	nomsg	------	e----	---us
+------	------	l-a--t	r-o---	n-i--s	gensg	o-ni-s	ii-us	ii---
+------	------	l-a--t	r-o---	n-e--m	accsg	o-ne-m	---um	---um
+------	------	l-a--t	r-o---	n-ee-s	nompl	o-nees	ii---	ii---
+------	------	l-a--t	r-o---	n-u--m	genpl	o-nu-m	oorum	oorum
+------	------	l-a--t	r-o---	n-ee-s	accpl	o-nees	oo--s	oo--s
+_	lector		mh	3	9 	4	m
+------	------	l-e--k	t-o--r	------	nomsg	------	e----	---us
+------	------	l-e--k	t-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	l-e--k	t-o---	r-e--m	accsg	---e-m	---um	---um
+------	------	l-e--k	t-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	l-e--k	t-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	l-e--k	t-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	lectus		m	6	9 	4	f
+------	------	l-e--k	t-u--s	------	nomsg	---u-s	e----	---us
+------	------	l-e--k	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	l-e--k	t-u--m	------	accsg	---u-m	---um	---um
+------	------	l-e--k	t-ii--	------	nompl	---ii-	ii---	ii---
+------	------	l-e--k	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	l-e--k	t-oo-s	------	accpl	---oos	oo--s	oo--s
+_	leex		f	28	71	8	f
+------	------	------	l-eeks	------	nomsg	-----s	a----	a----
+------	------	------	l-ee--	g-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	l-ee--	g-e--m	accsg	---e-m	a---m	a---m
+------	------	------	l-ee--	g-e--s	nompl	---e-s	ai---	ai---
+------	------	------	l-ee--	g-u--m	genpl	---u-m	aarum	aarum
+------	------	------	l-ee--	g-e--s	accpl	---e-s	aa--s	aa--s
+_	libellus		m	9	21	5	m
+------	l-i---	b-e--l	l-u--s	------	nomsg	---u-s	e----	---us
+------	l-i---	b-e--l	l-ii-s	------	gensg	---ii-	ii-us	ii---
+------	l-i---	b-e--l	l-u--m	------	accsg	---u-m	---um	---um
+------	l-i---	b-e--l	l-ii--	------	nompl	---ii-	ii---	ii---
+------	l-i---	b-e--l	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	l-i---	b-e--l	l-oo-s	------	accpl	---oos	oo--s	oo--s
+_	liber		m	18	9 	5	m
+------	------	l-i---	b-e--r	------	nomsg	------	e----	---us
+------	------	l-i---	brii--	------	gensg	---ii-	ii-us	ii---
+------	------	l-i---	bru--m	------	accsg	---u-m	---um	---um
+------	------	l-i---	brii--	------	nompl	---ii-	ii---	ii---
+------	------	l-i---	broo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	l-i---	broo-s	------	accpl	---oos	oo--s	oo--s
+_	ligaatuura	f	2	2 	1	m
+l-i---	g-aa--	t-uu-r	--a---	------	nomsg	---a--	a----	a----
+l-i---	g-aa--	t-uu-r	--ai--	------	gensg	---ai-	ii-us	ai---
+l-i---	g-aa--	t-uu-r	--a--m	------	accsg	---a-m	a---m	a---m
+l-i---	g-aa--	t-uu-r	--ai--	------	nompl	---ai-	ai---	ai---
+l-i---	g-aa--	t-uu-r	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+l-i---	g-aa--	t-uu-r	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	lignum		n	4	6 	3	f
+------	------	l-i--g	n-u--m	------	nomsg	---u-m	---ud	---um
+------	------	l-i--g	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	l-i--g	n-u--m	------	accsg	---u-m	---ud	---um
+------	------	l-i--g	n-a---	------	nompl	---a--	a----	a----
+------	------	l-i--g	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	l-i--g	n-a---	------	accpl	---a--	a----	a----
+_	liiber		mh	5	4 	3	m
+------	l-ii--	b-e--r	------	------	nomsg	------	e----	---us
+------	l-ii--	b-e---	r-ii--	------	gensg	---ii-	ii-us	ii---
+------	l-ii--	b-e---	r-u--m	------	accsg	---u-m	---um	---um
+------	l-ii--	b-e---	r-ii--	------	nompl	---ii-	ii---	ii---
+------	l-ii--	b-e---	r-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	l-ii--	b-e---	r-oo-s	------	accpl	---oos	oo--s	oo--s
+_	liimes		m	2	10	4	m
+------	------	l-ii--	m-e--s	------	nomsg	---e-s	e----	---us
+------	------	l-ii--	m-i---	t-i--s	gensg	i-ti-s	ii-us	ii---
+------	------	l-ii--	m-i---	t-e--m	accsg	i-te-m	---um	---um
+------	------	l-ii--	m-i---	t-e--s	nompl	i-te-s	ii---	ii---
+------	------	l-ii--	m-i---	t-u--m	genpl	i-tu-m	oorum	oorum
+------	------	l-ii--	m-i---	t-e--s	accpl	i-te-s	oo--s	oo--s
+_	liivor		m	2	2 	1	m
+------	------	l-ii--	v-o--r	------	nomsg	------	e----	---us
+------	------	l-ii--	v-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	l-ii--	v-o---	r-e--m	accsg	---e-m	---um	---um
+------	------	l-ii--	v-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	l-ii--	v-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	l-ii--	v-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	lingua		f	11	33	6	f
+------	l-i--n	g-u---	--a---	------	nomsg	---a--	a----	a----
+------	l-i--n	g-u---	--ai--	------	gensg	---ai-	ii-us	ai---
+------	l-i--n	g-u---	--a--m	------	accsg	---a-m	a---m	a---m
+------	l-i--n	g-u---	--ai--	------	nompl	---ai-	ai---	ai---
+------	l-i--n	g-u---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	l-i--n	g-u---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	locus		m	136	73	9	m
+------	------	l-o---	k-u--s	------	nomsg	---u-s	e----	---us
+------	------	l-o---	k-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	l-o---	k-u--m	------	accsg	---u-m	---um	---um
+------	------	l-o---	k-ii--	------	nompl	---ii-	ii---	ii---
+------	------	l-o---	k-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	l-o---	k-oo-s	------	accpl	---oos	oo--s	oo--s
+_	lucerna		f	2	7 	3	f
+------	l-u---	k-e--r	n-a---	------	nomsg	---a--	a----	a----
+------	l-u---	k-e--r	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	l-u---	k-e--r	n-a--m	------	accsg	---a-m	a---m	a---m
+------	l-u---	k-e--r	n-ai--	------	nompl	---ai-	ai---	ai---
+------	l-u---	k-e--r	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	l-u---	k-e--r	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	lucusta		f	2	2 	1	m
+------	l-u---	k-u--s	t-a---	------	nomsg	---a--	a----	a----
+------	l-u---	k-u--s	t-ai--	------	gensg	---ai-	ii-us	ai---
+------	l-u---	k-u--s	t-a--m	------	accsg	---a-m	a---m	a---m
+------	l-u---	k-u--s	t-ai--	------	nompl	---ai-	ai---	ai---
+------	l-u---	k-u--s	t-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	l-u---	k-u--s	t-aa-s	------	accpl	---aas	aa--s	aa--s
+_	lumbus		m	2	2 	1	f
+------	------	l-u--m	b-u--s	------	nomsg	---u-s	e----	---us
+------	------	l-u--m	b-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	l-u--m	b-u--m	------	accsg	---u-m	---um	---um
+------	------	l-u--m	b-ii--	------	nompl	---ii-	ii---	ii---
+------	------	l-u--m	b-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	l-u--m	b-oo-s	------	accpl	---oos	oo--s	oo--s
+_	lupus		m	5	15	5	m
+------	------	l-u---	p-u--s	------	nomsg	---u-s	e----	---us
+------	------	l-u---	p-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	l-u---	p-u--m	------	accsg	---u-m	---um	---um
+------	------	l-u---	p-ii--	------	nompl	---ii-	ii---	ii---
+------	------	l-u---	p-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	l-u---	p-oo-s	------	accpl	---oos	oo--s	oo--s
+_	luumen		n	12	67	7	m
+------	------	l-uu--	m-e--n	------	nomsg	e-n---	---ud	---um
+------	------	l-uu--	m-i---	n-i--s	gensg	i-ni-s	ii-us	ii---
+------	------	l-uu--	m-e--n	------	accsg	e-n---	---ud	---um
+------	------	l-uu--	m-i---	n-a---	nompl	i-na--	a----	a----
+------	------	l-uu--	m-i---	n-u--m	genpl	i-nu-m	oorum	oorum
+------	------	l-uu--	m-i---	n-a---	accpl	i-na--	a----	a----
+_	luuna		f	7	37	6	f
+------	------	l-uu--	n-a---	------	nomsg	---a--	a----	a----
+------	------	l-uu--	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	l-uu--	n-a--m	------	accsg	---a-m	a---m	a---m
+------	------	l-uu--	n-ai--	------	nompl	---ai-	ai---	ai---
+------	------	l-uu--	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	l-uu--	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	luux		f	23	52	7	m
+------	------	------	l-uuks	------	nomsg	-----s	a----	a----
+------	------	------	l-uu--	k-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	l-uu--	k-e--m	accsg	---e-m	a---m	a---m
+------	------	------	l-uu--	k-e--s	nompl	---e-s	ai---	ai---
+------	------	------	l-uu--	k-u--m	genpl	---u-m	aarum	aarum
+------	------	------	l-uu--	k-e--s	accpl	---e-s	aa--s	aa--s
+_	maalum		n	2	2 	1	m
+------	------	m-aa--	l-u--m	------	nomsg	---u-m	---ud	---um
+------	------	m-aa--	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	m-aa--	l-u--m	------	accsg	---u-m	---ud	---um
+------	------	m-aa--	l-a---	------	nompl	---a--	a----	a----
+------	------	m-aa--	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	m-aa--	l-a---	------	accpl	---a--	a----	a----
+_	maater		fh	23	107	8	m
+------	------	------	m-aa--	t-e--r	nomsg	------	a----	a----
+------	------	------	m-aa--	tri--s	gensg	---i-s	ii-us	ai---
+------	------	------	m-aa--	tre--m	accsg	---e-m	a---m	a---m
+------	------	------	m-aa--	tre--s	nompl	---e-s	ai---	ai---
+------	------	------	m-aa--	tru--m	genpl	---u-m	aarum	aarum
+------	------	------	m-aa--	tre--s	accpl	---e-s	aa--s	aa--s
+_	maateria		f	13	19	6	m
+m-aa--	t-e---	r-i---	--a---	------	nomsg	---a--	a----	a----
+m-aa--	t-e---	r-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+m-aa--	t-e---	r-i---	--a--m	------	accsg	---a-m	a---m	a---m
+m-aa--	t-e---	r-i---	--ai--	------	nompl	---ai-	ai---	ai---
+m-aa--	t-e---	r-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+m-aa--	t-e---	r-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	magister		fh	2	2 	1	f
+------	m-a---	g-i--s	tra---	------	nomsg	---a--	a----	a----
+------	m-a---	g-i--s	trai--	------	gensg	---ai-	ii-us	ai---
+------	m-a---	g-i--s	tra--m	------	accsg	---a-m	a---m	a---m
+------	m-a---	g-i--s	trai--	------	nompl	---ai-	ai---	ai---
+------	m-a---	g-i--s	traa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	m-a---	g-i--s	traa-s	------	accpl	---aas	aa--s	aa--s
+_	magister		mh	8	22	5	m
+------	m-a---	g-i--s	t-e--r	------	nomsg	------	e----	---us
+------	m-a---	g-i--s	trii--	------	gensg	---ii-	ii-us	ii---
+------	m-a---	g-i--s	tru--m	------	accsg	---u-m	---um	---um
+------	m-a---	g-i--s	trii--	------	nompl	---ii-	ii---	ii---
+------	m-a---	g-i--s	troo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	m-a---	g-i--s	troo-s	------	accpl	---oos	oo--s	oo--s
+_	magus		mh	113	177	10	m
+------	------	m-a---	g-u--s	------	nomsg	---u-s	e----	---us
+------	------	m-a---	g-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	m-a---	g-u--m	------	accsg	---u-m	---um	---um
+------	------	m-a---	g-ii--	------	nompl	---ii-	ii---	ii---
+------	------	m-a---	g-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	m-a---	g-oo-s	------	accpl	---oos	oo--s	oo--s
+_	malitia		f	5	2 	3	m
+m-a---	l-i---	t-i---	--a---	------	nomsg	---a--	a----	a----
+m-a---	l-i---	t-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+m-a---	l-i---	t-i---	--a--m	------	accsg	---a-m	a---m	a---m
+m-a---	l-i---	t-i---	--ai--	------	nompl	---ai-	ai---	ai---
+m-a---	l-i---	t-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+m-a---	l-i---	t-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	manus		f	64	150	9	f
+------	------	------	m-a---	n-u--s	nomsg	---u-s	a----	a----
+------	------	------	m-a---	n-uu-s	gensg	---uus	ii-us	ai---
+------	------	------	m-a---	n-u--m	accsg	---u-m	a---m	a---m
+------	------	------	m-a---	n-uu-s	nompl	---uus	ai---	ai---
+------	------	------	m-a---	n-uu-m	genpl	---uum	aarum	aarum
+------	------	------	m-a---	n-uu-s	accpl	---uus	aa--s	aa--s
+_	mare		n	32	70	8	m
+------	------	m-a---	r-e---	------	nomsg	---e--	---ud	---um
+------	------	m-a---	r-i--s	------	gensg	---i-s	ii-us	ii---
+------	------	m-a---	r-e---	------	accsg	---e--	---ud	---um
+------	------	m-a---	r-i---	--a---	nompl	i--a--	a----	a----
+------	------	m-a---	r-i---	--u--m	genpl	i--u-m	oorum	oorum
+------	------	m-a---	r-i---	--a---	accpl	i--a--	a----	a----
+_	margariita	f	3	3 	2	f
+m-a--r	g-a---	r-ii--	t-a---	------	nomsg	---a--	a----	a----
+m-a--r	g-a---	r-ii--	t-ai--	------	gensg	---ai-	ii-us	ai---
+m-a--r	g-a---	r-ii--	t-a--m	------	accsg	---a-m	a---m	a---m
+m-a--r	g-a---	r-ii--	t-ai--	------	nompl	---ai-	ai---	ai---
+m-a--r	g-a---	r-ii--	t-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+m-a--r	g-a---	r-ii--	t-aa-s	------	accpl	---aas	aa--s	aa--s
+_	marmor		n	3	17	5	m
+------	------	m-a--r	m-o--r	------	nomsg	------	---ud	---um
+------	------	m-a--r	m-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	m-a--r	m-o--r	------	accsg	------	---ud	---um
+------	------	m-a--r	m-o---	r-a---	nompl	---a--	a----	a----
+------	------	m-a--r	m-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	m-a--r	m-o---	r-a---	accpl	---a--	a----	a----
+_	medium		n	2	2 	1	m
+------	m-e---	d-i---	--u--m	------	nomsg	---u-m	---ud	---um
+------	m-e---	d-i---	--ii--	------	gensg	---ii-	ii-us	ii---
+------	m-e---	d-i---	--u--m	------	accsg	---u-m	---ud	---um
+------	m-e---	d-i---	--a---	------	nompl	---a--	a----	a----
+------	m-e---	d-i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	m-e---	d-i---	--a---	------	accpl	---a--	a----	a----
+_	mel		n	2	13	4	m
+------	------	------	m-e--l	------	nomsg	------	---ud	---um
+------	------	------	m-e---	l-i--s	gensg	--li-s	ii-us	ii---
+------	------	------	m-e--l	------	accsg	------	---ud	---um
+------	------	------	m-e---	l-a---	nompl	--la--	a----	a----
+------	------	------	m-e---	l-u--m	genpl	--lu-m	oorum	oorum
+------	------	------	m-e---	l-a---	accpl	--la--	a----	a----
+_	membrum	n	8	44	7	m
+------	------	m-e--m	bru--m	------	nomsg	---u-m	---ud	---um
+------	------	m-e--m	brii--	------	gensg	---ii-	ii-us	ii---
+------	------	m-e--m	bru--m	------	accsg	---u-m	---ud	---um
+------	------	m-e--m	bra---	------	nompl	---a--	a----	a----
+------	------	m-e--m	broo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	m-e--m	bra---	------	accpl	---a--	a----	a----
+_	memoria		f	34	2 	6	f
+m-e---	m-o---	r-i---	--a---	------	nomsg	---a--	a----	a----
+m-e---	m-o---	r-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+m-e---	m-o---	r-i---	--a--m	------	accsg	---a-m	a---m	a---m
+m-e---	m-o---	r-i---	--ai--	------	nompl	---ai-	ai---	ai---
+m-e---	m-o---	r-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+m-e---	m-o---	r-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	mensa		f	6	19	5	m
+------	------	m-e--n	s-a---	------	nomsg	---a--	a----	a----
+------	------	m-e--n	s-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	m-e--n	s-a--m	------	accsg	---a-m	a---m	a---m
+------	------	m-e--n	s-ai--	------	nompl	---ai-	ai---	ai---
+------	------	m-e--n	s-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	m-e--n	s-aa-s	------	accpl	---aas	aa--s	aa--s
+_	mensuura	f	4	3 	3	m
+------	m-e--n	s-uu--	r-a---	------	nomsg	---a--	a----	a----
+------	m-e--n	s-uu--	r-ai--	------	gensg	---ai-	ii-us	ai---
+------	m-e--n	s-uu--	r-a--m	------	accsg	---a-m	a---m	a---m
+------	m-e--n	s-uu--	r-ai--	------	nompl	---ai-	ai---	ai---
+------	m-e--n	s-uu--	r-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	m-e--n	s-uu--	r-aa-s	------	accpl	---aas	aa--s	aa--s
+_	mercees		fh	2	2 	1	f
+------	------	m-e--r	k-ee-s	------	nomsg	---e-s	a----	a----
+------	------	m-e--r	k-ee--	d-i--s	gensg	e-di-s	ii-us	ai---
+------	------	m-e--r	k-ee--	d-e--m	accsg	e-de-m	a---m	a---m
+------	------	m-e--r	k-ee--	d-e--s	nompl	e-de-s	ai---	ai---
+------	------	m-e--r	k-ee--	d-u--m	genpl	e-du-m	aarum	aarum
+------	------	m-e--r	k-ee--	d-e--s	accpl	e-de-s	aa--s	aa--s
+_	meriidies	fs	6	2 	3	m
+------	m-e---	r-ii--	d-i---	--e--s	nomsg	---e-s	a----	a----
+------	m-e---	r-ii--	d-i---	--e---	gensg	---e--	ii-us	ai---
+------	m-e---	r-ii--	d-i---	--e--m	accsg	---e-m	a---m	a---m
+_	miica		f	2	2 	1	m
+------	------	m-ii--	k-a---	------	nomsg	---a--	a----	a----
+------	------	m-ii--	k-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	m-ii--	k-a--m	------	accsg	---a-m	a---m	a---m
+------	------	m-ii--	k-ai--	------	nompl	---ai-	ai---	ai---
+------	------	m-ii--	k-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	m-ii--	k-aa-s	------	accpl	---aas	aa--s	aa--s
+_	miilia		np	38	27	7	f
+------	m-ii--	l-i---	--a---	------	nompl	---a--	a----	a----
+------	m-ii--	l-i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	m-ii--	l-i---	--a---	------	accpl	---a--	a----	a----
+_	miiraaculum	n	8	6 	4	f
+m-ii--	r-aa--	k-u---	l-u--m	------	nomsg	---u-m	---ud	---um
+m-ii--	r-aa--	k-u---	l-ii--	------	gensg	---ii-	ii-us	ii---
+m-ii--	r-aa--	k-u---	l-u--m	------	accsg	---u-m	---ud	---um
+m-ii--	r-aa--	k-u---	l-a---	------	nompl	---a--	a----	a----
+m-ii--	r-aa--	k-u---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+m-ii--	r-aa--	k-u---	l-a---	------	accpl	---a--	a----	a----
+_	modus		m	100	127	9	b
+------	------	m-o---	d-u--s	------	nomsg	---u-s	e----	---us
+------	------	m-o---	d-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	m-o---	d-u--m	------	accsg	---u-m	---um	---um
+------	------	m-o---	d-ii--	------	nompl	---ii-	ii---	ii---
+------	------	m-o---	d-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	m-o---	d-oo-s	------	accpl	---oos	oo--s	oo--s
+_	mola		f	2	2 	1	f
+------	------	m-o---	l-a---	------	nomsg	---a--	a----	a----
+------	------	m-o---	l-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	m-o---	l-a--m	------	accsg	---a-m	a---m	a---m
+------	------	m-o---	l-ai--	------	nompl	---ai-	ai---	ai---
+------	------	m-o---	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	m-o---	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	mons		m	25	50	7	m
+------	------	------	m-o-ns	------	nomsg	-----s	e----	---us
+------	------	------	m-o--n	t-i--s	gensg	--ti-s	ii-us	ii---
+------	------	------	m-o--n	t-e--m	accsg	--te-m	---um	---um
+------	------	------	m-o--n	t-e--s	nompl	--te-s	ii---	ii---
+------	------	------	m-o--n	t-u--m	genpl	--tu-m	oorum	oorum
+------	------	------	m-o--n	t-e--s	accpl	--te-s	oo--s	oo--s
+_	monumentum	n	11	14	5	b
+m-o---	n-u---	m-e--n	t-u--m	------	nomsg	---u-m	---ud	---um
+m-o---	n-u---	m-e--n	t-ii--	------	gensg	---ii-	ii-us	ii---
+m-o---	n-u---	m-e--n	t-u--m	------	accsg	---u-m	---ud	---um
+m-o---	n-u---	m-e--n	t-a---	------	nompl	---a--	a----	a----
+m-o---	n-u---	m-e--n	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+m-o---	n-u---	m-e--n	t-a---	------	accpl	---a--	a----	a----
+_	mora		f	6	23	5	m
+------	------	m-o---	r-a---	------	nomsg	---a--	a----	a----
+------	------	m-o---	r-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	m-o---	r-a--m	------	accsg	---a-m	a---m	a---m
+------	------	m-o---	r-ai--	------	nompl	---ai-	ai---	ai---
+------	------	m-o---	r-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	m-o---	r-aa-s	------	accpl	---aas	aa--s	aa--s
+_	mors		f	61	112	9	m
+------	------	------	m-o-rs	------	nomsg	-----s	a----	a----
+------	------	------	m-o--r	t-i--s	gensg	--ti-s	ii-us	ai---
+------	------	------	m-o--r	t-e--m	accsg	--te-m	a---m	a---m
+------	------	------	m-o--r	t-e--s	nompl	--te-s	ai---	ai---
+------	------	------	m-o--r	t-u--m	genpl	--tu-m	aarum	aarum
+------	------	------	m-o--r	t-e--s	accpl	--te-s	aa--s	aa--s
+_	mulier		fh	9	16	5	f
+------	m-u---	l-i---	--e--r	------	nomsg	------	a----	a----
+------	m-u---	l-i---	--e---	r-i--s	gensg	---i-s	ii-us	ai---
+------	m-u---	l-i---	--e---	r-e--m	accsg	---e-m	a---m	a---m
+------	m-u---	l-i---	--e---	r-e--s	nompl	---e-s	ai---	ai---
+------	m-u---	l-i---	--e---	r-u--m	genpl	---u-m	aarum	aarum
+------	m-u---	l-i---	--e---	r-e--s	accpl	---e-s	aa--s	aa--s
+_	multituudo	f	32	2 	6	m
+m-u--l	t-i---	t-uu--	d-o---	------	nomsg	---o--	a----	a----
+m-u--l	t-i---	t-uu--	d-i---	n-i--s	gensg	i-ni-s	ii-us	ai---
+m-u--l	t-i---	t-uu--	d-i---	n-e--m	accsg	i-ne-m	a---m	a---m
+m-u--l	t-i---	t-uu--	d-i---	n-e--s	nompl	i-ne-s	ai---	ai---
+m-u--l	t-i---	t-uu--	d-i---	n-u--m	genpl	i-nu-m	aarum	aarum
+m-u--l	t-i---	t-uu--	d-i---	n-e--s	accpl	i-ne-s	aa--s	aa--s
+_	mundus		m	10	53	7	m
+------	------	m-u--n	d-u--s	------	nomsg	---u-s	e----	---us
+------	------	m-u--n	d-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	m-u--n	d-u--m	------	accsg	---u-m	---um	---um
+------	------	m-u--n	d-ii--	------	nompl	---ii-	ii---	ii---
+------	------	m-u--n	d-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	m-u--n	d-oo-s	------	accpl	---oos	oo--s	oo--s
+_	murra		f	2	2 	1	m
+------	------	m-u--r	r-a---	------	nomsg	---a--	a----	a----
+------	------	m-u--r	r-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	m-u--r	r-a--m	------	accsg	---a-m	a---m	a---m
+------	------	m-u--r	r-ai--	------	nompl	---ai-	ai---	ai---
+------	------	m-u--r	r-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	m-u--r	r-aa-s	------	accpl	---aas	aa--s	aa--s
+_	musca		f	4	2 	2	f
+------	------	m-u--s	k-a---	------	nomsg	---a--	a----	a----
+------	------	m-u--s	k-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	m-u--s	k-a--m	------	accsg	---a-m	a---m	a---m
+------	------	m-u--s	k-ai--	------	nompl	---ai-	ai---	ai---
+------	------	m-u--s	k-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	m-u--s	k-aa-s	------	accpl	---aas	aa--s	aa--s
+_	muunus		n	18	75	8	f
+------	------	m-uu--	n-u--s	------	nomsg	---u-s	---ud	---um
+------	------	m-uu--	n-e---	r-i--s	gensg	e-ri-s	ii-us	ii---
+------	------	m-uu--	n-u--s	------	accsg	---u-s	---ud	---um
+------	------	m-uu--	n-e---	r-a---	nompl	e-ra--	a----	a----
+------	------	m-uu--	n-e---	r-u--m	genpl	e-ru-m	oorum	oorum
+------	------	m-uu--	n-e---	r-a---	accpl	e-ra--	a----	a----
+_	muurus		m	12	16	5	m
+------	------	m-uu--	r-u--s	------	nomsg	---u-s	e----	---us
+------	------	m-uu--	r-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	m-uu--	r-u--m	------	accsg	---u-m	---um	---um
+------	------	m-uu--	r-ii--	------	nompl	---ii-	ii---	ii---
+------	------	m-uu--	r-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	m-uu--	r-oo-s	------	accpl	---oos	oo--s	oo--s
+_	naasus		m	4	9 	4	m
+------	------	n-aa--	s-u--s	------	nomsg	---u-s	e----	---us
+------	------	n-aa--	s-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	n-aa--	s-u--m	------	accsg	---u-m	---um	---um
+------	------	n-aa--	s-ii--	------	nompl	---ii-	ii---	ii---
+------	------	n-aa--	s-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	n-aa--	s-oo-s	------	accpl	---oos	oo--s	oo--s
+_	naavis		f	24	11	6	f
+------	------	------	n-aa--	v-i--s	nomsg	---i-s	a----	a----
+------	------	------	n-aa--	v-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	n-aa--	v-e--m	accsg	---e-m	a---m	a---m
+------	------	------	n-aa--	v-e--s	nompl	---e-s	ai---	ai---
+------	------	------	n-aa--	v-u--m	genpl	---u-m	aarum	aarum
+------	------	------	n-aa--	v-e--s	accpl	---e-s	aa--s	aa--s
+_	negotio		f	2	2 	1	m
+------	n-e---	g-o---	t-io--	------	nomsg	------	a----	a----
+------	n-e---	g-o---	t-io--	n-i--s	gensg	o-ni-s	ii-us	ai---
+------	n-e---	g-o---	t-io--	n-e--m	accsg	o-ne-m	a---m	a---m
+------	n-e---	g-o---	t-io--	n-ee-s	nompl	o-nees	ai---	ai---
+------	n-e---	g-o---	t-io--	n-u--m	genpl	o-nu-m	aarum	aarum
+------	n-e---	g-o---	t-io--	n-ee-s	accpl	o-nees	aa--s	aa--s
+_	nepoos		mh	6	18	5	m
+------	------	n-e---	p-oo-s	------	nomsg	-----s	e----	---us
+------	------	n-e---	p-oo--	t-i--s	gensg	--ti-s	ii-us	ii---
+------	------	n-e---	p-oo--	t-e--m	accsg	--te-m	---um	---um
+------	------	n-e---	p-oo--	t-e--s	nompl	--te-s	ii---	ii---
+------	------	n-e---	p-oo--	t-u--m	genpl	--tu-m	oorum	oorum
+------	------	n-e---	p-oo--	t-e--s	accpl	--te-s	oo--s	oo--s
+_	nives		fp	8	26	6	m
+------	------	------	n-i---	v-e--s	nompl	---e-s	ai---	ai---
+------	------	------	n-i---	v-u--m	genpl	---u-m	aarum	aarum
+------	------	------	n-i---	v-e--s	accpl	---e-s	aa--s	aa--s
+_	noomen		n	43	120	9	m
+------	------	n-oo--	m-e--n	------	nomsg	e-n---	---ud	---um
+------	------	n-oo--	m-i---	n-i--s	gensg	i-ni-s	ii-us	ii---
+------	------	n-oo--	m-e--n	------	accsg	e-n---	---ud	---um
+------	------	n-oo--	m-i---	n-a---	nompl	i-na--	a----	a----
+------	------	n-oo--	m-i---	n-u--m	genpl	i-nu-m	oorum	oorum
+------	------	n-oo--	m-i---	n-a---	accpl	i-na--	a----	a----
+_	nox		f	55	117	9	f
+------	------	------	n-o-ks	------	nomsg	-----s	a----	a----
+------	------	------	n-o--k	t-i--s	gensg	--ti-s	ii-us	ai---
+------	------	------	n-o--k	t-e--m	accsg	--te-m	a---m	a---m
+------	------	------	n-o--k	t-e--s	nompl	--te-s	ai---	ai---
+------	------	------	n-o--k	t-u--m	genpl	--tu-m	aarum	aarum
+------	------	------	n-o--k	t-e--s	accpl	--te-s	aa--s	aa--s
+_	numerus		m	42	31	7	m
+------	n-u---	m-e---	r-u--s	------	nomsg	---u-s	e----	---us
+------	n-u---	m-e---	r-ii--	------	gensg	---ii-	ii-us	ii---
+------	n-u---	m-e---	r-u--m	------	accsg	---u-m	---um	---um
+------	n-u---	m-e---	r-ii--	------	nompl	---ii-	ii---	ii---
+------	n-u---	m-e---	r-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	n-u---	m-e---	r-oo-s	------	accpl	---oos	oo--s	oo--s
+_	nurus		fh	3	6 	3	f
+------	------	------	n-u---	r-u--s	nomsg	---u-s	a----	a----
+------	------	------	n-u---	r-uu-s	gensg	---uus	ii-us	ai---
+------	------	------	n-u---	r-u--m	accsg	---u-m	a---m	a---m
+------	------	------	n-u---	r-uu-s	nompl	---uus	ai---	ai---
+------	------	------	n-u---	r-uu-m	genpl	---uum	aarum	aarum
+------	------	------	n-u---	r-uu-s	accpl	---uus	aa--s	aa--s
+_	nuubes		f	8	23	5	m
+------	------	------	n-uu--	b-e--s	nomsg	---e-s	a----	a----
+------	------	------	n-uu--	b-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	n-uu--	b-e--m	accsg	---e-m	a---m	a---m
+------	------	------	n-uu--	b-e--s	nompl	---e-s	ai---	ai---
+------	------	------	n-uu--	b-u--m	genpl	---u-m	aarum	aarum
+------	------	------	n-uu--	b-e--s	accpl	---e-s	aa--s	aa--s
+_	obitus		m	2	2 	1	m
+------	------	--o---	b-i---	t-u--s	nomsg	---u-s	e----	---us
+------	------	--o---	b-i---	t-uu-s	gensg	---uus	ii-us	ii---
+------	------	--o---	b-i---	t-u--m	accsg	---u-m	---um	---um
+------	------	--o---	b-i---	t-uu-s	nompl	---uus	ii---	ii---
+------	------	--o---	b-i---	t-uu-m	genpl	---uum	oorum	oorum
+------	------	--o---	b-i---	t-uu-s	accpl	---uus	oo--s	oo--s
+_	obolus		m	2	2 	1	m
+------	--o---	b-o---	l-u--s	------	nomsg	---u-s	e----	---us
+------	--o---	b-o---	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	--o---	b-o---	l-u--m	------	accsg	---u-m	---um	---um
+------	--o---	b-o---	l-ii--	------	nompl	---ii-	ii---	ii---
+------	--o---	b-o---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--o---	b-o---	l-oo-s	------	accpl	---oos	oo--s	oo--s
+_	occidens		m	2	2 	1	m
+------	--o--k	k-i---	d-e-ns	------	nomsg	-----s	e----	---us
+------	--o--k	k-i---	d-e--n	t-i--s	gensg	--ti-s	ii-us	ii---
+------	--o--k	k-i---	d-e--n	t-e--m	accsg	--te-m	---um	---um
+------	--o--k	k-i---	d-e--n	t-e--s	nompl	--te-s	ii---	ii---
+------	--o--k	k-i---	d-e--n	t-u--m	genpl	--tu-m	oorum	oorum
+------	--o--k	k-i---	d-e--n	t-e--s	accpl	--te-s	oo--s	oo--s
+_	oculus		m	31	58	8	m
+------	--o---	k-u---	l-u--s	------	nomsg	---u-s	e----	---us
+------	--o---	k-u---	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	--o---	k-u---	l-u--m	------	accsg	---u-m	---um	---um
+------	--o---	k-u---	l-ii--	------	nompl	---ii-	ii---	ii---
+------	--o---	k-u---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--o---	k-u---	l-oo-s	------	accpl	---oos	oo--s	oo--s
+_	odor		m	4	19	5	m
+------	------	--o---	d-o--r	------	nomsg	------	e----	---us
+------	------	--o---	d-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	--o---	d-o---	r-e--m	accsg	---e-m	---um	---um
+------	------	--o---	d-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	--o---	d-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	--o---	d-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	officia		np	15	23	6	x
+--o--f	f-i---	k-i---	--a---	------	nompl	---a--	a----	a----
+--o--f	f-i---	k-i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+--o--f	f-i---	k-i---	--a---	------	accpl	---a--	a----	a----
+_	oleum		n	5	5 	3	m
+------	--o---	l-e---	--u--m	------	nomsg	---u-m	---ud	---um
+------	--o---	l-e---	--ii--	------	gensg	---ii-	ii-us	ii---
+------	--o---	l-e---	--u--m	------	accsg	---u-m	---ud	---um
+------	--o---	l-e---	--a---	------	nompl	---a--	a----	a----
+------	--o---	l-e---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--o---	l-e---	--a---	------	accpl	---a--	a----	a----
+_	oliiveetum	n	2	2 	1	m
+--o---	l-ii--	v-ee-t	--u--m	------	nomsg	---u-m	---ud	---um
+--o---	l-ii--	v-ee-t	--ii--	------	gensg	---ii-	ii-us	ii---
+--o---	l-ii--	v-ee-t	--u--m	------	accsg	---u-m	---ud	---um
+--o---	l-ii--	v-ee-t	--a---	------	nompl	---a--	a----	a----
+--o---	l-ii--	v-ee-t	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+--o---	l-ii--	v-ee-t	--a---	------	accpl	---a--	a----	a----
+_	oora		f	3	22	5	m
+------	------	--oo--	r-a---	------	nomsg	---a--	a----	a----
+------	------	--oo--	r-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	--oo--	r-a--m	------	accsg	---a-m	a---m	a---m
+------	------	--oo--	r-ai--	------	nompl	---ai-	ai---	ai---
+------	------	--oo--	r-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	--oo--	r-aa-s	------	accpl	---aas	aa--s	aa--s
+_	opera		f	9	3 	4	m
+------	--o---	p-e---	r-a---	------	nomsg	---a--	a----	a----
+------	--o---	p-e---	r-ai--	------	gensg	---ai-	ii-us	ai---
+------	--o---	p-e---	r-a--m	------	accsg	---a-m	a---m	a---m
+------	--o---	p-e---	r-ai--	------	nompl	---ai-	ai---	ai---
+------	--o---	p-e---	r-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	--o---	p-e---	r-aa-s	------	accpl	---aas	aa--s	aa--s
+_	opiinio		f	17	2 	5	m
+------	--o---	p-ii--	n-io--	------	nomsg	------	a----	a----
+------	--o---	p-ii--	n-io--	n-i--s	gensg	o-ni-s	ii-us	ai---
+------	--o---	p-ii--	n-io--	n-e--m	accsg	o-ne-m	a---m	a---m
+------	--o---	p-ii--	n-io--	n-ee-s	nompl	o-nees	ai---	ai---
+------	--o---	p-ii--	n-io--	n-u--m	genpl	o-nu-m	aarum	aarum
+------	--o---	p-ii--	n-io--	n-ee-s	accpl	o-nees	aa--s	aa--s
+_	oppidum		n	9	12	5	f
+------	--o--p	p-i---	d-u--m	------	nomsg	---u-m	---ud	---um
+------	--o--p	p-i---	d-ii--	------	gensg	---ii-	ii-us	ii---
+------	--o--p	p-i---	d-u--m	------	accsg	---u-m	---ud	---um
+------	--o--p	p-i---	d-a---	------	nompl	---a--	a----	a----
+------	--o--p	p-i---	d-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--o--p	p-i---	d-a---	------	accpl	---a--	a----	a----
+_	oraator		m	20	4 	5	m
+------	--o---	r-aa--	t-o--r	------	nomsg	------	e----	---us
+------	--o---	r-aa--	t-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	--o---	r-aa--	t-o---	r-e--m	accsg	---e-m	---um	---um
+------	--o---	r-aa--	t-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	--o---	r-aa--	t-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	--o---	r-aa--	t-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	orbis		m	14	103	8	f
+------	------	------	--o--r	b-i--s	nomsg	---i-s	e----	---us
+------	------	------	--o--r	b-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	--o--r	b-e--m	accsg	---e-m	---um	---um
+------	------	------	--o--r	b-e--s	nompl	---e-s	ii---	ii---
+------	------	------	--o--r	b-u--m	genpl	---u-m	oorum	oorum
+------	------	------	--o--r	b-e--s	accpl	---e-s	oo--s	oo--s
+_	ordo		m	29	25	7	f
+------	------	--o--r	d-o---	------	nomsg	---o--	e----	---us
+------	------	--o--r	d-i---	n-i--s	gensg	i-ni-s	ii-us	ii---
+------	------	--o--r	d-i---	n-e--m	accsg	i-ne-m	---um	---um
+------	------	--o--r	d-i---	n-e--s	nompl	i-ne-s	ii---	ii---
+------	------	--o--r	d-i---	n-u--m	genpl	i-nu-m	oorum	oorum
+------	------	--o--r	d-i---	n-e--s	accpl	i-ne-s	oo--s	oo--s
+_	oriens		m	2	2 	1	m
+------	--o---	r-i---	--e-ns	------	nomsg	-----s	e----	---us
+------	--o---	r-i---	--e--n	t-i--s	gensg	--ti-s	ii-us	ii---
+------	--o---	r-i---	--e--n	t-e--m	accsg	--te-m	---um	---um
+------	--o---	r-i---	--e--n	t-e--s	nompl	--te-s	ii---	ii---
+------	--o---	r-i---	--e--n	t-u--m	genpl	--tu-m	oorum	oorum
+------	--o---	r-i---	--e--n	t-e--s	accpl	--te-s	oo--s	oo--s
+_	os		n	4	40	6	m
+------	------	------	--o--s	------	nomsg	-----s	---ud	---um
+------	------	------	--o---	r-i--s	gensg	--ri-s	ii-us	ii---
+------	------	------	--o--s	------	accsg	-----s	---ud	---um
+------	------	------	--o---	r-a---	nompl	--ra--	a----	a----
+------	------	------	--o---	r-u--m	genpl	--ru-m	oorum	oorum
+------	------	------	--o---	r-a---	accpl	--ra--	a----	a----
+_	ostium		n	5	6 	3	m
+------	--o--s	t-i---	--u--m	------	nomsg	---u-m	---ud	---um
+------	--o--s	t-i---	--ii--	------	gensg	---ii-	ii-us	ii---
+------	--o--s	t-i---	--u--m	------	accsg	---u-m	---ud	---um
+------	--o--s	t-i---	--a---	------	nompl	---a--	a----	a----
+------	--o--s	t-i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--o--s	t-i---	--a---	------	accpl	---a--	a----	a----
+_	ovis		f	3	18	5	f
+------	------	------	--o---	v-i--s	nomsg	---i-s	a----	a----
+------	------	------	--o---	v-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	--o---	v-e--m	accsg	---e-m	a---m	a---m
+------	------	------	--o---	v-e--s	nompl	---e-s	ai---	ai---
+------	------	------	--o---	v-u--m	genpl	---u-m	aarum	aarum
+------	------	------	--o---	v-e--s	accpl	---e-s	aa--s	aa--s
+_	paala		f	2	2 	1	f
+------	------	p-aa--	l-a---	------	nomsg	---a--	a----	a----
+------	------	p-aa--	l-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	p-aa--	l-a--m	------	accsg	---a-m	a---m	a---m
+------	------	p-aa--	l-ai--	------	nompl	---ai-	ai---	ai---
+------	------	p-aa--	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	p-aa--	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	paanis		m	7	3 	3	m
+------	------	------	p-aa--	n-i--s	nomsg	---i-s	e----	---us
+------	------	------	p-aa--	n-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	p-aa--	n-e--m	accsg	---e-m	---um	---um
+------	------	------	p-aa--	n-e--s	nompl	---e-s	ii---	ii---
+------	------	------	p-aa--	n-u--m	genpl	---u-m	oorum	oorum
+------	------	------	p-aa--	n-e--s	accpl	---e-s	oo--s	oo--s
+_	paar		m	21	40	7	m
+------	------	------	p-aa-r	------	nomsg	------	e----	---us
+------	------	------	p-aa--	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	p-aa--	r-e--m	accsg	---e-m	---um	---um
+------	------	------	p-aa--	r-e--s	nompl	---e-s	ii---	ii---
+------	------	------	p-aa--	r-u--m	genpl	---u-m	oorum	oorum
+------	------	------	p-aa--	r-e--s	accpl	---e-s	oo--s	oo--s
+_	palea		f	2	2 	1	m
+------	p-a---	l-e---	--a---	------	nomsg	---a--	a----	a----
+------	p-a---	l-e---	--ai--	------	gensg	---ai-	ii-us	ai---
+------	p-a---	l-e---	--a--m	------	accsg	---a-m	a---m	a---m
+------	p-a---	l-e---	--ai--	------	nompl	---ai-	ai---	ai---
+------	p-a---	l-e---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	p-a---	l-e---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	pallium		n	2	4 	2	m
+------	p-a--l	l-i---	--u--m	------	nomsg	---u-m	---ud	---um
+------	p-a--l	l-i---	--ii--	------	gensg	---ii-	ii-us	ii---
+------	p-a--l	l-i---	--u--m	------	accsg	---u-m	---ud	---um
+------	p-a--l	l-i---	--a---	------	nompl	---a--	a----	a----
+------	p-a--l	l-i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	p-a--l	l-i---	--a---	------	accpl	---a--	a----	a----
+_	palma		f	3	20	5	f
+------	------	p-a--l	m-a---	------	nomsg	---a--	a----	a----
+------	------	p-a--l	m-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	p-a--l	m-a--m	------	accsg	---a-m	a---m	a---m
+------	------	p-a--l	m-ai--	------	nompl	---ai-	ai---	ai---
+------	------	p-a--l	m-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	p-a--l	m-aa-s	------	accpl	---aas	aa--s	aa--s
+_	parabola		f	2	2 	1	f
+p-a---	r-a---	b-o---	l-a---	------	nomsg	---a--	a----	a----
+p-a---	r-a---	b-o---	l-ai--	------	gensg	---ai-	ii-us	ai---
+p-a---	r-a---	b-o---	l-a--m	------	accsg	---a-m	a---m	a---m
+p-a---	r-a---	b-o---	l-ai--	------	nompl	---ai-	ai---	ai---
+p-a---	r-a---	b-o---	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+p-a---	r-a---	b-o---	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	parens		fh	10	42	7	f
+------	------	p-a---	r-e-ns	------	nomsg	-----s	a----	a----
+------	------	p-a---	r-e--n	t-i--s	gensg	--ti-s	ii-us	ai---
+------	------	p-a---	r-e--n	t-e--m	accsg	--te-m	a---m	a---m
+------	------	p-a---	r-e--n	t-e--s	nompl	--te-s	ai---	ai---
+------	------	p-a---	r-e--n	t-u--m	genpl	--tu-m	aarum	aarum
+------	------	p-a---	r-e--n	t-e--s	accpl	--te-s	aa--s	aa--s
+_	parens		mh	10	42	7	m
+------	------	p-a---	r-e-ns	------	nomsg	-----s	e----	---us
+------	------	p-a---	r-e--n	t-i--s	gensg	--ti-s	ii-us	ii---
+------	------	p-a---	r-e--n	t-e--m	accsg	--te-m	---um	---um
+------	------	p-a---	r-e--n	t-e--s	nompl	--te-s	ii---	ii---
+------	------	p-a---	r-e--n	t-u--m	genpl	--tu-m	oorum	oorum
+------	------	p-a---	r-e--n	t-e--s	accpl	--te-s	oo--s	oo--s
+_	pars		f	78	110	9	m
+------	------	------	p-a-rs	------	nomsg	-----s	a----	a----
+------	------	------	p-a--r	t-i--s	gensg	--ti-s	ii-us	ai---
+------	------	------	p-a--r	t-e--m	accsg	--te-m	a---m	a---m
+------	------	------	p-a--r	t-e--s	nompl	--te-s	ai---	ai---
+------	------	------	p-a--r	t-u--m	genpl	--tu-m	aarum	aarum
+------	------	------	p-a--r	t-e--s	accpl	--te-s	aa--s	aa--s
+_	passus		m	12	11	5	m
+------	------	------	p-a--s	s-u--s	nomsg	---u-s	e----	---us
+------	------	------	p-a--s	s-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	p-a--s	s-u--m	accsg	---u-m	---um	---um
+------	------	------	p-a--s	s-uu-s	nompl	---uus	ii---	ii---
+------	------	------	p-a--s	s-uu-m	genpl	---uum	oorum	oorum
+------	------	------	p-a--s	s-uu-s	accpl	---uus	oo--s	oo--s
+_	pastor		mh	4	16	5	m
+------	------	p-a--s	t-o--r	------	nomsg	------	e----	---us
+------	------	p-a--s	t-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	p-a--s	t-o---	r-e--m	accsg	---e-m	---um	---um
+------	------	p-a--s	t-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	p-a--s	t-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	p-a--s	t-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	pater		mh	49	105	9	m
+------	------	------	p-a---	t-e--r	nomsg	------	e----	---us
+------	------	------	p-a---	tri--s	gensg	---i-s	ii-us	ii---
+------	------	------	p-a---	tre--m	accsg	---e-m	---um	---um
+------	------	------	p-a---	tre--s	nompl	---e-s	ii---	ii---
+------	------	------	p-a---	tru--m	genpl	---u-m	oorum	oorum
+------	------	------	p-a---	tre--s	accpl	---e-s	oo--s	oo--s
+_	patria		f	30	51	7	f
+------	p-a---	tri---	--a---	------	nomsg	---a--	a----	a----
+------	p-a---	tri---	--ai--	------	gensg	---ai-	ii-us	ai---
+------	p-a---	tri---	--a--m	------	accsg	---a-m	a---m	a---m
+------	p-a---	tri---	--ai--	------	nompl	---ai-	ai---	ai---
+------	p-a---	tri---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	p-a---	tri---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	pauper		fh	2	2 	1	f
+------	p-au--	p-e---	r-a---	------	nomsg	---a--	a----	a----
+------	p-au--	p-e---	r-ai--	------	gensg	---ai-	ii-us	ai---
+------	p-au--	p-e---	r-a--m	------	accsg	---a-m	a---m	a---m
+------	p-au--	p-e---	r-ai--	------	nompl	---ai-	ai---	ai---
+------	p-au--	p-e---	r-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	p-au--	p-e---	r-aa-s	------	accpl	---aas	aa--s	aa--s
+_	pauper		mh	3	22	5	m
+------	------	p-au--	p-e--r	------	nomsg	------	e----	---us
+------	------	p-au--	p-e---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	p-au--	p-e---	r-e--m	accsg	---e-m	---um	---um
+------	------	p-au--	p-e---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	p-au--	p-e---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	p-au--	p-e---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	pax		f	13	40	7	m
+------	------	------	p-a-ks	------	nomsg	-----s	a----	a----
+------	------	------	p-a---	k-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	p-a---	k-e--m	accsg	---e-m	a---m	a---m
+------	------	------	p-a---	k-e--s	nompl	---e-s	ai---	ai---
+------	------	------	p-a---	k-u--m	genpl	---u-m	aarum	aarum
+------	------	------	p-a---	k-e--s	accpl	---e-s	aa--s	aa--s
+_	peccaatum	n	2	2 	1	m
+------	p-e--k	k-aa--	t-u--m	------	nomsg	---u-m	---ud	---um
+------	p-e--k	k-aa--	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	p-e--k	k-aa--	t-u--m	------	accsg	---u-m	---ud	---um
+------	p-e--k	k-aa--	t-a---	------	nompl	---a--	a----	a----
+------	p-e--k	k-aa--	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	p-e--k	k-aa--	t-a---	------	accpl	---a--	a----	a----
+_	pectora		np	2	2 	1	f
+------	------	p-e---	k-o---	r-a---	nompl	---a--	a----	a----
+------	------	p-e---	k-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	p-e---	k-o---	r-a---	accpl	---a--	a----	a----
+_	pectus		n	12	97	8	f
+------	------	p-e--k	t-u--s	------	nomsg	---u-s	---ud	---um
+------	------	p-e--k	t-o---	r-i--s	gensg	o-ri-s	ii-us	ii---
+------	------	p-e--k	t-u--s	------	accsg	---u-s	---ud	---um
+------	------	p-e--k	t-o---	r-a---	nompl	o-ra--	a----	a----
+------	------	p-e--k	t-o---	r-u--m	genpl	o-ru-m	oorum	oorum
+------	------	p-e--k	t-o---	r-a---	accpl	o-ra--	a----	a----
+_	pecus		f	6	23	5	m
+------	------	p-e---	k-u--s	------	nomsg	-----s	a----	a----
+------	------	p-e---	k-u---	d-i--s	gensg	--di-s	ii-us	ai---
+------	------	p-e---	k-u---	d-e--m	accsg	--de-m	a---m	a---m
+------	------	p-e---	k-u---	d-e--s	nompl	--de-s	ai---	ai---
+------	------	p-e---	k-u---	d-u--m	genpl	--du-m	aarum	aarum
+------	------	p-e---	k-u---	d-e--s	accpl	--de-s	aa--s	aa--s
+_	pecuunia	f	28	3 	5	m
+p-e---	k-uu--	n-i---	--a---	------	nomsg	---a--	a----	a----
+p-e---	k-uu--	n-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+p-e---	k-uu--	n-i---	--a--m	------	accsg	---a-m	a---m	a---m
+p-e---	k-uu--	n-i---	--ai--	------	nompl	---ai-	ai---	ai---
+p-e---	k-uu--	n-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+p-e---	k-uu--	n-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	pees		m	23	85	8	f
+------	------	------	p-ee-s	------	nomsg	---e-s	e----	---us
+------	------	------	p-e---	d-i--s	gensg	--di-s	ii-us	ii---
+------	------	------	p-e---	d-e--m	accsg	--de-m	---um	---um
+------	------	------	p-e---	d-e--s	nompl	--de-s	ii---	ii---
+------	------	------	p-e---	d-u--m	genpl	--du-m	oorum	oorum
+------	------	------	p-e---	d-e--s	accpl	--de-s	oo--s	oo--s
+_	pellicula		f	2	2 	1	f
+p-e--l	l-i---	k-u---	l-a---	------	nomsg	---a--	a----	a----
+p-e--l	l-i---	k-u---	l-ai--	------	gensg	---ai-	ii-us	ai---
+p-e--l	l-i---	k-u---	l-a--m	------	accsg	---a-m	a---m	a---m
+p-e--l	l-i---	k-u---	l-ai--	------	nompl	---ai-	ai---	ai---
+p-e--l	l-i---	k-u---	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+p-e--l	l-i---	k-u---	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	pellis		f	4	5 	3	b
+------	------	------	p-e--l	l-i--s	nomsg	---i-s	a----	a----
+------	------	------	p-e--l	l-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	p-e--l	l-e--m	accsg	---e-m	a---m	a---m
+------	------	------	p-e--l	l-e--s	nompl	---e-s	ai---	ai---
+------	------	------	p-e--l	l-u--m	genpl	---u-m	aarum	aarum
+------	------	------	p-e--l	l-e--s	accpl	---e-s	aa--s	aa--s
+_	pelvis		f	2	2 	1	m
+------	------	------	p-e--l	v-i--s	nomsg	---i-s	a----	a----
+------	------	------	p-e--l	v-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	p-e--l	v-e--m	accsg	---e-m	a---m	a---m
+------	------	------	p-e--l	v-e--s	nompl	---e-s	ai---	ai---
+------	------	------	p-e--l	v-u--m	genpl	---u-m	aarum	aarum
+------	------	------	p-e--l	v-e--s	accpl	---e-s	aa--s	aa--s
+_	pepo		m	2	2 	1	x
+------	------	p-e---	p-o---	------	nomsg	------	e----	---us
+------	------	p-e---	p-o---	n-i--s	gensg	o-ni-s	ii-us	ii---
+------	------	p-e---	p-o---	n-e--m	accsg	o-ne-m	---um	---um
+------	------	p-e---	p-o---	n-ee-s	nompl	o-nees	ii---	ii---
+------	------	p-e---	p-o---	n-u--m	genpl	o-nu-m	oorum	oorum
+------	------	p-e---	p-o---	n-ee-s	accpl	o-nees	oo--s	oo--s
+_	percussor	mh	2	2 	1	m
+------	p-e--r	k-u--s	s-o--r	------	nomsg	------	e----	---us
+------	p-e--r	k-u--s	s-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	p-e--r	k-u--s	s-o---	r-e--m	accsg	---e-m	---um	---um
+------	p-e--r	k-u--s	s-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	p-e--r	k-u--s	s-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	p-e--r	k-u--s	s-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	peregriinus	mh	3	6 	3	m
+p-e---	r-e---	grii--	n-u--s	------	nomsg	---u-s	e----	---us
+p-e---	r-e---	grii--	n-ii--	------	gensg	---ii-	ii-us	ii---
+p-e---	r-e---	grii--	n-u--m	------	accsg	---u-m	---um	---um
+p-e---	r-e---	grii--	n-ii--	------	nompl	---ii-	ii---	ii---
+p-e---	r-e---	grii--	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+p-e---	r-e---	grii--	n-oo-s	------	accpl	---oos	oo--s	oo--s
+_	persoona	mh	9	2 	3	m
+------	p-e--r	s-oo--	n-a---	------	nomsg	---a--	e----	---us
+------	p-e--r	s-oo--	n-ai--	------	gensg	---ai-	ii-us	ii---
+------	p-e--r	s-oo--	n-a--m	------	accsg	---a-m	---um	---um
+------	p-e--r	s-oo--	n-ai--	------	nompl	---ai-	ii---	ii---
+------	p-e--r	s-oo--	n-aa--	r-u--m	genpl	aaru-m	oorum	oorum
+------	p-e--r	s-oo--	n-aa-s	------	accpl	---aas	oo--s	oo--s
+_	pestis		f	3	10	4	b
+------	------	------	p-e--s	t-i--s	nomsg	---i-s	a----	a----
+------	------	------	p-e--s	t-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	p-e--s	t-e--m	accsg	---e-m	a---m	a---m
+------	------	------	p-e--s	t-e--s	nompl	---e-s	ai---	ai---
+------	------	------	p-e--s	t-u--m	genpl	---u-m	aarum	aarum
+------	------	------	p-e--s	t-e--s	accpl	---e-s	aa--s	aa--s
+_	petra		f	2	2 	1	f
+------	------	p-e---	tra---	------	nomsg	---a--	a----	a----
+------	------	p-e---	trai--	------	gensg	---ai-	ii-us	ai---
+------	------	p-e---	tra--m	------	accsg	---a-m	a---m	a---m
+------	------	p-e---	trai--	------	nompl	---ai-	ai---	ai---
+------	------	p-e---	traa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	p-e---	traa-s	------	accpl	---aas	aa--s	aa--s
+_	piilus		m	2	2 	1	m
+------	------	p-ii--	l-u--s	------	nomsg	---u-s	e----	---us
+------	------	p-ii--	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	p-ii--	l-u--m	------	accsg	---u-m	---um	---um
+------	------	p-ii--	l-ii--	------	nompl	---ii-	ii---	ii---
+------	------	p-ii--	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	p-ii--	l-oo-s	------	accpl	---oos	oo--s	oo--s
+_	piinea		f	2	2 	1	m
+------	p-ii--	n-e---	--a---	------	nomsg	---a--	a----	a----
+------	p-ii--	n-e---	--ai--	------	gensg	---ai-	ii-us	ai---
+------	p-ii--	n-e---	--a--m	------	accsg	---a-m	a---m	a---m
+------	p-ii--	n-e---	--ai--	------	nompl	---ai-	ai---	ai---
+------	p-ii--	n-e---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	p-ii--	n-e---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	piinus		f	3	9 	4	m
+------	------	p-ii--	n-u--s	------	nomsg	---u-s	a----	a----
+------	------	p-ii--	n-ii--	------	gensg	---ii-	ii-us	ai---
+------	------	p-ii--	n-u--m	------	accsg	---u-m	a---m	a---m
+------	------	p-ii--	n-ii--	------	nompl	---ii-	ai---	ai---
+------	------	p-ii--	n-oo--	r-u--m	genpl	ooru-m	aarum	aarum
+------	------	p-ii--	n-oo-s	------	accpl	---oos	aa--s	aa--s
+_	pinnaaculum	n	2	2 	1	m
+p-i--n	n-aa--	k-u---	l-u--m	------	nomsg	---u-m	---ud	---um
+p-i--n	n-aa--	k-u---	l-ii--	------	gensg	---ii-	ii-us	ii---
+p-i--n	n-aa--	k-u---	l-u--m	------	accsg	---u-m	---ud	---um
+p-i--n	n-aa--	k-u---	l-a---	------	nompl	---a--	a----	a----
+p-i--n	n-aa--	k-u---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+p-i--n	n-aa--	k-u---	l-a---	------	accpl	---a--	a----	a----
+_	piscaator	mh	2	2 	1	m
+------	p-i--s	k-aa--	t-o--r	------	nomsg	------	e----	---us
+------	p-i--s	k-aa--	t-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	p-i--s	k-aa--	t-o---	r-e--m	accsg	---e-m	---um	---um
+------	p-i--s	k-aa--	t-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	p-i--s	k-aa--	t-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	p-i--s	k-aa--	t-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	piscis		m	2	15	4	m
+------	------	------	p-i--s	k-i--s	nomsg	---i-s	e----	---us
+------	------	------	p-i--s	k-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	p-i--s	k-e--m	accsg	---e-m	---um	---um
+------	------	------	p-i--s	k-e--s	nompl	---e-s	ii---	ii---
+------	------	------	p-i--s	k-u--m	genpl	---u-m	oorum	oorum
+------	------	------	p-i--s	k-e--s	accpl	---e-s	oo--s	oo--s
+_	plaga		f	5	11	4	f
+------	------	pla---	g-a---	------	nomsg	---a--	a----	a----
+------	------	pla---	g-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	pla---	g-a--m	------	accsg	---a-m	a---m	a---m
+------	------	pla---	g-ai--	------	nompl	---ai-	ai---	ai---
+------	------	pla---	g-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	pla---	g-aa-s	------	accpl	---aas	aa--s	aa--s
+_	platea		f	2	2 	1	f
+------	pla---	t-e---	--a---	------	nomsg	---a--	a----	a----
+------	pla---	t-e---	--ai--	------	gensg	---ai-	ii-us	ai---
+------	pla---	t-e---	--a--m	------	accsg	---a-m	a---m	a---m
+------	pla---	t-e---	--ai--	------	nompl	---ai-	ai---	ai---
+------	pla---	t-e---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	pla---	t-e---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	plaustra		np	7	5 	4	x
+------	------	plau-s	tra---	------	nompl	---a--	a----	a----
+------	------	plau-s	troo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	plau-s	tra---	------	accpl	---a--	a----	a----
+_	plebs		f	11	12	5	f
+------	------	------	ple-bs	------	nomsg	-----s	a----	a----
+------	------	------	ple---	b-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	ple---	b-e--m	accsg	---e-m	a---m	a---m
+------	------	------	ple---	b-e--s	nompl	---e-s	ai---	ai---
+------	------	------	ple---	b-u--m	genpl	---u-m	aarum	aarum
+------	------	------	ple---	b-e--s	accpl	---e-s	aa--s	aa--s
+_	pleenituudo	f	2	2 	1	m
+plee--	n-i---	t-uu--	d-o---	------	nomsg	---o--	a----	a----
+plee--	n-i---	t-uu--	d-i---	n-i--s	gensg	i-ni-s	ii-us	ai---
+plee--	n-i---	t-uu--	d-i---	n-e--m	accsg	i-ne-m	a---m	a---m
+plee--	n-i---	t-uu--	d-i---	n-e--s	nompl	i-ne-s	ai---	ai---
+plee--	n-i---	t-uu--	d-i---	n-u--m	genpl	i-nu-m	aarum	aarum
+plee--	n-i---	t-uu--	d-i---	n-e--s	accpl	i-ne-s	aa--s	aa--s
+_	pluvia		f	2	2 	1	m
+------	plu---	v-i---	--a---	------	nomsg	---a--	a----	a----
+------	plu---	v-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+------	plu---	v-i---	--a--m	------	accsg	---a-m	a---m	a---m
+------	plu---	v-i---	--ai--	------	nompl	---ai-	ai---	ai---
+------	plu---	v-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	plu---	v-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	poena		f	17	35	7	f
+------	------	p-oi--	n-a---	------	nomsg	---a--	a----	a----
+------	------	p-oi--	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	p-oi--	n-a--m	------	accsg	---a-m	a---m	a---m
+------	------	p-oi--	n-ai--	------	nompl	---ai-	ai---	ai---
+------	------	p-oi--	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	p-oi--	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	pomum		np	4	18	5	m
+------	------	p-o---	m-u--m	------	nompl	---a--	a----	a----
+------	------	p-o---	m-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	p-o---	m-a---	------	accpl	---a--	a----	a----
+_	pondus		n	2	2 	1	m
+------	------	p-o--n	d-u--s	------	nomsg	---u-s	---ud	---um
+------	------	p-o--n	d-e---	r-i--s	gensg	e-ri-s	ii-us	ii---
+------	------	p-o--n	d-u--s	------	accsg	---u-s	---ud	---um
+------	------	p-o--n	d-e---	r-a---	nompl	e-ra--	a----	a----
+------	------	p-o--n	d-e---	r-u--m	genpl	e-ru-m	oorum	oorum
+------	------	p-o--n	d-e---	r-a---	accpl	e-ra--	a----	a----
+_	pontus		m	4	52	7	f
+------	------	p-o--n	t-u--s	------	nomsg	---u-s	e----	---us
+------	------	p-o--n	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	p-o--n	t-u--m	------	accsg	---u-m	---um	---um
+------	------	p-o--n	t-ii--	------	nompl	---ii-	ii---	ii---
+------	------	p-o--n	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	p-o--n	t-oo-s	------	accpl	---oos	oo--s	oo--s
+_	populus		m	50	59	8	f
+------	p-o---	p-u---	l-u--s	------	nomsg	---u-s	e----	---us
+------	p-o---	p-u---	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	p-o---	p-u---	l-u--m	------	accsg	---u-m	---um	---um
+------	p-o---	p-u---	l-ii--	------	nompl	---ii-	ii---	ii---
+------	p-o---	p-u---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	p-o---	p-u---	l-oo-s	------	accpl	---oos	oo--s	oo--s
+_	porcus		m	2	3 	2	m
+------	------	p-o--r	k-u--s	------	nomsg	---u-s	e----	---us
+------	------	p-o--r	k-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	p-o--r	k-u--m	------	accsg	---u-m	---um	---um
+------	------	p-o--r	k-----	------	nompl	---ii-	ii---	ii---
+------	------	p-o--r	k-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	p-o--r	k-oo-s	------	accpl	---oos	oo--s	oo--s
+_	porta		f	17	21	6	m
+------	------	p-o--r	t-a---	------	nomsg	---a--	a----	a----
+------	------	p-o--r	t-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	p-o--r	t-a--m	------	accsg	---a-m	a---m	a---m
+------	------	p-o--r	t-ai--	------	nompl	---ai-	ai---	ai---
+------	------	p-o--r	t-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	p-o--r	t-aa-s	------	accpl	---aas	aa--s	aa--s
+_	porticus		m	2	2 	1	f
+------	------	p-o--r	t-i---	k-u--s	nomsg	---u-s	e----	---us
+------	------	p-o--r	t-i---	k-uu-s	gensg	---uus	ii-us	ii---
+------	------	p-o--r	t-i---	k-u--m	accsg	---u-m	---um	---um
+------	------	p-o--r	t-i---	k-uu-s	nompl	---uus	ii---	ii---
+------	------	p-o--r	t-i---	k-uu-m	genpl	---uum	oorum	oorum
+------	------	p-o--r	t-i---	k-uu-s	accpl	---uus	oo--s	oo--s
+_	possessio	f	3	2 	2	m
+------	p-o--s	s-e--s	s-i---	--o---	nomsg	------	a----	a----
+------	p-o--s	s-e--s	s-io--	n-i--s	gensg	o-ni-s	ii-us	ai---
+------	p-o--s	s-e--s	s-io--	n-e--m	accsg	o-ne-m	a---m	a---m
+------	p-o--s	s-e--s	s-io--	n-ee-s	nompl	o-nees	ai---	ai---
+------	p-o--s	s-e--s	s-io--	n-u--m	genpl	o-nu-m	aarum	aarum
+------	p-o--s	s-e--s	s-io--	n-ee-s	accpl	o-nees	aa--s	aa--s
+_	potestas		f	11	13	5	m
+------	p-o---	t-e--s	t-aa-s	------	nomsg	-----s	a----	a----
+------	p-o---	t-e--s	t-aa--	t-i--s	gensg	--ti-s	ii-us	ai---
+------	p-o---	t-e--s	t-aa--	t-e--m	accsg	--te-m	a---m	a---m
+------	p-o---	t-e--s	t-aa--	t-e--s	nompl	--te-s	ai---	ai---
+------	p-o---	t-e--s	t-aa--	t-u--m	genpl	--tu-m	aarum	aarum
+------	p-o---	t-e--s	t-aa--	t-e--s	accpl	--te-s	aa--s	aa--s
+_	praeceptor	mh	2	2 	1	m
+------	prai--	k-e--p	t-o--r	------	nomsg	------	e----	---us
+------	prai--	k-e--p	t-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	prai--	k-e--p	t-o---	r-e--m	accsg	---e-m	---um	---um
+------	prai--	k-e--p	t-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	prai--	k-e--p	t-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	prai--	k-e--p	t-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	praeda		f	11	13	5	b
+------	------	prai--	d-a---	------	nomsg	---a--	a----	a----
+------	------	prai--	d-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	prai--	d-a--m	------	accsg	---a-m	a---m	a---m
+------	------	prai--	d-ai--	------	nompl	---ai-	ai---	ai---
+------	------	prai--	d-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	prai--	d-aa-s	------	accpl	---aas	aa--s	aa--s
+_	pretium		n	11	20	5	m
+------	pre---	t-i---	--u--m	------	nomsg	---u-m	---ud	---um
+------	pre---	t-i---	--ii--	------	gensg	---ii-	ii-us	ii---
+------	pre---	t-i---	--u--m	------	accsg	---u-m	---ud	---um
+------	pre---	t-i---	--a---	------	nompl	---a--	a----	a----
+------	pre---	t-i---	--oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	pre---	t-i---	--a---	------	accpl	---a--	a----	a----
+_	priinceps	mh	43	17	7	m
+------	------	prii-n	k-e-ps	------	nomsg	-----s	e----	---us
+------	------	prii-n	k-e---	p-i--s	gensg	---i-s	ii-us	ii---
+------	------	prii-n	k-e---	p-e--m	accsg	---e-m	---um	---um
+------	------	prii-n	k-e---	p-e--s	nompl	---e-s	ii---	ii---
+------	------	prii-n	k-e---	p-u--m	genpl	---u-m	oorum	oorum
+------	------	prii-n	k-e---	p-e--s	accpl	---e-s	oo--s	oo--s
+_	primitia		f	2	2 	1	b
+pri---	m-i---	t-i---	--a---	------	nomsg	---a--	a----	a----
+pri---	m-i---	t-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+pri---	m-i---	t-i---	--a--m	------	accsg	---a-m	a---m	a---m
+pri---	m-i---	t-i---	--ai--	------	nompl	---ai-	ai---	ai---
+pri---	m-i---	t-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+pri---	m-i---	t-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	proocessus	m	2	2 	1	b
+------	------	proo--	k-e--s	s-u--s	nomsg	---u-s	e----	---us
+------	------	proo--	k-e--s	s-uu-s	gensg	---uus	ii-us	ii---
+------	------	proo--	k-e--s	s-u--m	accsg	---u-m	---um	---um
+------	------	proo--	k-e--s	s-uu-s	nompl	---uus	ii---	ii---
+------	------	proo--	k-e--s	s-uu-m	genpl	---uum	oorum	oorum
+------	------	proo--	k-e--s	s-uu-s	accpl	---uus	oo--s	oo--s
+_	proovidens	mh	2	2 	1	m
+------	proo--	v-i---	d-e-ns	------	nomsg	-----s	e----	---us
+------	proo--	v-i---	d-e--n	t-i--s	gensg	--ti-s	ii-us	ii---
+------	proo--	v-i---	d-e--n	t-e--m	accsg	--te-m	---um	---um
+------	proo--	v-i---	d-e--n	t-e--s	nompl	--te-s	ii---	ii---
+------	proo--	v-i---	d-e--n	t-u--m	genpl	--tu-m	oorum	oorum
+------	proo--	v-i---	d-e--n	t-e--s	accpl	--te-s	oo--s	oo--s
+_	propheeta	mh	2	2 	1	m
+------	pro---	f-ee--	t-a---	------	nomsg	---a--	e----	---us
+------	pro---	f-ee--	t-ai--	------	gensg	---ai-	ii-us	ii---
+------	pro---	f-ee--	t-a--m	------	accsg	---a-m	---um	---um
+------	pro---	f-ee--	t-ai--	------	nompl	---ai-	ii---	ii---
+------	pro---	f-ee--	t-aa--	r-u--m	genpl	aaru-m	oorum	oorum
+------	pro---	f-ee--	t-aa-s	------	accpl	---aas	oo--s	oo--s
+_	psalmus		m	2	2 	1	f
+------	------	psa--l	m-u--s	------	nomsg	---u-s	e----	---us
+------	------	psa--l	m-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	psa--l	m-u--m	------	accsg	---u-m	---um	---um
+------	------	psa--l	m-ii--	------	nompl	---ii-	ii---	ii---
+------	------	psa--l	m-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	psa--l	m-oo-s	------	accpl	---oos	oo--s	oo--s
+_	puella		fh	3	125	8	f
+------	p-u---	--e--l	l-a---	------	nomsg	---a--	a----	a----
+------	p-u---	--e--l	l-ai--	------	gensg	---ai-	ii-us	ai---
+------	p-u---	--e--l	l-a--m	------	accsg	---a-m	a---m	a---m
+------	p-u---	--e--l	l-ai--	------	nompl	---ai-	ai---	ai---
+------	p-u---	--e--l	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	p-u---	--e--l	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	puer		mh	21	112	8	m
+------	p-u---	--e--r	------	------	nomsg	------	e----	---us
+------	p-u---	--e---	r-ii--	------	gensg	---ii-	ii-us	ii---
+------	p-u---	--e---	r-u--m	------	accsg	---u-m	---um	---um
+------	p-u---	--e---	r-ii--	------	nompl	---ii-	ii---	ii---
+------	p-u---	--e---	roo---	r-u--m	genpl	ooru-m	oorum	oorum
+------	p-u---	--e---	roo--s	------	accpl	---oos	oo--s	oo--s
+_	pugna		f	29	14	6	f
+------	------	p-u--g	n-a---	------	nomsg	---a--	a----	a----
+------	------	p-u--g	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	p-u--g	n-a--m	------	accsg	---a-m	a---m	a---m
+------	------	p-u--g	n-ai--	------	nompl	---ai-	ai---	ai---
+------	------	p-u--g	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	p-u--g	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	pullus		m	3	2 	2	m
+------	------	p-u--l	l-u--s	------	nomsg	---u-s	e----	---us
+------	------	p-u--l	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	p-u--l	l-u--m	------	accsg	---u-m	---um	---um
+------	------	p-u--l	l-ii--	------	nompl	---ii-	ii---	ii---
+------	------	p-u--l	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	p-u--l	l-oo-s	------	accpl	---oos	oo--s	oo--s
+_	pulvis		m	5	10	4	m
+------	------	p-u--l	v-i--s	------	nomsg	---i-s	e----	---us
+------	------	p-u--l	v-e---	r-i--s	gensg	e-ri-s	ii-us	ii---
+------	------	p-u--l	v-e---	r-e--m	accsg	e-re-m	---um	---um
+------	------	p-u--l	v-e---	r-e--s	nompl	e-re-s	ii---	ii---
+------	------	p-u--l	v-e---	r-u--m	genpl	e-ru-m	oorum	oorum
+------	------	p-u--l	v-e---	r-e--s	accpl	e-re-s	oo--s	oo--s
+_	pusillus		m	6	3 	3	m
+------	p-u---	s-i--l	------	l-u--s	nomsg	---u-s	e----	---us
+------	p-u---	s-i--l	l------	-ii--	gensg	---ii-	ii-us	ii---
+------	p-u---	s-i--l	l------	-u--m	accsg	---u-m	---um	---um
+------	p-u---	s-i--l	l------	-ii--	nompl	---ii-	ii---	ii---
+------	p-u---	s-i--l	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	p-u---	s-i--l	------	l-oo-s	accpl	---oos	oo--s	oo--s
+_	raadiix		f	7	5 	4	m
+------	------	r-aa--	d-iiks	------	nomsg	-----s	a----	a----
+------	------	r-aa--	d-ii--	k-i--s	gensg	---i-s	ii-us	ai---
+------	------	r-aa--	d-ii--	k-e--m	accsg	---e-m	a---m	a---m
+------	------	r-aa--	d-ii--	k-e--s	nompl	---e-s	ai---	ai---
+------	------	r-aa--	d-ii--	k-u--m	genpl	---u-m	aarum	aarum
+------	------	r-aa--	d-ii--	k-e--s	accpl	---e-s	aa--s	aa--s
+_	raamex		m	2	2 	1	m
+------	------	r-aa--	m-e-ks	------	nomsg	-----s	e----	---us
+------	------	r-aa--	m-e---	k-i--s	gensg	---i-s	ii-us	ii---
+------	------	r-aa--	m-e---	k-e--m	accsg	---e-m	---um	---um
+------	------	r-aa--	m-e---	k-e--s	nompl	---e-s	ii---	ii---
+------	------	r-aa--	m-e---	k-u--m	genpl	---u-m	oorum	oorum
+------	------	r-aa--	m-e---	k-e--s	accpl	---e-s	oo--s	oo--s
+_	raamus		m	5	23	5	f
+------	------	r-aa--	m-u--s	------	nomsg	---u-s	e----	---us
+------	------	r-aa--	m-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	r-aa--	m-u--m	------	accsg	---u-m	---um	---um
+------	------	r-aa--	m-ii--	------	nompl	---ii-	ii---	ii---
+------	------	r-aa--	m-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	r-aa--	m-oo-s	------	accpl	---oos	oo--s	oo--s
+_	ratio		f	49	50	8	m
+------	------	r-a---	t-io--	------	nomsg	------	a----	a----
+------	------	r-a---	t-io--	n-i--s	gensg	o-ni-s	ii-us	ai---
+------	------	r-a---	t-io--	n-e--m	accsg	o-ne-m	a---m	a---m
+------	------	r-a---	t-io--	n-ee-s	nompl	o-nees	ai---	ai---
+------	------	r-a---	t-io--	n-u--m	genpl	o-nu-m	aarum	aarum
+------	------	r-a---	t-io--	n-ee-s	accpl	o-nees	aa--s	aa--s
+_	rees		f	323	151	11	m
+------	------	------	r-ee-s	------	nomsg	---e-s	a----	a----
+------	------	------	r-ee--	------	gensg	---e--	ii-us	ai---
+------	------	------	r-ee-m	------	accsg	---e-m	a---m	a---m
+------	------	------	r-ee-s	------	nompl	---e-s	ai---	ai---
+------	------	------	r-ee--	r-u--m	genpl	-eru-m	aarum	aarum
+------	------	------	r-ee-s	------	accpl	---e-s	aa--s	aa--s
+_	reete		n	2	2 	1	f
+------	------	r-ee--	t-e---	------	nomsg	---e--	---ud	---um
+------	------	r-ee--	t-i--s	------	gensg	---i-s	ii-us	ii---
+------	------	r-ee--	t-e---	------	accsg	---e--	---ud	---um
+------	------	r-ee--	t-i---	--a---	nompl	i--a--	a----	a----
+------	------	r-ee--	t-i---	--u--m	genpl	i--u-m	oorum	oorum
+------	------	r-ee--	t-i---	--a---	accpl	i--a--	a----	a----
+_	reex		mh	62	69	8	m
+------	------	------	r-eeks	------	nomsg	-----s	e----	---us
+------	------	------	r-ee-g	--i--s	gensg	---i-s	ii-us	ii---
+------	------	------	r-ee-g	--e--m	accsg	---e-m	---um	---um
+------	------	------	r-ee-g	--e--s	nompl	---e-s	ii---	ii---
+------	------	------	r-ee-g	--u--m	genpl	---u-m	oorum	oorum
+------	------	------	r-ee-g	--e--s	accpl	---e-s	oo--s	oo--s
+_	regio		f	11	16	5	m
+------	------	r-e---	g-io--	------	nomsg	------	a----	a----
+------	------	r-e---	g-io--	n-i--s	gensg	o-ni-s	ii-us	ai---
+------	------	r-e---	g-io--	n-e--m	accsg	o-ne-m	a---m	a---m
+------	------	r-e---	g-io--	n-ee-s	nompl	o-nees	ai---	ai---
+------	------	r-e---	g-io--	n-u--m	genpl	o-nu-m	aarum	aarum
+------	------	r-e---	g-io--	n-ee-s	accpl	o-nees	aa--s	aa--s
+_	religio		f	14	10	5	f
+------	r-e---	l-i---	g-io--	------	nomsg	------	a----	a----
+------	r-e---	l-i---	g-io--	n-i--s	gensg	o-ni-s	ii-us	ai---
+------	r-e---	l-i---	g-io--	n-e--m	accsg	o-ne-m	a---m	a---m
+------	r-e---	l-i---	g-io--	n-ee-s	nompl	o-nees	ai---	ai---
+------	r-e---	l-i---	g-io--	n-u--m	genpl	o-nu-m	aarum	aarum
+------	r-e---	l-i---	g-io--	n-ee-s	accpl	o-nees	aa--s	aa--s
+_	riitus		m	2	9 	3	f
+------	------	------	r-ii--	t-u--s	nomsg	---u-s	e----	---us
+------	------	------	r-ii--	t-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	r-ii--	t-u--m	accsg	---u-m	---um	---um
+------	------	------	r-ii--	t-uu-s	nompl	---uus	ii---	ii---
+------	------	------	r-ii--	t-uu-m	genpl	---uum	oorum	oorum
+------	------	------	r-ii--	t-uu-s	accpl	---uus	oo--s	oo--s
+_	rosa		f	2	37	6	m
+------	------	r-o---	s-a---	------	nomsg	---a--	a----	a----
+------	------	r-o---	s-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	r-o---	s-a--m	------	accsg	---a-m	a---m	a---m
+------	------	r-o---	s-ai--	------	nompl	---ai-	ai---	ai---
+------	------	r-o---	s-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	r-o---	s-aa-s	------	accpl	---aas	aa--s	aa--s
+_	ruiina		f	8	17	5	m
+------	r-u---	--ii--	n-a---	------	nomsg	---a--	a----	a----
+------	r-u---	--ii--	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	r-u---	--ii--	n-a--m	------	accsg	---a-m	a---m	a---m
+------	r-u---	--ii--	n-ai--	------	nompl	---ai-	ai---	ai---
+------	r-u---	--ii--	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	r-u---	--ii--	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	rusticus		mh	5	19	5	m
+------	r-u--s	t-i---	k-u--s	------	nomsg	---u-s	e----	---us
+------	r-u--s	t-i---	k-ii--	------	gensg	---ii-	ii-us	ii---
+------	r-u--s	t-i---	k-u--m	------	accsg	---u-m	---um	---um
+------	r-u--s	t-i---	k-ii--	------	nompl	---ii-	ii---	ii---
+------	r-u--s	t-i---	k-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	r-u--s	t-i---	k-oo-s	------	accpl	---oos	oo--s	oo--s
+_	sacerdoos	m	8	12	5	m
+------	s-a---	k-e--r	d-oo-s	------	nomsg	-----s	e----	---us
+------	s-a---	k-e--r	d-oo--	t-i--s	gensg	--ti-s	ii-us	ii---
+------	s-a---	k-e--r	d-oo--	t-e--m	accsg	--te-m	---um	---um
+------	s-a---	k-e--r	d-oo--	t-e--s	nompl	--te-s	ii---	ii---
+------	s-a---	k-e--r	d-oo--	t-u--m	genpl	--tu-m	oorum	oorum
+------	s-a---	k-e--r	d-oo--	t-e--s	accpl	--te-s	oo--s	oo--s
+_	saeculum	n	16	41	7	m
+------	s-ai--	k-u---	l-u--m	------	nomsg	---u-m	---ud	---um
+------	s-ai--	k-u---	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	s-ai--	k-u---	l-u--m	------	accsg	---u-m	---ud	---um
+------	s-ai--	k-u---	l-a---	------	nompl	---a--	a----	a----
+------	s-ai--	k-u---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	s-ai--	k-u---	l-a---	------	accpl	---a--	a----	a----
+_	sanctor		mh	2	2 	1	m
+------	------	s-a-nk	t-o--r	------	nomsg	------	e----	---us
+------	------	s-a-nk	t-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	s-a-nk	t-o---	r-e--m	accsg	---e-m	---um	---um
+------	------	s-a-nk	t-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	s-a-nk	t-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	s-a-nk	t-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	sanguis		m	16	50	7	m
+------	------	s-a--n	g-ui-s	------	nomsg	---i-s	e----	---us
+------	------	s-a--n	g-ui--	n-i--s	gensg	i-ni-s	ii-us	ii---
+------	------	s-a--n	g-ui--	n-e--m	accsg	i-ne-m	---um	---um
+------	------	s-a--n	g-ui--	n-e--s	nompl	i-ne-s	ii---	ii---
+------	------	s-a--n	g-ui--	n-u--m	genpl	i-nu-m	oorum	oorum
+------	------	s-a--n	g-ui--	n-e--s	accpl	i-ne-s	oo--s	oo--s
+_	sapientia		f	11	8 	5	f
+s-a---	p-ie-n	t-i---	--a---	------	nomsg	---a--	a----	a----
+s-a---	p-ie-n	t-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+s-a---	p-ie-n	t-i---	--a--m	------	accsg	---a-m	a---m	a---m
+s-a---	p-ie-n	t-i---	--ai--	------	nompl	---ai-	ai---	ai---
+s-a---	p-ie-n	t-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+s-a---	p-ie-n	t-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	scandalum	n	2	2 	1	m
+------	ska--n	d-a---	l-u--m	------	nomsg	---u-m	---ud	---um
+------	ska--n	d-a---	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	ska--n	d-a---	l-u--m	------	accsg	---u-m	---ud	---um
+------	ska--n	d-a---	l-a---	------	nompl	---a--	a----	a----
+------	ska--n	d-a---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	ska--n	d-a---	l-a---	------	accpl	---a--	a----	a----
+_	scientia		f	11	2 	4	f
+ski---	--e--n	t-i---	--a---	------	nomsg	---a--	a----	a----
+ski---	--e--n	t-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+ski---	--e--n	t-i---	--a--m	------	accsg	---a-m	a---m	a---m
+ski---	--e--n	t-i---	--ai--	------	nompl	---ai-	ai---	ai---
+ski---	--e--n	t-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+ski---	--e--n	t-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	scopa		f	2	2 	1	f
+------	------	sko---	p-a---	------	nomsg	---a--	a----	a----
+------	------	sko---	p-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	sko---	p-a--m	------	accsg	---a-m	a---m	a---m
+------	------	sko---	p-ai--	------	nompl	---ai-	ai---	ai---
+------	------	sko---	p-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	sko---	p-aa-s	------	accpl	---aas	aa--s	aa--s
+_	scopulus		m	3	11	4	f
+------	sko---	p-u---	l-u--s	------	nomsg	---u-s	e----	---us
+------	sko---	p-u---	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	sko---	p-u---	l-u--m	------	accsg	---u-m	---um	---um
+------	sko---	p-u---	l-ii--	------	nompl	---ii-	ii---	ii---
+------	sko---	p-u---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	sko---	p-u---	l-oo-s	------	accpl	---oos	oo--s	oo--s
+_	secretum	np	2	2 	1	x
+------	s-e---	kre---	t-u--m	------	nompl	---a--	a----	a----
+------	s-e---	kre---	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	s-e---	kre---	t-a---	------	accpl	---a--	a----	a----
+_	seemen		n	4	21	5	m
+------	------	s-ee--	m-e--n	------	nomsg	e-n---	---ud	---um
+------	------	s-ee--	m-i---	n-i--s	gensg	i-ni-s	ii-us	ii---
+------	------	s-ee--	m-e--n	------	accsg	e-n---	---ud	---um
+------	------	s-ee--	m-i---	n-a---	nompl	e-na--	a----	a----
+------	------	s-ee--	m-i---	n-u--m	genpl	e-nu-m	oorum	oorum
+------	------	s-ee--	m-i---	n-a---	accpl	e-na--	a----	a----
+_	seemis		m	2	2 	1	m
+------	------	s-ee--	m-i--s	------	nomsg	-----s	e----	---us
+------	------	s-ee--	m-i---	t-i--s	gensg	--ti-s	ii-us	ii---
+------	------	s-ee--	m-i---	t-e--m	accsg	--te-m	---um	---um
+------	------	s-ee--	m-i---	t-e--s	nompl	--te-s	ii---	ii---
+------	------	s-ee--	m-i---	t-u--m	genpl	--tu-m	oorum	oorum
+------	------	s-ee--	m-i---	t-e--s	accpl	--te-s	oo--s	oo--s
+_	seemita		f	4	6 	3	f
+------	s-ee--	m-i---	t-a---	------	nomsg	---a--	a----	a----
+------	s-ee--	m-i---	t-ai--	------	gensg	---ai-	ii-us	ai---
+------	s-ee--	m-i---	t-a--m	------	accsg	---a-m	a---m	a---m
+------	s-ee--	m-i---	t-ai--	------	nompl	---ai-	ai---	ai---
+------	s-ee--	m-i---	t-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	s-ee--	m-i---	t-aa-s	------	accpl	---aas	aa--s	aa--s
+_	senior		mh	2	2 	1	m
+------	s-e---	n-i---	--o--r	------	nomsg	------	e----	---us
+------	s-e---	n-i---	--o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	s-e---	n-i---	--o---	r-e--m	accsg	---e-m	---um	---um
+------	s-e---	n-i---	--o---	r-e--s	nompl	---e-s	ii---	ii---
+------	s-e---	n-i---	--o---	r-u--m	genpl	---u-m	oorum	oorum
+------	s-e---	n-i---	--o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	sensus		m	13	15	5	m
+------	------	------	s-e--n	s-u--s	nomsg	---u-s	e----	---us
+------	------	------	s-e--n	s-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	s-e--n	s-u--m	accsg	---u-m	---um	---um
+------	------	------	s-e--n	s-uu-s	nompl	---uus	ii---	ii---
+------	------	------	s-e--n	s-uu-m	genpl	---uum	oorum	oorum
+------	------	------	s-e--n	s-uu-s	accpl	---uus	oo--s	oo--s
+_	sententia		f	23	5 	5	m
+s-e--n	t-e--n	t-i---	--a---	------	nomsg	---a--	a----	a----
+s-e--n	t-e--n	t-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+s-e--n	t-e--n	t-i---	--a--m	------	accsg	---a-m	a---m	a---m
+s-e--n	t-e--n	t-i---	--ai--	------	nompl	---ai-	ai---	ai---
+s-e--n	t-e--n	t-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+s-e--n	t-e--n	t-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	series		fs	5	11	4	f
+------	------	s-e---	r-i---	--e--s	nomsg	---e-s	a----	a----
+------	------	s-e---	r-i---	--e---	gensg	---e--	ii-us	ai---
+------	------	s-e---	r-i---	--e--m	accsg	---e-m	a---m	a---m
+_	sermo		m	34	16	6	f
+------	------	s-e--r	m-o---	------	nomsg	------	e----	---us
+------	------	s-e--r	m-o---	n-i--s	gensg	o-ni-s	ii-us	ii---
+------	------	s-e--r	m-o---	n-e--m	accsg	o-ne-m	---um	---um
+------	------	s-e--r	m-o---	n-ee-s	nompl	o-nees	ii---	ii---
+------	------	s-e--r	m-o---	n-u--m	genpl	o-nu-m	oorum	oorum
+------	------	s-e--r	m-o---	n-ee-s	accpl	o-nees	oo--s	oo--s
+_	serpens		m	4	11	4	f
+------	------	s-e--r	p-e-ns	------	nomsg	-----s	e----	---us
+------	------	s-e--r	p-e--n	t-i--s	gensg	--ti-s	ii-us	ii---
+------	------	s-e--r	p-e--n	t-e--m	accsg	--te-m	---um	---um
+------	------	s-e--r	p-e--n	t-e--s	nompl	--te-s	ii---	ii---
+------	------	s-e--r	p-e--n	t-u--m	genpl	--tu-m	oorum	oorum
+------	------	s-e--r	p-e--n	t-e--s	accpl	--te-s	oo--s	oo--s
+_	servus		mh	44	4 	6	m
+------	------	s-e--r	v-u--s	------	nomsg	---u-s	e----	---us
+------	------	s-e--r	v-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	s-e--r	v-u--m	------	accsg	---u-m	---um	---um
+------	------	s-e--r	v-ii--	------	nompl	---ii-	ii---	ii---
+------	------	s-e--r	v-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	s-e--r	v-oo-s	------	accpl	---oos	oo--s	oo--s
+_	sexus		m	4	5 	3	b
+------	------	------	s-e--k	s-u--s	nomsg	---u-s	e----	---us
+------	------	------	s-e--k	s-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	s-e--k	s-u--m	accsg	---u-m	---um	---um
+------	------	------	s-e--k	s-uu-s	nompl	---uus	ii---	ii---
+------	------	------	s-e--k	s-uu-m	genpl	---uum	oorum	oorum
+------	------	------	s-e--k	s-uu-s	accpl	---uus	oo--s	oo--s
+_	siclus		m	2	2 	1	f
+------	------	s-i---	klu--s	------	nomsg	---u-s	e----	---us
+------	------	s-i---	klii--	------	gensg	---ii-	ii-us	ii---
+------	------	s-i---	klu--m	------	accsg	---u-m	---um	---um
+------	------	s-i---	klii--	------	nompl	---ii-	ii---	ii---
+------	------	s-i---	kloo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	s-i---	kloo-s	------	accpl	---oos	oo--s	oo--s
+_	signum		n	34	61	8	b
+------	------	s-i--g	n-u--m	------	nomsg	---u-m	---ud	---um
+------	------	s-i--g	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	s-i--g	n-u--m	------	accsg	---u-m	---ud	---um
+------	------	s-i--g	n-a---	------	nompl	---a--	a----	a----
+------	------	s-i--g	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	s-i--g	n-a---	------	accpl	---a--	a----	a----
+_	societas		f	7	2 	3	m
+------	s-o---	k-ie--	t-aa-s	------	nomsg	-----s	a----	a----
+------	s-o---	k-ie--	t-aa--	t-i--s	gensg	--ti-s	ii-us	ai---
+------	s-o---	k-ie--	t-aa--	t-e--m	accsg	--te-m	a---m	a---m
+------	s-o---	k-ie--	t-aa--	t-e--s	nompl	--te-s	ai---	ai---
+------	s-o---	k-ie--	t-aa--	t-u--m	genpl	--tu-m	aarum	aarum
+------	s-o---	k-ie--	t-aa--	t-e--s	accpl	--te-s	aa--s	aa--s
+_	socrus		fh	2	2 	1	f
+------	------	------	s-o---	kru--s	nomsg	---u-s	a----	a----
+------	------	------	s-o---	kruu-s	gensg	---uus	ii-us	ai---
+------	------	------	s-o---	kru--m	accsg	---u-m	a---m	a---m
+------	------	------	s-o---	kruu-s	nompl	---uus	ai---	ai---
+------	------	------	s-o---	kruu-m	genpl	---uum	aarum	aarum
+------	------	------	s-o---	kruu-s	accpl	---uus	aa--s	aa--s
+_	somnus		m	20	65	7	m
+------	------	s-o--m	n-u--s	------	nomsg	---u-s	e----	---us
+------	------	s-o--m	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	s-o--m	n-u--m	------	accsg	---u-m	---um	---um
+------	------	s-o--m	n-ii--	------	nompl	---ii-	ii---	ii---
+------	------	s-o--m	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	s-o--m	n-oo-s	------	accpl	---oos	oo--s	oo--s
+_	sool		m	28	84	8	f
+------	------	------	s-oo-l	------	nomsg	------	e----	---us
+------	------	------	s-oo--	l-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	s-oo--	l-e--m	accsg	---e-m	---um	---um
+------	------	------	s-oo--	l-e--s	nompl	---e-s	ii---	ii---
+------	------	------	s-oo--	l-u--m	genpl	---u-m	oorum	oorum
+------	------	------	s-oo--	l-e--s	accpl	---e-s	oo--s	oo--s
+_	soolituudo	f	14	2 	4	m
+s-oo--	l-i---	t-uu--	d-o---	------	nomsg	---o--	a----	a----
+s-oo--	l-i---	t-uu--	d-i---	n-i--s	gensg	i-ni-s	ii-us	ai---
+s-oo--	l-i---	t-uu--	d-i---	n-e--m	accsg	i-ne-m	a---m	a---m
+s-oo--	l-i---	t-uu--	d-i---	n-e--s	nompl	i-ne-s	ai---	ai---
+s-oo--	l-i---	t-uu--	d-i---	n-u--m	genpl	i-nu-m	aarum	aarum
+s-oo--	l-i---	t-uu--	d-i---	n-e--s	accpl	i-ne-s	aa--s	aa--s
+_	soror		fh	3	46	6	f
+------	------	s-o---	r-o--r	------	nomsg	------	a----	a----
+------	------	s-o---	r-o---	r-i--s	gensg	---i-s	ii-us	ai---
+------	------	s-o---	r-o---	r-e--m	accsg	---e-m	a---m	a---m
+------	------	s-o---	r-o---	r-e--s	nompl	---e-s	ai---	ai---
+------	------	s-o---	r-o---	r-u--m	genpl	---u-m	aarum	aarum
+------	------	s-o---	r-o---	r-e--s	accpl	---e-s	aa--s	aa--s
+_	speciees		fs	25	25	6	m
+------	------	spe---	k-ie--	--e--s	nomsg	---e-s	a----	a----
+------	------	spe---	k-ie--	--e---	gensg	---e--	ii-us	ai---
+------	------	spe---	k-ie--	--e--m	accsg	---e-m	a---m	a---m
+_	speculum	n	4	9 	4	m
+------	spe---	k-u---	l-u--m	------	nomsg	---u-m	---ud	---um
+------	spe---	k-u---	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	spe---	k-u---	l-u--m	------	accsg	---u-m	---ud	---um
+------	spe---	k-u---	l-a---	------	nompl	---a--	a----	a----
+------	spe---	k-u---	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	spe---	k-u---	l-a---	------	accpl	---a--	a----	a----
+_	specus		m	2	2 	1	f
+------	------	------	spe---	k-u--s	nomsg	---u-s	e----	---us
+------	------	------	spe---	k-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	spe---	k-u--m	accsg	---u-m	---um	---um
+------	------	------	spe---	k-uu-s	nompl	---uus	ii---	ii---
+------	------	------	spe---	k-uu-m	genpl	---uum	oorum	oorum
+------	------	------	spe---	k-uu-s	accpl	---uus	oo--s	oo--s
+_	spiina		f	4	4 	3	f
+------	------	spii--	n-a---	------	nomsg	---a--	a----	a----
+------	------	spii--	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	spii--	n-a--m	------	accsg	---a-m	a---m	a---m
+------	------	spii--	n-ai--	------	nompl	---ai-	ai---	ai---
+------	------	spii--	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	spii--	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	spiiritus		m	2	2 	1	m
+------	------	spii--	r-i---	t-u--s	nomsg	---u-s	e----	---us
+------	------	spii--	r-i---	t-uu-s	gensg	---uus	ii-us	ii---
+------	------	spii--	r-i---	t-u--m	accsg	---u-m	---um	---um
+------	------	spii--	r-i---	t-uu-s	nompl	---uus	ii---	ii---
+------	------	spii--	r-i---	t-uu-m	genpl	---uum	oorum	oorum
+------	------	spii--	r-i---	t-uu-s	accpl	---uus	oo--s	oo--s
+_	sporta		f	2	2 	1	f
+------	------	spo--r	t-a---	------	nomsg	---a--	a----	a----
+------	------	spo--r	t-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	spo--r	t-a--m	------	accsg	---a-m	a---m	a---m
+------	------	spo--r	t-ai--	------	nompl	---ai-	ai---	ai---
+------	------	spo--r	t-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	spo--r	t-aa-s	------	accpl	---aas	aa--s	aa--s
+_	stella		f	12	25	6	f
+------	------	ste--l	l-a---	------	nomsg	---a--	a----	a----
+------	------	ste--l	l-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	ste--l	l-a--m	------	accsg	---a-m	a---m	a---m
+------	------	ste--l	l-ai--	------	nompl	---ai-	ai---	ai---
+------	------	ste--l	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	ste--l	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	substantia	f	2	2 	1	m
+s-u-bs	t-a--n	t-i---	--a---	------	nomsg	---a--	a----	a----
+s-u-bs	t-a--n	t-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+s-u-bs	t-a--n	t-i---	--a--m	------	accsg	---a-m	a---m	a---m
+s-u-bs	t-a--n	t-i---	--ai--	------	nompl	---ai-	ai---	ai---
+s-u-bs	t-a--n	t-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+s-u-bs	t-a--n	t-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	summa		f	6	4 	3	m
+------	------	s-u--m	m-a---	------	nomsg	---a--	a----	a----
+------	------	s-u--m	m-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	s-u--m	m-a--m	------	accsg	---a-m	a---m	a---m
+------	------	s-u--m	m-ai--	------	nompl	---ai-	ai---	ai---
+------	------	s-u--m	m-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	s-u--m	m-aa-s	------	accpl	---aas	aa--s	aa--s
+_	suubula		f	2	2 	1	m
+------	s-uu--	b-u---	l-a---	------	nomsg	---a--	a----	a----
+------	s-uu--	b-u---	l-ai--	------	gensg	---ai-	ii-us	ai---
+------	s-uu--	b-u---	l-a--m	------	accsg	---a-m	a---m	a---m
+------	s-uu--	b-u---	l-ai--	------	nompl	---ai-	ai---	ai---
+------	s-uu--	b-u---	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	s-uu--	b-u---	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	suucus		m	2	9 	3	m
+------	------	s-uu--	k-u--s	------	nomsg	---u-s	e----	---us
+------	------	s-uu--	k-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	s-uu--	k-u--m	------	accsg	---u-m	---um	---um
+------	------	s-uu--	k-ii--	------	nompl	---ii-	ii---	ii---
+------	------	s-uu--	k-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	s-uu--	k-oo-s	------	accpl	---oos	oo--s	oo--s
+_	syycomorus	f	2	2 	1	f
+s-ii--	k-o---	m-o---	r-u--s	------	nomsg	---u-s	a----	a----
+s-ii--	k-o---	m-o---	r-ii--	------	gensg	---ii-	ii-us	ai---
+s-ii--	k-o---	m-o---	r-u--m	------	accsg	---u-m	a---m	a---m
+s-ii--	k-o---	m-o---	r-ii--	------	nompl	---ii-	ai---	ai---
+s-ii--	k-o---	m-o---	r-oo--	r-u--m	genpl	ooru-m	aarum	aarum
+s-ii--	k-o---	m-o---	r-oo-s	------	accpl	---oos	aa--s	aa--s
+_	talenta		np	2	2 	1	b
+------	t-a---	l-e--n	t-a---	------	nompl	---a--	a----	a----
+------	t-a---	l-e--n	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	t-a---	l-e--n	t-a---	------	accpl	---a--	a----	a----
+_	tectum		n	17	30	6	m
+------	------	t-e--k	t-u--m	------	nomsg	---u-m	---ud	---um
+------	------	t-e--k	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	t-e--k	t-u--m	------	accsg	---u-m	---ud	---um
+------	------	t-e--k	t-a---	------	nompl	---a--	a----	a----
+------	------	t-e--k	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	t-e--k	t-a---	------	accpl	---a--	a----	a----
+_	templum		n	14	43	7	f
+------	------	t-e--m	plu--m	------	nomsg	---u-m	---ud	---um
+------	------	t-e--m	plii--	------	gensg	---ii-	ii-us	ii---
+------	------	t-e--m	plu--m	------	accsg	---u-m	---ud	---um
+------	------	t-e--m	pla---	------	nompl	---a--	a----	a----
+------	------	t-e--m	ploo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	t-e--m	pla---	------	accpl	---a--	a----	a----
+_	temptatio	f	2	2 	1	m
+------	t-e-mp	t-a---	t-io--	------	nomsg	------	a----	a----
+------	t-e-mp	t-a---	t-io--	n-i--s	gensg	o-ni-s	ii-us	ai---
+------	t-e-mp	t-a---	t-io--	n-e--m	accsg	o-ne-m	a---m	a---m
+------	t-e-mp	t-a---	t-io--	n-ee-s	nompl	o-nees	ai---	ai---
+------	t-e-mp	t-a---	t-io--	n-u--m	genpl	o-nu-m	aarum	aarum
+------	t-e-mp	t-a---	t-io--	n-ee-s	accpl	o-nees	aa--s	aa--s
+_	tempus		n	105	150	10	m
+------	------	t-e--m	p-u--s	------	nomsg	---u-s	---ud	---um
+------	------	t-e--m	p-o---	r-i--s	gensg	o-ri-s	ii-us	ii---
+------	------	t-e--m	p-u--s	------	accsg	---u-s	---ud	---um
+------	------	t-e--m	p-o---	r-a---	nompl	o-ra--	a----	a----
+------	------	t-e--m	p-o---	r-u--m	genpl	o-ru-m	oorum	oorum
+------	------	t-e--m	p-o---	r-a---	accpl	o-ra--	a----	a----
+_	tenebrae		fp	7	33	6	m
+------	t-e---	n-e---	brai--	------	nompl	---ai-	ai---	ai---
+------	t-e---	n-e---	braa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	t-e---	n-e---	braa-s	------	accpl	---aas	aa--s	aa--s
+_	tergum		n	26	24	6	m
+------	------	t-e--r	g-u--m	------	nomsg	---u-m	---ud	---um
+------	------	t-e--r	g-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	t-e--r	g-u--m	------	accsg	---u-m	---ud	---um
+------	------	t-e--r	g-a---	------	nompl	---a--	a----	a----
+------	------	t-e--r	g-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	t-e--r	g-a---	------	accpl	---a--	a----	a----
+_	terminus		m	2	7 	3	f
+------	t-e--r	m-i---	n-u--s	------	nomsg	---u-s	e----	---us
+------	t-e--r	m-i---	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	t-e--r	m-i---	n-u--m	------	accsg	---u-m	---um	---um
+------	t-e--r	m-i---	n-ii--	------	nompl	---ii-	ii---	ii---
+------	t-e--r	m-i---	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	t-e--r	m-i---	n-oo-s	------	accpl	---oos	oo--s	oo--s
+_	terra		f	58	134	9	f
+------	------	t-e--r	r-a---	------	nomsg	---a--	a----	a----
+------	------	t-e--r	r-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	t-e--r	r-a--m	------	accsg	---a-m	a---m	a---m
+------	------	t-e--r	r-ai--	------	nompl	---ai-	ai---	ai---
+------	------	t-e--r	r-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	t-e--r	r-aa-s	------	accpl	---aas	aa--s	aa--s
+_	testa		f	2	9 	3	m
+------	------	t-e--s	t-a---	------	nomsg	---a--	a----	a----
+------	------	t-e--s	t-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	t-e--s	t-a--m	------	accsg	---a-m	a---m	a---m
+------	------	t-e--s	t-ai--	------	nompl	---ai-	ai---	ai---
+------	------	t-e--s	t-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	t-e--s	t-aa-s	------	accpl	---aas	aa--s	aa--s
+_	thronus		m	2	2 	1	f
+------	------	tro---	n-u--s	------	nomsg	---u-s	e----	---us
+------	------	tro---	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	tro---	n-u--m	------	accsg	---u-m	---um	---um
+------	------	tro---	n-ii--	------	nompl	---ii-	ii---	ii---
+------	------	tro---	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	tro---	n-oo-s	------	accpl	---oos	oo--s	oo--s
+_	tinctus		m	2	2 	1	x
+------	------	t-i-nk	t-u--s	------	nomsg	---u-s	e----	---us
+------	------	t-i-nk	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	t-i-nk	t-u--m	------	accsg	---u-m	---um	---um
+------	------	t-i-nk	t-ii--	------	nompl	---ii-	ii---	ii---
+------	------	t-i-nk	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	t-i-nk	t-oo-s	------	accpl	---oos	oo--s	oo--s
+_	torrens		m	2	2 	1	m
+------	------	t-o--r	r-e-ns	------	nomsg	-----s	e----	---us
+------	------	t-o--r	r-e--n	t-i--s	gensg	--ti-s	ii-us	ii---
+------	------	t-o--r	r-e--n	t-e--m	accsg	--te-m	---um	---um
+------	------	t-o--r	r-e--n	t-e--s	nompl	--te-s	ii---	ii---
+------	------	t-o--r	r-e--n	t-u--m	genpl	--tu-m	oorum	oorum
+------	------	t-o--r	r-e--n	t-e--s	accpl	--te-s	oo--s	oo--s
+_	torta		f	2	2 	1	x
+------	------	t-o--r	t-a---	------	nomsg	---a--	a----	a----
+------	------	t-o--r	t-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	t-o--r	t-a--m	------	accsg	---a-m	a---m	a---m
+------	------	t-o--r	t-ai--	------	nompl	---ai-	ai---	ai---
+------	------	t-o--r	t-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	t-o--r	t-aa-s	------	accpl	---aas	aa--s	aa--s
+_	trabs		f	2	11	4	m
+------	------	------	tra-bs	------	nomsg	-----s	a----	a----
+------	------	------	tra--b	--i--s	gensg	---i-s	ii-us	ai---
+------	------	------	tra--b	--e--m	accsg	---e-m	a---m	a---m
+------	------	------	tra--b	--e--s	nompl	---e-s	ai---	ai---
+------	------	------	tra--b	--u--m	genpl	---u-m	aarum	aarum
+------	------	------	tra--b	--e--s	accpl	---e-s	aa--s	aa--s
+_	tribus		m	2	2 	1	f
+------	------	------	tri---	b-u--s	nomsg	---u-s	e----	---us
+------	------	------	tri---	b-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	tri---	b-u--m	accsg	---u-m	---um	---um
+------	------	------	tri---	b-uu-s	nompl	---uus	ii---	ii---
+------	------	------	tri---	b-uu-m	genpl	---uum	oorum	oorum
+------	------	------	tri---	b-uu-s	accpl	---uus	oo--s	oo--s
+_	tribuunus	mh	14	3 	4	m
+------	tri---	b-uu--	n-u--s	------	nomsg	---u-s	e----	---us
+------	tri---	b-uu--	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	tri---	b-uu--	n-u--m	------	accsg	---u-m	---um	---um
+------	tri---	b-uu--	n-ii--	------	nompl	---ii-	ii---	ii---
+------	tri---	b-uu--	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	tri---	b-uu--	n-oo-s	------	accpl	---oos	oo--s	oo--s
+_	tuba		f	7	12	5	m
+------	------	t-u---	b-a---	------	nomsg	---a--	a----	a----
+------	------	t-u---	b-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	t-u---	b-a--m	------	accsg	---a-m	a---m	a---m
+------	------	t-u---	b-ai--	------	nompl	---ai-	ai---	ai---
+------	------	t-u---	b-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	t-u---	b-aa-s	------	accpl	---aas	aa--s	aa--s
+_	turba		f	17	58	7	m
+------	------	t-u--r	b-a---	------	nomsg	---a--	a----	a----
+------	------	t-u--r	b-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	t-u--r	b-a--m	------	accsg	---a-m	a---m	a---m
+------	------	t-u--r	b-ai--	------	nompl	---ai-	ai---	ai---
+------	------	t-u--r	b-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	t-u--r	b-aa-s	------	accpl	---aas	aa--s	aa--s
+_	turma		f	2	2 	1	f
+------	------	t-u--r	m-a---	------	nomsg	---a--	a----	a----
+------	------	t-u--r	m-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	t-u--r	m-a--m	------	accsg	---a-m	a---m	a---m
+------	------	t-u--r	m-ai--	------	nompl	---ai-	ai---	ai---
+------	------	t-u--r	m-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	t-u--r	m-aa-s	------	accpl	---aas	aa--s	aa--s
+_	turris		f	10	5 	4	m
+------	------	------	t-u--r	r-i--s	nomsg	---i-s	a----	a----
+------	------	------	t-u--r	r-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	t-u--r	r-e--m	accsg	---e-m	a---m	a---m
+------	------	------	t-u--r	r-e--s	nompl	---e-s	ai---	ai---
+------	------	------	t-u--r	r-u--m	genpl	---u-m	aarum	aarum
+------	------	------	t-u--r	r-e--s	accpl	---e-s	aa--s	aa--s
+_	turtur		m	2	2 	1	b
+------	------	t-u--r	t-u--r	------	nomsg	------	e----	---us
+------	------	t-u--r	t-u---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	t-u--r	t-u---	r-e--m	accsg	---e-m	---um	---um
+------	------	t-u--r	t-u---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	t-u--r	t-u---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	t-u--r	t-u---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	tuuteela		f	7	6 	4	f
+------	t-uu--	t-ee--	l-a---	------	nomsg	---a--	a----	a----
+------	t-uu--	t-ee--	l-ai--	------	gensg	---ai-	ii-us	ai---
+------	t-uu--	t-ee--	l-a--m	------	accsg	---a-m	a---m	a---m
+------	t-uu--	t-ee--	l-ai--	------	nompl	---ai-	ai---	ai---
+------	t-uu--	t-ee--	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	t-uu--	t-ee--	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	tyrannus		mh	3	12	4	m
+------	t-i---	r-a--n	n-u--s	------	nomsg	---u-s	e----	---us
+------	t-i---	r-a--n	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	t-i---	r-a--n	n-u--m	------	accsg	---u-m	---um	---um
+------	t-i---	r-a--n	n-ii--	------	nompl	---ii-	ii---	ii---
+------	t-i---	r-a--n	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	t-i---	r-a--n	n-oo-s	------	accpl	---oos	oo--s	oo--s
+_	umbra		f	5	86	8	m
+------	------	--u--m	bra---	------	nomsg	---a--	a----	a----
+------	------	--u--m	brai--	------	gensg	---ai-	ii-us	ai---
+------	------	--u--m	bra--m	------	accsg	---a-m	a---m	a---m
+------	------	--u--m	brai--	------	nompl	---ai-	ai---	ai---
+------	------	--u--m	braa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	--u--m	braa-s	------	accpl	---aas	aa--s	aa--s
+_	unctus		mh	2	2 	1	m
+------	------	--u-nk	t-u--s	------	nomsg	---u-s	e----	---us
+------	------	--u-nk	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	--u-nk	t-u--m	------	accsg	---u-m	---um	---um
+------	------	--u-nk	t-ii--	------	nompl	---ii-	ii---	ii---
+------	------	--u-nk	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	--u-nk	t-oo-s	------	accpl	---oos	oo--s	oo--s
+_	unguis		m	3	11	4	b
+------	------	--u--n	g-u---	--i--s	nomsg	---i-s	e----	---us
+------	------	--u--n	g-u---	--i--s	gensg	---i-s	ii-us	ii---
+------	------	--u--n	g-u---	--e--m	accsg	---e-m	---um	---um
+------	------	--u--n	g-u---	--e--s	nompl	---e-s	ii---	ii---
+------	------	--u--n	g-u---	--u--m	genpl	---u-m	oorum	oorum
+------	------	--u--n	g-u---	--e--s	accpl	---e-s	oo--s	oo--s
+_	ungula		f	2	2 	1	b
+------	--u--n	g-u---	l-a---	------	nomsg	---a--	a----	a----
+------	--u--n	g-u---	l-ai--	------	gensg	---ai-	ii-us	ai---
+------	--u--n	g-u---	l-a--m	------	accsg	---a-m	a---m	a---m
+------	--u--n	g-u---	l-ai--	------	nompl	---ai-	ai---	ai---
+------	--u--n	g-u---	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	--u--n	g-u---	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	urbs		f	70	87	9	f
+------	------	------	--u-rb	s-----	nomsg	-----s	a----	a----
+------	------	------	--u-rb	--i--s	gensg	---i-s	ii-us	ai---
+------	------	------	--u-rb	--e--m	accsg	---e-m	a---m	a---m
+------	------	------	--u-rb	--e--s	nompl	---e-s	ai---	ai---
+------	------	------	--u-rb	--u--m	genpl	---u-m	aarum	aarum
+------	------	------	--u-rb	--e--s	accpl	---e-s	aa--s	aa--s
+_	uterus		m	3	4 	3	m
+------	--u---	t-e---	r-u--s	------	nomsg	---u-s	e----	---us
+------	--u---	t-e---	r-ii--	------	gensg	---ii-	ii-us	ii---
+------	--u---	t-e---	r-u--m	------	accsg	---u-m	---um	---um
+------	--u---	t-e---	r-ii--	------	nompl	---ii-	ii---	ii---
+------	--u---	t-e---	r-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	--u---	t-e---	r-oo-s	------	accpl	---oos	oo--s	oo--s
+_	uuniversum	n	2	2 	1	m
+--uu--	n-i---	v-e--r	s-u--m	------	nomsg	---u-m	---ud	---um
+--uu--	n-i---	v-e--r	s-ii--	------	gensg	---ii-	ii-us	ii---
+--uu--	n-i---	v-e--r	s-u--m	------	accsg	---u-m	---ud	---um
+--uu--	n-i---	v-e--r	s-a---	------	nompl	---a--	a----	a----
+--uu--	n-i---	v-e--r	s-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+--uu--	n-i---	v-e--r	s-a---	------	accpl	---a--	a----	a----
+_	uuva		f	2	18	5	x
+------	------	--uu--	v-a---	------	nomsg	---a--	a----	a----
+------	------	--uu--	v-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	--uu--	v-a--m	------	accsg	---a-m	a---m	a---m
+------	------	--uu--	v-ai--	------	nompl	---ai-	ai---	ai---
+------	------	--uu--	v-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	--uu--	v-aa-s	------	accpl	---aas	aa--s	aa--s
+_	uxor		fh	28	19	6	f
+------	------	--u--k	s-o--r	------	nomsg	------	a----	a----
+------	------	--u--k	s-o---	r-i--s	gensg	---i-s	ii-us	ai---
+------	------	--u--k	s-o---	r-e--m	accsg	---e-m	a---m	a---m
+------	------	--u--k	s-o---	r-e--s	nompl	---e-s	ai---	ai---
+------	------	--u--k	s-o---	r-u--m	genpl	---u-m	aarum	aarum
+------	------	--u--k	s-o---	r-e--s	accpl	---e-s	aa--s	aa--s
+_	vaas		n	2	4 	2	m
+------	------	------	v-aa-s	------	nomsg	------	---ud	---um
+------	------	------	v-aa--	s-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	v-aa--	s-e--m	accsg	---e-m	---ud	---um
+------	------	------	v-aa--	s-e--s	nompl	---e-s	a----	a----
+------	------	------	v-aa--	s-u--m	genpl	---u-m	oorum	oorum
+------	------	------	v-aa--	s-e--s	accpl	---e-s	a----	a----
+_	vacca		f	2	2 	1	f
+------	------	v-a--k	k-a---	------	nomsg	---a--	a----	a----
+------	------	v-a--k	k-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	v-a--k	k-a--m	------	accsg	---a-m	a---m	a---m
+------	------	v-a--k	k-ai--	------	nompl	---ai-	ai---	ai---
+------	------	v-a--k	k-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	v-a--k	k-aa-s	------	accpl	---aas	aa--s	aa--s
+_	vallis		f	2	16	4	x
+------	------	------	v-a--l	l-i--s	nomsg	---i-s	a----	a----
+------	------	------	v-a--l	l-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	v-a--l	l-e--m	accsg	---e-m	a---m	a---m
+------	------	------	v-a--l	l-e--s	nompl	---e-s	ai---	ai---
+------	------	------	v-a--l	l-u--m	genpl	---u-m	aarum	aarum
+------	------	------	v-a--l	l-e--s	accpl	---e-s	aa--s	aa--s
+_	vectis		m	2	2 	1	m
+------	------	------	v-e--k	t-i--s	nomsg	---i-s	e----	---us
+------	------	------	v-e--k	t-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	v-e--k	t-e--m	accsg	---e-m	---um	---um
+------	------	------	v-e--k	t-e--s	nompl	---e-s	ii---	ii---
+------	------	------	v-e--k	t-u--m	genpl	---u-m	oorum	oorum
+------	------	------	v-e--k	t-e--s	accpl	---e-s	oo--s	oo--s
+_	vectus		m	2	2 	1	m
+------	------	v-e--k	t-u--s	------	nomsg	---u-s	e----	---us
+------	------	v-e--k	t-o---	r-i--s	gensg	o-ri-s	ii-us	ii---
+------	------	v-e--k	t-u--s	------	accsg	---u-s	---um	---um
+------	------	v-e--k	t-o---	r-a---	nompl	o-ra--	ii---	ii---
+------	------	v-e--k	t-o---	r-u--m	genpl	o-ru-m	oorum	oorum
+------	------	v-e--k	t-o---	r-a---	accpl	o-ra--	oo--s	oo--s
+_	veelum		n	4	21	5	f
+------	------	v-ee--	l-u--m	------	nomsg	---u-m	---ud	---um
+------	------	v-ee--	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	v-ee--	l-u--m	------	accsg	---u-m	---ud	---um
+------	------	v-ee--	l-a---	------	nompl	---a--	a----	a----
+------	------	v-ee--	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	v-ee--	l-a---	------	accpl	---a--	a----	a----
+_	venter		m	6	4 	3	m
+------	------	v-e--n	t-e--r	------	nomsg	------	e----	---us
+------	------	v-e--n	t-e---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	v-e--n	t-e---	r-e--m	accsg	---e-m	---um	---um
+------	------	v-e--n	t-e---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	v-e--n	t-e---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	v-e--n	t-e---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	ventus		m	19	60	7	f
+------	------	v-e--n	t-u--s	------	nomsg	---u-s	e----	---us
+------	------	v-e--n	t-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	v-e--n	t-u--m	------	accsg	---u-m	---um	---um
+------	------	v-e--n	t-ii--	------	nompl	---ii-	ii---	ii---
+------	------	v-e--n	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	v-e--n	t-oo-s	------	accpl	---oos	oo--s	oo--s
+_	verbum		n	42	72	8	m
+------	------	v-e--r	b-u--m	------	nomsg	---u-m	---ud	---um
+------	------	v-e--r	b-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	v-e--r	b-u--m	------	accsg	---u-m	---ud	---um
+------	------	v-e--r	b-a---	------	nompl	---a--	a----	a----
+------	------	v-e--r	b-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	v-e--r	b-a---	------	accpl	---a--	a----	a----
+_	vermis		m	2	2 	1	m
+------	------	------	v-e--r	m-i--s	nomsg	---i-s	e----	---us
+------	------	------	v-e--r	m-i--s	gensg	---i-s	ii-us	ii---
+------	------	------	v-e--r	m-e--m	accsg	---e-m	---um	---um
+------	------	------	v-e--r	m-e--s	nompl	---e-s	ii---	ii---
+------	------	------	v-e--r	m-u--m	genpl	---u-m	oorum	oorum
+------	------	------	v-e--r	m-e--s	accpl	---e-s	oo--s	oo--s
+_	verna		f	2	2 	1	f
+------	------	v-e--r	n-a---	------	nomsg	---a--	a----	a----
+------	------	v-e--r	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	v-e--r	n-a--m	------	accsg	---a-m	a---m	a---m
+------	------	v-e--r	n-ai--	------	nompl	---ai-	ai---	ai---
+------	------	v-e--r	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	v-e--r	n-aa-s	------	accpl	---aas	aa--s	aa--s
+_	versus		m	12	47	7	m
+------	------	------	v-e--r	s-u--s	nomsg	---u-s	e----	---us
+------	------	------	v-e--r	s-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	v-e--r	s-u--m	accsg	---u-m	---um	---um
+------	------	------	v-e--r	s-uu-s	nompl	---uus	ii---	ii---
+------	------	------	v-e--r	s-uu-m	genpl	---uum	oorum	oorum
+------	------	------	v-e--r	s-uu-s	accpl	---uus	oo--s	oo--s
+_	vertex		m	5	24	5	m
+------	------	v-e--r	t-e-ks	------	nomsg	-----s	e----	---us
+------	------	v-e--r	t-e--k	--i--s	gensg	---i-s	ii-us	ii---
+------	------	v-e--r	t-e--k	--e--m	accsg	---e-m	---um	---um
+------	------	v-e--r	t-e--k	--e--s	nompl	---e-s	ii---	ii---
+------	------	v-e--r	t-e--k	--u--m	genpl	---u-m	oorum	oorum
+------	------	v-e--r	t-e--k	--e--s	accpl	---e-s	oo--s	oo--s
+_	verum		n	2	2 	1	m
+------	------	v-e---	r-u--m	------	nomsg	---u-m	---ud	---um
+------	------	v-e---	r-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	v-e---	r-u--m	------	accsg	---u-m	---ud	---um
+------	------	v-e---	r-a---	------	nompl	---a--	a----	a----
+------	------	v-e---	r-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	v-e---	r-a---	------	accpl	---a--	a----	a----
+_	vesper		m	3	10	4	m
+------	v-e--s	p-e--r	------	------	nomsg	------	e----	---us
+------	v-e--s	p-e---	r-ii--	------	gensg	---ii-	ii-us	ii---
+------	v-e--s	p-e---	r-u--m	------	accsg	---u-m	---um	---um
+------	v-e--s	p-e---	r-ii--	------	nompl	---ii-	ii---	ii---
+------	v-e--s	p-e---	r-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	v-e--s	p-e---	r-oo-s	------	accpl	---oos	oo--s	oo--s
+_	vestiimentum	n	10	3 	4	m
+v-e--s	t-ii--	m-e--n	t-u--m	------	nomsg	---u-m	---ud	---um
+v-e--s	t-ii--	m-e--n	t-ii--	------	gensg	---ii-	ii-us	ii---
+v-e--s	t-ii--	m-e--n	t-u--m	------	accsg	---u-m	---ud	---um
+v-e--s	t-ii--	m-e--n	t-a---	------	nompl	---a--	a----	a----
+v-e--s	t-ii--	m-e--n	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+v-e--s	t-ii--	m-e--n	t-a---	------	accpl	---a--	a----	a----
+_	vestis		f	11	30	6	m
+------	------	------	v-e--s	t-i--s	nomsg	---i-s	a----	a----
+------	------	------	v-e--s	t-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	v-e--s	t-e--m	accsg	---e-m	a---m	a---m
+------	------	------	v-e--s	t-e--s	nompl	---e-s	ai---	ai---
+------	------	------	v-e--s	t-u--m	genpl	---u-m	aarum	aarum
+------	------	------	v-e--s	t-e--s	accpl	---e-s	aa--s	aa--s
+_	vexillum		n	2	2 	1	f
+------	v-e--k	s-i--l	l-u--m	------	nomsg	---u-m	---ud	---um
+------	v-e--k	s-i--l	l-ii--	------	gensg	---ii-	ii-us	ii---
+------	v-e--k	s-i--l	l-u--m	------	accsg	---u-m	---ud	---um
+------	v-e--k	s-i--l	l-a---	------	nompl	---a--	a----	a----
+------	v-e--k	s-i--l	l-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	v-e--k	s-i--l	l-a---	------	accpl	---a--	a----	a----
+_	via		f	32	74	8	f
+------	------	v-i---	--a---	------	nomsg	---a--	a----	a----
+------	------	v-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+------	------	v-i---	--a--m	------	accsg	---a-m	a---m	a---m
+------	------	v-i---	--ai--	------	nompl	---ai-	ai---	ai---
+------	------	v-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	v-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	victooria		f	24	9 	6	f
+v-i--k	t-oo--	r-i---	--a---	------	nomsg	---a--	a----	a----
+v-i--k	t-oo--	r-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+v-i--k	t-oo--	r-i---	--a--m	------	accsg	---a-m	a---m	a---m
+v-i--k	t-oo--	r-i---	--ai--	------	nompl	---ai-	ai---	ai---
+v-i--k	t-oo--	r-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+v-i--k	t-oo--	r-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	victor		mh	14	33	6	m
+------	------	v-i--k	t-o--r	------	nomsg	------	e----	---us
+------	------	v-i--k	t-o---	r-i--s	gensg	---i-s	ii-us	ii---
+------	------	v-i--k	t-o---	r-e--m	accsg	---e-m	---um	---um
+------	------	v-i--k	t-o---	r-e--s	nompl	---e-s	ii---	ii---
+------	------	v-i--k	t-o---	r-u--m	genpl	---u-m	oorum	oorum
+------	------	v-i--k	t-o---	r-e--s	accpl	---e-s	oo--s	oo--s
+_	viiciinia		f	2	2 	1	f
+v-ii--	k-ii--	n-i---	--a---	------	nomsg	---a--	a----	a----
+v-ii--	k-ii--	n-i---	--ai--	------	gensg	---ai-	ii-us	ai---
+v-ii--	k-ii--	n-i---	--a--m	------	accsg	---a-m	a---m	a---m
+v-ii--	k-ii--	n-i---	--ai--	------	nompl	---ai-	ai---	ai---
+v-ii--	k-ii--	n-i---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+v-ii--	k-ii--	n-i---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	viiciinus		mh	3	23	5	m
+------	v-ii--	k-ii--	n-u--s	------	nomsg	---u-s	e----	---us
+------	v-ii--	k-ii--	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	v-ii--	k-ii--	n-u--m	------	accsg	---u-m	---um	---um
+------	v-ii--	k-ii--	n-ii--	------	nompl	---ii-	ii---	ii---
+------	v-ii--	k-ii--	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	v-ii--	k-ii--	n-oo-s	------	accpl	---oos	oo--s	oo--s
+_	viinea		f	2	2 	1	f
+------	v-ii--	n-e---	--a---	------	nomsg	---a--	a----	a----
+------	v-ii--	n-e---	--ai--	------	gensg	---ai-	ii-us	ai---
+------	v-ii--	n-e---	--a--m	------	accsg	---a-m	a---m	a---m
+------	v-ii--	n-e---	--ai--	------	nompl	---ai-	ai---	ai---
+------	v-ii--	n-e---	--aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	v-ii--	n-e---	--aa-s	------	accpl	---aas	aa--s	aa--s
+_	viinum		n	12	13	5	m
+------	------	v-ii--	n-u--m	------	nomsg	---u-m	---ud	---um
+------	------	v-ii--	n-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	v-ii--	n-u--m	------	accsg	---u-m	---ud	---um
+------	------	v-ii--	n-a---	------	nompl	---a--	a----	a----
+------	------	v-ii--	n-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	v-ii--	n-a---	------	accpl	---a--	a----	a----
+_	viipera		f	2	2 	1	f
+------	v-ii--	p-e---	r-a---	------	nomsg	---a--	a----	a----
+------	v-ii--	p-e---	r-ai--	------	gensg	---ai-	ii-us	ai---
+------	v-ii--	p-e---	r-a--m	------	accsg	---a-m	a---m	a---m
+------	v-ii--	p-e---	r-ai--	------	nompl	---ai-	ai---	ai---
+------	v-ii--	p-e---	r-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	v-ii--	p-e---	r-aa-s	------	accpl	---aas	aa--s	aa--s
+_	viis		f	75	66	9	m
+------	------	------	v-ii-s	------	nomsg	------	a----	a----
+------	------	------	v-ii-s	------	gensg	------	ii-us	ai---
+------	------	------	v-ii--	s-e--m	accsg	---e-m	a---m	a---m
+------	------	------	v-ii--	s-e--s	nompl	---e-s	ai---	ai---
+------	------	------	v-ii--	s-u--m	genpl	---u-m	aarum	aarum
+------	------	------	v-ii--	s-e--s	accpl	---e-s	aa--s	aa--s
+_	viisio		f	2	2 	1	m
+------	------	v-ii--	s-io--	------	nomsg	------	a----	a----
+------	------	v-ii--	s-io--	n-i--s	gensg	o-ni-s	ii-us	ai---
+------	------	v-ii--	s-io--	n-e--m	accsg	o-ne-m	a---m	a---m
+------	------	v-ii--	s-io--	n-ee-s	nompl	o-nees	ai---	ai---
+------	------	v-ii--	s-io--	n-u--m	genpl	o-nu-m	aarum	aarum
+------	------	v-ii--	s-io--	n-ee-s	accpl	o-nees	aa--s	aa--s
+_	viita		f	57	152	9	m
+------	------	v-ii--	t-a---	------	nomsg	---a--	a----	a----
+------	------	v-ii--	t-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	v-ii--	t-a--m	------	accsg	---a-m	a---m	a---m
+------	------	v-ii--	t-ai--	------	nompl	---ai-	ai---	ai---
+------	------	v-ii--	t-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	v-ii--	t-aa-s	------	accpl	---aas	aa--s	aa--s
+_	villa		f	22	4 	5	f
+------	------	v-i--l	l-a---	------	nomsg	---a--	a----	a----
+------	------	v-i--l	l-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	v-i--l	l-a--m	------	accsg	---a-m	a---m	a---m
+------	------	v-i--l	l-ai--	------	nompl	---ai-	ai---	ai---
+------	------	v-i--l	l-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	v-i--l	l-aa-s	------	accpl	---aas	aa--s	aa--s
+_	vir		mh	77	142	9	m
+------	------	v-i--r	------	------	nomsg	------	e----	---us
+------	------	v-i---	r-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	v-i---	r-u--m	------	accsg	---u-m	---um	---um
+------	------	v-i---	r-ii--	------	nompl	---ii-	ii---	ii---
+------	------	v-i---	r-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	v-i---	r-oo-s	------	accpl	---oos	oo--s	oo--s
+_	virga		f	4	8 	4	m
+------	------	v-i--r	g-a---	------	nomsg	---a--	a----	a----
+------	------	v-i--r	g-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	v-i--r	g-a--m	------	accsg	---a-m	a---m	a---m
+------	------	v-i--r	g-ai--	------	nompl	---ai-	ai---	ai---
+------	------	v-i--r	g-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	v-i--r	g-aa-s	------	accpl	---aas	aa--s	aa--s
+_	virgo		fh	2	66	7	f
+------	------	v-i--r	g-o---	------	nomsg	---o--	a----	a----
+------	------	v-i--r	g-i---	n-i--s	gensg	i-ni-s	ii-us	ai---
+------	------	v-i--r	g-i---	n-e--m	accsg	i-ne-m	a---m	a---m
+------	------	v-i--r	g-i---	n-e--s	nompl	i-ne-s	ai---	ai---
+------	------	v-i--r	g-i---	n-u--m	genpl	i-nu-m	aarum	aarum
+------	------	v-i--r	g-i---	n-e--s	accpl	i-ne-s	aa--s	aa--s
+_	voluntas		f	25	2 	5	m
+------	v-o---	l-u--n	t-aa-s	------	nomsg	-----s	a----	a----
+------	v-o---	l-u--n	t-aa--	t-i--s	gensg	--ti-s	ii-us	ai---
+------	v-o---	l-u--n	t-aa--	t-e--m	accsg	--te-m	a---m	a---m
+------	v-o---	l-u--n	t-aa--	t-e--s	nompl	--te-s	ai---	ai---
+------	v-o---	l-u--n	t-aa--	t-u--m	genpl	--tu-m	aarum	aarum
+------	v-o---	l-u--n	t-aa--	t-e--s	accpl	--te-s	aa--s	aa--s
+_	voox		f	30	75	8	b
+------	------	------	v-ooks	------	nomsg	-----s	a----	a----
+------	------	------	v-oo--	k-i--s	gensg	---i-s	ii-us	ai---
+------	------	------	v-oo--	k-e--m	accsg	---e-m	a---m	a---m
+------	------	------	v-oo--	k-e--s	nompl	---e-s	ai---	ai---
+------	------	------	v-oo--	k-u--m	genpl	---u-m	aarum	aarum
+------	------	------	v-oo--	k-e--s	accpl	---e-s	aa--s	aa--s
+_	vota		np	9	74	7	f
+------	------	v-o---	t-a---	------	nompl	---a--	a----	a----
+------	------	v-o---	t-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	v-o---	t-a---	------	accpl	---a--	a----	a----
+_	vulgus		n	11	18	5	m
+------	------	v-u--l	g-u--s	------	nomsg	---u-s	---ud	---um
+------	------	v-u--l	g-ii--	------	gensg	---ii-	ii-us	ii---
+------	------	v-u--l	g-u--m	------	accsg	---u-m	---ud	---um
+------	------	v-u--l	g-ii--	------	nompl	---ii-	a----	a----
+------	------	v-u--l	g-oo--	r-u--m	genpl	ooru-m	oorum	oorum
+------	------	v-u--l	g-oo-s	------	accpl	---oos	a----	a----
+_	vulnus		n	21	30	6	m
+------	v-u--l	n-u--s	------	------	nomsg	---u-s	---ud	---um
+------	v-u--l	n-e---	r-i--s	------	gensg	e-ri-s	ii-us	ii---
+------	v-u--l	n-u--s	------	------	accsg	---u-s	---ud	---um
+------	v-u--l	n-e---	r-a---	------	nompl	e-ra--	a----	a----
+------	v-u--l	n-e---	r-oo--	r-u--m	genpl	e-ru-m	oorum	oorum
+------	v-u--l	n-e---	r-a---	------	accpl	e-ra--	a----	a----
+_	vulpees		f	2	3 	2	m
+------	------	v-u--l	p-ee-s	------	nomsg	---e-s	a----	a----
+------	------	v-u--l	p-e---	--i--s	gensg	---i-s	ii-us	ai---
+------	------	v-u--l	p-ee-m	------	accsg	---e-m	a---m	a---m
+------	------	v-u--l	p-ee-s	------	nompl	---e-s	ai---	ai---
+------	------	v-u--l	p-e---	--u--m	genpl	---u-m	aarum	aarum
+------	------	v-u--l	p-ee-s	------	accpl	---e-s	aa--s	aa--s
+_	vultus		m	19	58	7	m
+------	------	------	v-u--l	t-u--s	nomsg	---u-s	e----	---us
+------	------	------	v-u--l	t-uu-s	gensg	---uus	ii-us	ii---
+------	------	------	v-u--l	t-u--m	accsg	---u-m	---um	---um
+------	------	------	v-u--l	t-uu-s	nompl	---uus	ii---	ii---
+------	------	------	v-u--l	t-uu-m	genpl	---uum	oorum	oorum
+------	------	------	v-u--l	t-uu-s	accpl	---uus	oo--s	oo--s
+_	vulva		f	2	2 	1	f
+------	------	v-u--l	v-a---	------	nomsg	---a--	a----	a----
+------	------	v-u--l	v-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	v-u--l	v-a--m	------	accsg	---a-m	a---m	a---m
+------	------	v-u--l	v-ai--	------	nompl	---ai-	ai---	ai---
+------	------	v-u--l	v-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	v-u--l	v-aa-s	------	accpl	---aas	aa--s	aa--s
+_	zoona		f	2	2 	1	m
+------	------	z-oo--	n-a---	------	nomsg	---a--	a----	a----
+------	------	z-oo--	n-ai--	------	gensg	---ai-	ii-us	ai---
+------	------	z-oo--	n-a--m	------	accsg	---a-m	a---m	a---m
+------	------	z-oo--	n-ai--	------	nompl	---ai-	ai---	ai---
+------	------	z-oo--	n-aa--	r-u--m	genpl	aaru-m	aarum	aarum
+------	------	z-oo--	n-aa-s	------	accpl	---aas	aa--s	aa--s
